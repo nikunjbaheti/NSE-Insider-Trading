@@ -6,19 +6,20 @@ import yfinance as yf
 import os
 import logging
 
-logging.basicConfig(filename="data_update.log",
-                    format='%(asctime)s %(message)s')
+logging.basicConfig(filename="data_update.log", format='%(asctime)s %(message)s')
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 # Fields to track
-columns = ['date', 'ticker', 'company_name', 'person_name', 'person_category',
-           'transaction_type', 'shares_before_acq', 'pct_before_acq',
-           'number_of_securities', 'value_of_securities', 'shares_after_acq', 
-           'pct_after_acq', 'acq_mode', 'security_type', 'xbrl_link']
-
-# insider_df = pd.DataFrame(columns=columns)
-# insider_df.to_csv('insider.csv')
+columns = ['ticker', 'company_name', 'regulation', 'person_name', 'person_category',
+           'type_of_security_prior', 'no_of_security_prior', 'pct_shareholding_prior',
+           'type_of_security_acquired', 'no_of_securities_acquired', 'value_of_securities_acquired',
+           'transaction_type', 'type_of_security_post', 'no_of_security_post', 'pct_post',
+           'date_of_allotment_acquisition_from', 'date_of_allotment_acquisition_to',
+           'date_of_intimation_to_company', 'mode_of_acquisition', 'derivative_type_security',
+           'derivative_contract_specification', 'notional_value_buy', 'units_contract_lot_size_buy',
+           'notional_value_sell', 'units_contract_lot_size_sell', 'exchange', 'remark',
+           'broadcast_date_and_time', 'xbrl_link']
 
 insider_df = pd.read_csv('insider.csv', index_col=0, parse_dates=['date'])  # load csv file
 
@@ -44,6 +45,7 @@ else:
         company_name = trade_data['company']
         ticker = trade_data['symbol']
         person_name = trade_data['acqName'].lower()
+        regulation = trade_data['anex'].lower()
 
         if 'personCategory' in trade_data:
             person_category = trade_data['personCategory'].lower()
@@ -55,8 +57,8 @@ else:
         else:
             number_of_securities = 0
 
-        if type(trade_data['secVal']) == str:
-            value_of_securities = int(trade_data['secVal'])
+        if type(trade_data['secVal']) == str and trade_data['secVal'].replace('.', '', 1).isdigit():
+            value_of_securities = int(float(trade_data['secVal']))
         else:
             value_of_securities = 0
 
@@ -83,23 +85,51 @@ else:
             pct_after_acq = float(trade_data['afterAcqSharesPer'])
 
         acq_mode = trade_data['acqMode']
+        type_of_security_prior = trade_data['secType']
         security_type = trade_data['secType']
+        date_of_allotment_acquisition_from = trade_data['acqfromDt']
+        date_of_allotment_acquisition_to = trade_data['acqtoDt']
+        date_of_intimation_to_company = trade_data['intimDt']
+        exchange = trade_data['exchange']
+        derivative_type_security = trade_data['derivativeType']
+        derivative_contract_specification = trade_data['derivativeType']
+        notional_value_buy = trade_data['derivativeType']
+        units_contract_lot_size_buy = trade_data['derivativeType']
+        notional_value_sell = trade_data['derivativeType']
+        units_contract_lot_size_sell = trade_data['derivativeType']
+        no_of_security_prior = trade_data['befAcqSharesNo']
+        pct_shareholding_prior = trade_data['befAcqSharesPer']
+        type_of_security_acquired = trade_data['secType']
+        no_of_securities_acquired = trade_data['secAcq']
+        value_of_securities_acquired = trade_data['secVal']
+        type_of_security_post = trade_data['securitiesTypePost']
+        no_of_security_post = trade_data['afterAcqSharesNo']
+        pct_post = trade_data['afterAcqSharesPer']
+        mode_of_acquisition= trade_data['acqMode']
+        broadcast_date_and_time = trade_data['date']
+        remark = trade_data['derivativeType']
         xbrl_link = trade_data['xbrl']
 
-        row = [date, ticker, company_name, person_name, person_category, number_of_securities, value_of_securities,
-               transaction_type, shares_before_acq, shares_after_acq, pct_before_acq, pct_after_acq, acq_mode,
-               security_type, xbrl_link]
+        # Add missing columns with default values or adjust the number of elements in the row
+        row = [
+            ticker, company_name, regulation, person_name, person_category,
+            type_of_security_prior, no_of_security_prior, pct_shareholding_prior,
+            type_of_security_acquired, no_of_securities_acquired, value_of_securities_acquired,
+            transaction_type, type_of_security_post, no_of_security_post, pct_post,
+            date_of_allotment_acquisition_from, date_of_allotment_acquisition_to,
+            date_of_intimation_to_company, mode_of_acquisition, derivative_type_security,
+            derivative_contract_specification, notional_value_buy, units_contract_lot_size_buy,
+            notional_value_sell, units_contract_lot_size_sell, exchange, remark,
+            broadcast_date_and_time, xbrl_link
+        ]
 
+        # Make sure the length of the row matches the length of the columns
         day_df.loc[len(day_df.index)] = row
 
-    # Post processing of the dataframe
-    # day_df = day_df.drop_duplicates()  # removing the duplicates
-    # combine trades from same company same person
-    # day_df = combine_trade(day_df)
-    # Merging with the insider dataframe
-    # before doing this make sure there are no overlapping trades
-    # latest_date = insider_df['date'].max()
-    # day_df = day_df[day_df['date'] > latest_date].copy()
+        # Print trade information for debugging
+        print(f"Processed trade {i+1}/{len(insider_data)}: {ticker} - {company_name}")
+
+    # Post-processing of the dataframe
     logger.info(f'entries added: {len(day_df)}')
     insider_df = pd.concat([day_df, insider_df], ignore_index=True)
     insider_df.to_csv('insider.csv')
