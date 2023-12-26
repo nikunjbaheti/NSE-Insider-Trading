@@ -15,8 +15,9 @@ You can install them using:
 
 ```bash
 pip install requests_html pandas numpy yfinance
+```
 
-## Usage
+# Usage
 
 1. Clone the repository:
 
@@ -36,8 +37,6 @@ cd NSE-Insider-Trading
 python script_name.py
 ```
 
-Replace `script_name.py` with the actual name of your Python script.
-
 # Configuration
 
 Make sure to configure the following parameters in the script:
@@ -50,6 +49,5 @@ Make sure to configure the following parameters in the script:
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Remember to replace `script_name.py` with the actual name of your Python script, and update the configuration parameters accordingly.
