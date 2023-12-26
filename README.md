@@ -2,7 +2,7 @@
 
 This Python script fetches insider trading data from the NSE India API, processes the data, and updates it in a CSV file named `insider.csv`. The script also pushes the updated CSV file to a GitHub repository for version control.
 
-## Dependencies
+# Dependencies
 
 Make sure you have the following Python libraries installed:
 
@@ -38,7 +38,7 @@ python script_name.py
 
 Replace `script_name.py` with the actual name of your Python script.
 
-## Configuration
+# Configuration
 
 Make sure to configure the following parameters in the script:
 
@@ -47,7 +47,7 @@ Make sure to configure the following parameters in the script:
 - `repo_name`: The name of your GitHub repository.
 - `file_path`: The path to the insider.csv file in your GitHub repository.
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
