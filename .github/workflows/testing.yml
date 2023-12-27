@@ -33,8 +33,6 @@ jobs:
 
       - name: Run insider_trading_data.py
         run: python insider_trading_data.py
-        env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Wait for 20 minutes
         if: ${{ github.event_name == 'schedule' }}
@@ -42,5 +40,3 @@ jobs:
 
       - name: Run Promoter_Pledge.py
         run: python Promoter_Pledge.py
-        env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
