@@ -1,11 +1,6 @@
 from requests_html import HTMLSession
-from datetime import timedelta
-import os
-import numpy as np
-import pandas as pd
 from datetime import datetime
-import yfinance as yf
-import os
+import pandas as pd
 import logging
 import requests
 import base64
@@ -38,7 +33,7 @@ def get_data():
     else:
         error_text = f"Request failed with status code {response.status_code}"
         return error_text
-     
+
 logging.basicConfig(filename="data_update.log", format='%(asctime)s %(message)s')
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -53,7 +48,7 @@ pledge_df = pd.read_csv('pledge.csv')  # load csv file
 
 # Delete existing data in the pledge.csv file
 pledge_df = pd.DataFrame(columns=columns)
-pledge_df.to_csv(insider_file_path, index=False)
+pledge_df.to_csv(pledge_file_path, index=False)
 
 data = get_data()  # fetch data obtained from API
 
@@ -74,9 +69,6 @@ else:
         trade_data = pledge_data[i]
         date = datetime.strptime(trade_data['date'], '%d-%b-%Y %H:%M')
 
-    for i in range(len(pledge_data)):
-        trade_data = pledge_data[i]
-       
         company_name = trade_data['comName']
         
         total_promoter_holding_pct = trade_data['percPromoterHolding']
@@ -94,7 +86,7 @@ else:
         day_df.loc[len(day_df.index)] = row
         
         # Specify the columns for checking duplicates
-         duplicate_check_columns = ['company_name', 'total_promoter_holding_pct', 'promoter_shares_encumbered', 'promoter_shares_encumbered_pct']
+        duplicate_check_columns = ['company_name', 'total_promoter_holding_pct', 'promoter_shares_encumbered', 'promoter_shares_encumbered_pct']
 
         # Create a pandas Series for the current row
         current_row = pd.Series(row, index=columns)
@@ -106,9 +98,6 @@ else:
         if not is_duplicate:
             day_df.loc[len(day_df.index)] = row
 
-        # Print trade information for debugging
-        # print(f"Processed trade {i+1}/{len(pledge_data)}: {ticker} - {company_name}")
-
 # Post-processing of the dataframe
 logger.info(f'entries added: {len(day_df)}')
 pledge_df = pd.concat([day_df, pledge_df], ignore_index=True)
@@ -117,8 +106,8 @@ pledge_df = pd.concat([day_df, pledge_df], ignore_index=True)
 pledge_df.to_csv(pledge_file_path, index=False)
 
 # GitHub credentials and repository information
-github_user = "your_user_name"
-github_token = "your_personal_access_token"
+github_user = "nikunjbaheti"
+github_token = os.getenv("GITHUB_TOKEN")
 repo_name = "NSE-Insider-Trading"
 file_path = "pledge.csv"
 
@@ -155,4 +144,3 @@ elif response.status_code == 404:
     print(create_response.text)
 else:
     print(f"Failed to check file existence. Status code: {response.status_code}")
-
