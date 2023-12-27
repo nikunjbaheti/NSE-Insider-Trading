@@ -34,10 +34,5 @@ jobs:
         if: ${{ github.event_name == 'schedule' }}
         run: sleep 1200  # 1200 seconds = 20 minutes
 
-      - name: Setup Python (again)
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10' # install the Python version needed
-
       - name: Run Promoter_Pledge.py
         run: python Promoter_Pledge.py
