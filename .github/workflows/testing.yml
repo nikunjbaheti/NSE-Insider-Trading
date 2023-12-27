@@ -1,12 +1,12 @@
 name: Run Scripts
 
 on:
-	workflow_dispatch:
-	inputs:
-	run-now:
-	description: 'Run scripts immediately'
-			required: false
-			default: 'false'
+workflow_dispatch:
+inputs:
+run-now:
+description: 'Run scripts immediately'
+required: false
+default: 'false'
   
   schedule:
     - cron: '0 * * * *' # Schedule every hour	
