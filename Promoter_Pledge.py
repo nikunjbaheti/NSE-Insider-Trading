@@ -117,8 +117,8 @@ pledge_df = pd.concat([day_df, pledge_df], ignore_index=True)
 pledge_df.to_csv(pledge_file_path, index=False)
 
 # GitHub credentials and repository information
-github_user = "github_use_name"
-github_token = "github_api_token"
+github_user = "nikunjbaheti"
+github_token = "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"
 repo_name = "NSE-Insider-Trading"
 file_path = "pledge.csv"
 
