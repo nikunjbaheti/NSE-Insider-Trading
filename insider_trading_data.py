@@ -231,8 +231,8 @@ insider_df = pd.concat([day_df, insider_df], ignore_index=True)
 insider_df.to_csv(insider_file_path, index=False)
 
 # GitHub credentials and repository information
-github_user = "nikunjbaheti"
-github_token = "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"
+github_user = "your_user_name"
+github_token = "your_personal_access_token"
 repo_name = "NSE-Insider-Trading"
 file_path = "insider.csv"
 
