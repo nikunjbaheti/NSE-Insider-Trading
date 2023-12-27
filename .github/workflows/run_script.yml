@@ -1,13 +1,8 @@
 name: Run Scripts
 
 on:
-  workflow_run:
-    workflows: ["push"]
-    types:
-      - completed
-
   schedule:
-    - cron: '0 */12 * * *' # Schedule every 12 hours
+    - cron: '0 * * * *' # Schedule every hour
 
 jobs:
   run-scripts:
@@ -33,4 +28,5 @@ jobs:
       run: sleep 3600  # 3600 seconds = 1 hour
 
     - name: Run Promoter_Pledge.py
-      run: python https://github.com/nikunjbaheti/NSE-Insider-Trading/Promoter_Pledge.py
+      run: https://github.com/nikunjbaheti/NSE-Insider-Trading/Promoter_Pledge.py
+      
