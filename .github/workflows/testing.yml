@@ -2,9 +2,9 @@ name: Run Scripts
 
 on:
 	workflow_dispatch:
-		inputs:
-		run-now:
-			description: 'Run scripts immediately'
+	inputs:
+	run-now:
+	description: 'Run scripts immediately'
 			required: false
 			default: 'false'
   
