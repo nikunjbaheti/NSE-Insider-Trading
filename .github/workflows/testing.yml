@@ -32,11 +32,11 @@ jobs:
         run: pip install requests-html numpy pandas yfinance
 
       - name: Run insider_trading_data.py
-        run: python insider_trading_data.py
+        run: python insider_trading_data.py ${{ secrets.TOKEN }}
 
      # - name: Wait for 20 minutes
       #  if: ${{ github.event_name == 'schedule' }}
        # run: sleep 1200  # 1200 seconds = 20 minutes
 
       - name: Run Promoter_Pledge.py
-        run: python Promoter_Pledge.py
+        run: python Promoter_Pledge.py ${{ secrets.TOKEN }}
