@@ -67,7 +67,7 @@ else:
     # Iterate through insider data
     for i in range(len(pledge_data)):
         trade_data = pledge_data[i]
-        date = datetime.strptime(trade_data['date'], '%d-%b-%Y %H:%M')
+        #date = datetime.strptime(trade_data['date'], '%d-%b-%Y %H:%M')
 
         company_name = trade_data['comName']
         
