@@ -1,0 +1,39 @@
+name: Run Scripts
+
+on:
+  workflow_dispatch:
+    inputs:
+      run-now:
+        description: 'Run scripts immediately'
+        required: false
+        default: 'false'
+
+  schedule:
+    - cron: '0 * * * *' # Schedule every hour
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2.4.4
+
+    - name: Set up Python
+      uses: actions/setup-python@v2.6.3
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt  # Adjust if you have dependencies
+
+    - name: Run insider_trading_data.py
+      run: python https://github.com/nikunjbaheti/NSE-Insider-Trading/insider_trading_data.py
+
+    - name: Wait for 1 hour
+      if: ${{ github.event_name == 'schedule' }}
+      run: sleep 3600  # 3600 seconds = 1 hour
+
+    - name: Run Promoter_Pledge.py
+      run: python https://github.com/nikunjbaheti/NSE-Insider-Trading/Promoter_Pledge.py
