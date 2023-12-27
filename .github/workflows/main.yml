@@ -1,0 +1,31 @@
+name: Run Scripts
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Schedule every hour
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt  # Adjust if you have dependencies
+
+    - name: Run insider_trading_data.py
+      run: python path/to/insider_trading_data.py
+
+    - name: Wait for 1 hour
+      run: sleep 3600  # 3600 seconds = 1 hour
+
+    - name: Run Promoter_Pledge.py
+      run: python path/to/Promoter_Pledge.py
