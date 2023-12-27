@@ -1,1 +1,0 @@
-python insider_trading_data.py
