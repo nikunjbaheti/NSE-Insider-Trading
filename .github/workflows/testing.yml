@@ -17,10 +17,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2.4.4
+      uses: actions/checkout@v2
 
     - name: Set up Python
-      uses: actions/setup-python@v2.6.3
+      uses: actions/setup-python@v2
       with:
         python-version: 3.8
 
@@ -29,11 +29,11 @@ jobs:
         pip install -r requirements.txt  # Adjust if you have dependencies
 
     - name: Run insider_trading_data.py
-      run: python https://github.com/nikunjbaheti/NSE-Insider-Trading/insider_trading_data.py
+      run: python insider_trading_data.py
 
     - name: Wait for 1 hour
       if: ${{ github.event_name == 'schedule' }}
       run: sleep 3600  # 3600 seconds = 1 hour
 
     - name: Run Promoter_Pledge.py
-      run: python https://github.com/nikunjbaheti/NSE-Insider-Trading/Promoter_Pledge.py
+      run: python Promoter_Pledge.py
