@@ -1,6 +1,7 @@
 from requests_html import HTMLSession
 from datetime import datetime
 import pandas as pd
+import os
 import logging
 import requests
 import base64
