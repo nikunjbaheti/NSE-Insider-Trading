@@ -46,6 +46,14 @@ jobs:
       - name: Run Promoter_Pledge.py
         run: python Promoter_Pledge.py
 
+      - name: Commit and push changes (if any)
+        run: |
+         git config --local user.email "actions@github.com"
+         git config --local user.name "GitHub Actions"
+         git add .
+         git commit -m "Update data $(date -u +'%Y-%m-%d %H:%M:%S')"
+         git push
+
       - name: Use PAT to commit and push changes
         run: |
           # Set the PAT as an environment variable
