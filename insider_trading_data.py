@@ -232,7 +232,7 @@ insider_df.to_csv(insider_file_path, index=False)
 
 # GitHub credentials and repository information
 github_user = "nikunjbaheti"
-github_token = "PAT_TOKEN"
+github_token = os.environ.get('PAT_TOKEN')
 repo_name = "NSE-Insider-Trading"
 file_path = "insider.csv"
 
