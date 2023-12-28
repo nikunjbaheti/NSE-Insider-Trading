@@ -34,7 +34,7 @@ jobs:
       - name: Use the PAT for authentication
         run: |
           # Use the PAT as an environment variable
-          export TOKEN=$PAT_TOKEN
+          export PAT_TOKEN=${{ secrets.PAT_TOKEN }}
 
       - name: Run insider_trading_data.py
         run: python insider_trading_data.py
