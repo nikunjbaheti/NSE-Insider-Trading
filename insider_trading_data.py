@@ -236,6 +236,10 @@ github_token = os.environ.get('PAT_TOKEN')
 repo_name = "NSE-Insider-Trading"
 file_path = "insider.csv"
 
+# Check if the PAT is available
+if github_token is None:
+    raise ValueError("GitHub PAT not found. Make sure to set the 'PAT_TOKEN' environment variable.")
+
 # GitHub API endpoints
 base_url = f"https://api.github.com/repos/{github_user}/{repo_name}"
 contents_url = f"{base_url}/contents/insider.csv"
