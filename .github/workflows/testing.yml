@@ -27,6 +27,10 @@ jobs:
         run: |
           python -m venv venv
           source venv/bin/activate 
+      
+      - name: Upgrade pip
+        run: |
+          pip install --upgrade pip
 
       - name: Install dependencies
         run: pip install requests-html numpy pandas yfinance
@@ -34,14 +38,46 @@ jobs:
       - name: Use the PAT for authentication
         run: |
           # Use the PAT as an environment variable
-          export PAT_TOKEN=${{ secrets.PAT_TOKEN }}
+          export PAT_TOKEN=$PAT_TOKEN
 
       - name: Run insider_trading_data.py
         run: python insider_trading_data.py
 
-     # - name: Wait for 20 minutes
-      #  if: ${{ github.event_name == 'schedule' }}
-       # run: sleep 1200  # 1200 seconds = 20 minutes
-
       - name: Run Promoter_Pledge.py
         run: python Promoter_Pledge.py
+
+      - name: Use PAT to commit and push changes
+        run: |
+          # Set the PAT as an environment variable
+          export GITHUB_TOKEN=$PAT_TOKEN
+
+          # GitHub credentials and repository information
+          github_user="nikunjbaheti"
+          repo_name="NSE-Insider-Trading"
+          file_path="insider.csv"
+
+          # GitHub API endpoints
+          base_url="https://api.github.com/repos/$github_user/$repo_name"
+          contents_url="$base_url/contents/$file_path"
+
+          # Read the contents of the file
+          file_content=$(base64 insider.csv)
+
+          # Create a commit message
+          commit_message="Update insider.csv"
+
+          # Check if the file exists on the repository
+          response=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: token $GITHUB_TOKEN" $contents_url)
+
+          if [ $response -eq 200 ]; then
+              # If the file exists, update it
+              sha=$(curl -s -H "Authorization: token $GITHUB_TOKEN" $contents_url | jq -r .sha)
+              payload="{\"message\": \"$commit_message\", \"content\": \"$file_content\", \"sha\": \"$sha\"}"
+              curl -X PUT -H "Authorization: token $GITHUB_TOKEN" -d "$payload" $contents_url
+          elif [ $response -eq 404 ]; then
+              # If the file doesn't exist, create it
+              payload="{\"message\": \"$commit_message\", \"content\": \"$file_content\"}"
+              curl -X PUT -H "Authorization: token $GITHUB_TOKEN" -d "$payload" $contents_url
+          else
+              echo "Failed to check file existence. Status code: $response"
+          fi
