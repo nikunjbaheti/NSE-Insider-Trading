@@ -108,7 +108,7 @@ pledge_df.to_csv(pledge_file_path, index=False)
 
 # GitHub credentials and repository information
 github_user = "nikunjbaheti"
-github_token = os.getenv("GITHUB_TOKEN")
+github_token = github.token
 repo_name = "NSE-Insider-Trading"
 file_path = "pledge.csv"
 
