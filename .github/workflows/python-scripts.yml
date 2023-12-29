@@ -22,14 +22,18 @@ jobs:
       run: |
         pip install -r requirements.txt  # add this if you have any requirements
 
+    - name: Set up Environment Variables
+      run: |
+        echo "PAT_TOKEN=${{ secrets.PAT_TOKEN }}" >> $GITHUB_ENV
+
     - name: Run Script 1
-      run: python scripts/script1.py
+      run: python scripts/Github_Insider.py
 
-    - name: Run Script 2
-      run: python scripts/script2.py
+    #- name: Run Script 2
+    #  run: python scripts/script2.py
 
-    - name: Run Script 3
-      run: python scripts/script3.py
+    #- name: Run Script 3
+    #  run: python scripts/script3.py
 
     - name: Commit and Push Changes
       run: |
