@@ -3,5 +3,4 @@ numpy
 pandas
 yfinance
 schedule
-time
 base64
