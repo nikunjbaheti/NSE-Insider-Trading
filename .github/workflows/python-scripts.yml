@@ -15,9 +15,7 @@ jobs:
 
     - name: Set up Python
       uses: actions/setup-python@v2
-      with:
-        python-version: 3.8  # choose the Python version you need
-
+      
     - name: Install Dependencies
       run: |
         pip install requests-html numpy pandas yfinance base64 schedule time  # add this if you have any requirements
