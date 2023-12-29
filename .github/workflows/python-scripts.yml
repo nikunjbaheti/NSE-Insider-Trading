@@ -11,16 +11,23 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.12' 
-      
+
+    - name: Set up virtual environment
+      run: python -m venv venv
+
+    - name: Activate virtual environment
+      run: source venv/bin/activate
+
     - name: Install Dependencies
       run: |
-        pip install requests-html numpy pandas yfinance base64 schedule time  # add this if you have any requirements
+        pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Set up Environment Variables
       run: |
