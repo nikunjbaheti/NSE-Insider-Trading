@@ -20,7 +20,7 @@ jobs:
 
     - name: Install Dependencies
       run: |
-        pip install -r requirements.txt  # add this if you have any requirements
+        pip install requests-html numpy pandas yfinance base64 schedule time  # add this if you have any requirements
 
     - name: Set up Environment Variables
       run: |
