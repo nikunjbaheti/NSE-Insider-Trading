@@ -2,3 +2,6 @@ requests-html
 numpy
 pandas
 yfinance
+schedule
+time
+base64
