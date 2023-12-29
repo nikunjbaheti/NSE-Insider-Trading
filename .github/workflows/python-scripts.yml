@@ -9,16 +9,17 @@ jobs:
   run-scripts:
     runs-on: ubuntu-latest
 
-  env:
+    env:
       PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-      steps:
+
+    steps:
       - name: Checkout Repository
-      uses: actions/checkout@v4
+        uses: actions/checkout@v4
 
       - name: Set up Python
-      uses: actions/setup-python@v4
+        uses: actions/setup-python@v4
         with:
-        python-version: '3.12' 
+          python-version: '3.12'
 
       - name: Set up virtual environment
         run: python -m venv venv
@@ -38,11 +39,11 @@ jobs:
       - name: Run Script 1
         run: python Github_Insider.py
 
-    #- name: Run Script 2
-    #  run: python scripts/script2.py
+      #- name: Run Script 2
+      #  run: python scripts/script2.py
 
-    #- name: Run Script 3
-    #  run: python scripts/script3.py
+      #- name: Run Script 3
+      #  run: python scripts/script3.py
 
       - name: Commit and Push Changes
         run: |
