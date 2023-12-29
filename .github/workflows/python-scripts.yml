@@ -1,0 +1,40 @@
+name: Python Scripts
+
+on:
+  push:
+    branches:
+      - main  # adjust this based on your default branch name
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8  # choose the Python version you need
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt  # add this if you have any requirements
+
+    - name: Run Script 1
+      run: python scripts/script1.py
+
+    - name: Run Script 2
+      run: python scripts/script2.py
+
+    - name: Run Script 3
+      run: python scripts/script3.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Automated script execution"
+        git push
