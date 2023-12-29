@@ -9,6 +9,8 @@ jobs:
   run-scripts:
     runs-on: ubuntu-latest
 
+env:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
