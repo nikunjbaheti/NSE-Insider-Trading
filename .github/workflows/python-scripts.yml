@@ -1,9 +1,9 @@
 name: Python Scripts
 
-on:
-  push:
-    branches:
-      - main  # adjust this based on your default branch name
+#on:
+#  push:
+#    branches:
+#      - main  # adjust this based on your default branch name
 
 jobs:
   run-scripts:
