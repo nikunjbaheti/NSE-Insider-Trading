@@ -14,7 +14,7 @@ def get_market_cap():
     pass
 
 def main():
-    scripts_to_run = ["Symbols.py", "StkData.py", "Updated_Mktcap.py", "promoter_pledge.py", "insider_trading_data.py"]
+    scripts_to_run = ["Github_Insider.py"]
 
     # Get the current time
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
