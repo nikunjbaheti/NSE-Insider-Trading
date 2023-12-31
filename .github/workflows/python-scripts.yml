@@ -1,54 +1,29 @@
-name: Python Scripts
+name: Python Script Execution
 
-#on:
-#  push:
-#    branches:
-#      - main  # adjust this based on your default branch name
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  run-scripts:
+  run-script:
     runs-on: ubuntu-latest
 
-    env:
-      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10
 
-      - name: Set up virtual environment
-        run: python -m venv venv
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
 
-      - name: Activate virtual environment
-        run: source venv/bin/activate
-
-      - name: Install Dependencies
-        run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Set up Environment Variables
-        run: |
-          echo "PAT_TOKEN=${{ secrets.PAT_TOKEN }}" >> $GITHUB_ENV
-
-      - name: Run Script 1
-        run: python Github_Insider.py
-
-      #- name: Run Script 2
-      #  run: python scripts/script2.py
-
-      #- name: Run Script 3
-      #  run: python scripts/script3.py
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Automated script execution"
-          git push
+    - name: Run script
+      run: python python/Github_auto_execute.py
+      env:
+        GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+        GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
