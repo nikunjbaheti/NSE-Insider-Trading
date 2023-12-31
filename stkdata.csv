@@ -1274,7 +1274,7 @@ KOTAKLIQ,Mutual Fund Scheme,Financial Services,Financial Services,Capital Market
 KOTAKLOVOL,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKMID50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKMNC,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+KOTAKNIFTY,,,,
 KOTAKNV20,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKPSUBK,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKSILVE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -1535,7 +1535,7 @@ MUTHOOTCAP,Non Banking Financial Company (NBFC),Financial Services,Financial Ser
 MUTHOOTFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 MUTHOOTMF,Microfinance Institutions,Financial Services,Financial Services,Finance
 MVGJL,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-MWL,Trading - Metals,Commodities,Metals & Mining,Metals & Minerals Trading
+MWL,,,,
 NABARD,,,,
 NABARD,,,,
 NACLIND,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -1752,7 +1752,7 @@ PILITA,Plastic Products - Consumer,Consumer Discretionary,Consumer Durables,Cons
 PIONEEREMB,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 PITTIENG,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 PIXTRANS,Rubber,Industrials,Capital Goods,Industrial Products
-PKTEA,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+PKTEA,,,,
 PLADAINFO,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
 PLASTIBLEN,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 PLAZACABLE,Cables - Electricals,Industrials,Capital Goods,Industrial Products
@@ -2199,7 +2199,7 @@ SPANDANA,Microfinance Institutions,Financial Services,Financial Services,Finance
 SPARC,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SPCENET,Trading & Distributors,Services,Services,Commercial Services & Supplies
 SPECIALITY,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
-SPECTRUM,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
+SPECTRUM,,,,
 SPECTSTM,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 SPENCERS,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 SPENTEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
