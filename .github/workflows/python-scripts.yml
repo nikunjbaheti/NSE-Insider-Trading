@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r python/requirements.txt
+        pip install requests-html numpy pandas yfinance schedule
 
     - name: Run script
       run: python python/Github_auto_execute.py
