@@ -1,9 +1,6 @@
 name: Run Python Scripts
 
 on:
-  push:
-    branches:
-      - main  # Change this to your main branch
   workflow_dispatch:  # Triggered manually
   schedule:
     - cron: '0 0,12 * * *'  # Run every 12 hours
