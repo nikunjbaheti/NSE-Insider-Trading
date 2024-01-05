@@ -1,0 +1,48 @@
+name: Run Python Scripts
+
+on:
+  workflow_dispatch:  # Triggered manually
+
+jobs:
+  build:
+    name: Build and Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+
+      - name: Update pip
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Install requirements
+        run: |
+          python -m pip install requests_html numpy pandas yfinance  # Replace 'path/to/requirements.txt' with the actual path
+
+      - name: Run Symbols.py
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          python Symbols.py  # Replace 'path/to/Symbols.py' with the actual path
+
+      - name: Upload CSV file to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: symbols-csv
+          path: ./Symbols.csv  # Update the path to the actual location of your symbols.csv file
+
+      - name: Display uploaded files
+        run: ls ${{ github.workspace }}/Symbols.csv  # Update the path accordingly
+
+      - name: Create or update Symbols.csv
+        run: |
+          echo "Your CSV data" > Symbols.csv
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add Symbols.csv
+          git commit -m "Automated commit - Symbols.csv" || true
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
