@@ -3,4 +3,3 @@ datetime
 numpy
 pandas
 yfinance
-logging
