@@ -27,10 +27,14 @@ jobs:
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          python Symbols.py  # Replace 'path/to/Symbols.py' with the actual path
+          python Symbols.py
+        #  python StkData.py
+        #  python Updated_Mktcap.py
+        #  python promoter_pledge.py
+        #  python insider_trading_data.py
 
       - name: Upload CSV file to GitHub
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: symbols-csv
           path: ./Symbols.csv  # Update the path to the actual location of your symbols.csv file
