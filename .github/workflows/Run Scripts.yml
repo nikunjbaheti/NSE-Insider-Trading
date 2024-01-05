@@ -23,7 +23,7 @@ jobs:
         run: |
           python -m pip install requests_html numpy pandas yfinance  # Replace 'path/to/requirements.txt' with the actual path
 
-      - name: Run Symbols.py
+      - name: Run Python Scripts
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
@@ -34,14 +34,14 @@ jobs:
           python insider_trading_data.py
 
       - name: Create or update CSV files
-     	 run: |
-        # Assuming CSV files are in the same directory
-        for file in *.csv; do
-          [ -e "$file" ] || continue
-          echo "Processing $file"
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add "$file"
-          git commit -m "Automated commit - $file" || true
-        done
-	git push
+        run: |
+          # Assuming CSV files are in the same directory
+          for file in *.csv; do
+            [ -e "$file" ] || continue
+            echo "Processing $file"
+            git config --global user.email "actions@github.com"
+            git config --global user.name "GitHub Actions"
+            git add "$file"
+            git commit -m "Automated commit - $file" || true
+          done
+          git push
