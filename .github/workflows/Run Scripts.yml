@@ -33,58 +33,15 @@ jobs:
           python promoter_pledge.py
           python insider_trading_data.py
 
-      - name: Upload CSV file to GitHub
-        uses: actions/upload-artifact@v4
-        with:
-          name: symbols-csv
-          path: ./Symbols.csv  # Update the path to the actual location of your symbols.csv file
-
-      - name: Display uploaded files
-        run: ls ${{ github.workspace }}/Symbols.csv  # Update the path accordingly
-
-      - name: Create or update Symbols.csv
-        run: |
-          echo "Your CSV data" > Symbols.csv
+      - name: Create or update CSV files
+     	 run: |
+        # Assuming CSV files are in the same directory
+        for file in *.csv; do
+          [ -e "$file" ] || continue
+          echo "Processing $file"
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add Symbols.csv
-          git commit -m "Automated commit - Symbols.csv" || true
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-          
-      - name: Create or update insider.csv
-        run: |
-          echo "Your CSV data" > insider.csv
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add insider.csv
-          git commit -m "Automated commit - insider.csv" || true
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-		  
-      - name: Create or update mktcap.csv
-        run: |
-          echo "Your CSV data" > mktcap.csv
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add mktcap.csv
-          git commit -m "Automated commit - mktcap.csv" || true
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-		  
-      - name: Create or update pledge.csv
-        run: |
-          echo "Your CSV data" > pledge.csv
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add pledge.csv
-          git commit -m "Automated commit - pledge.csv" || true
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-		  
-      - name: Create or update stkdata.csv
-        run: |
-          echo "Your CSV data" > stkdata.csv
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add stkdata.csv
-          git commit -m "Automated commit - stkdata.csv" || true
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+          git add "$file"
+          git commit -m "Automated commit - $file" || true
+        done
+	git push
