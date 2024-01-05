@@ -23,7 +23,7 @@ jobs:
 
       - name: Install requirements
         run: |
-          python -m pip install requests_html schedule numpy pandas yfinance  # Replace 'path/to/requirements.txt' with the actual path
+          python -m pip install requests-html datetime numpy pandas yfinance logging base64 schedule  # Replace 'path/to/requirements.txt' with the actual path
 
       - name: Run Python Scripts
         env:
