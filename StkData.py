@@ -49,7 +49,7 @@ mktcap_df = pd.DataFrame(columns=columns)
 
 # Iterate through each symbol and fetch data
 for index, row in symbols_df.iterrows():
-    symbol = row['Symbol']
+    symbol = row['SYMBOL']
     industry_data = get_stock_data(symbol, session)
 
     if industry_data is not None:
