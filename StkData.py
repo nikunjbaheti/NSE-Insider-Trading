@@ -8,8 +8,6 @@ import yfinance as yf
 import os
 import logging
 import requests
-import base64
-import schedule
 import time
 
 def get_stock_data(symbol, session):
