@@ -4,5 +4,3 @@ numpy
 pandas
 yfinance
 logging
-base64
-schedule
