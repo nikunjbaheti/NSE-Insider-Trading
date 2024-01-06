@@ -9,7 +9,6 @@ import os
 import logging
 import requests
 import base64
-import schedule
 import time
 
 def get_data():
