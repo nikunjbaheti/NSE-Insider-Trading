@@ -38,7 +38,7 @@ def get_stock_data(symbol, session):
 # Read symbols from "Symbols.csv" file
 symbols_df = pd.read_csv('Symbols.csv')
 
-print(df.head())
+print(symbols_df.head())
 
 # Create an HTML session
 session = HTMLSession()
