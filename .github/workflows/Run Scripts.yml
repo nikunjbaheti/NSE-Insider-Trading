@@ -2,6 +2,9 @@ name: Run Python Scripts
 
 on:
   workflow_dispatch:  # Triggered manually
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 0,12 * * *'  # Run every 12 hours
 
