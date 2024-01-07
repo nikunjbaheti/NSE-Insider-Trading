@@ -46,7 +46,7 @@ mktcap_df = pd.DataFrame(columns=columns)
 
 # Iterate through each symbol and fetch data
 for index, row in symbols_df.iterrows():
-    symbol = row['Symbol']
+    symbol = row.iloc[0]
     market_cap = get_market_cap(symbol, session)
 
     if market_cap is not None:
