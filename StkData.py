@@ -1,13 +1,5 @@
 from requests_html import HTMLSession
-from datetime import timedelta
-import os
-import numpy as np
 import pandas as pd
-from datetime import datetime
-import yfinance as yf
-import os
-import requests
-import time
 
 def get_stock_data(symbol, session):
     # Construct the URL with the symbol
@@ -15,9 +7,6 @@ def get_stock_data(symbol, session):
     
     # Open an HTML session with the URL
     response = session.get(url)
-    
-    # Add a delay to ensure the page is loaded before making the API call
-    # time.sleep(5)
     
     # Make the API call
     api_url = f"https://www.nseindia.com/api/quote-equity?symbol={symbol}"
@@ -30,7 +19,7 @@ def get_stock_data(symbol, session):
         macro = data.get('industryInfo', {}).get('macro', None)
         sector = data.get('industryInfo', {}).get('sector', None)
         
-        return basic_industry, industry, macro, sector  # Correct indentation here
+        return basic_industry, industry, macro, sector
     else:
         error_text = f"Request for symbol {symbol} failed with status code {api_response.status_code}"
         return None
@@ -51,7 +40,7 @@ mktcap_df = pd.DataFrame(columns=columns)
 
 # Iterate through each symbol and fetch data
 for index, row in symbols_df.iterrows():
-    symbol = row['Symbol']
+    symbol = row.iloc[0]  # Use the data in the first column
     industry_data = get_stock_data(symbol, session)
 
     if industry_data is not None:
