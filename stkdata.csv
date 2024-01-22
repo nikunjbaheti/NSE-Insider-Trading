@@ -504,17 +504,17 @@ DATAPATTNS,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 DBCORP,Print Media,Consumer Discretionary,Media Entertainment & Publication,Media
 DBL,Civil Construction,Industrials,Construction,Construction
 DBOL,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-DBREALTY,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
+DBREALTY,,,,
 DBSTOCKBRO,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
-DCAL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+DCAL,,,,
 DCBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 DCI,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
 DCM,IT Enabled Services,Information Technology,Information Technology,IT - Services
 DCMFINSERV,Investment Company,Financial Services,Financial Services,Finance
 DCMNVL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-DCMSHRIRAM,Diversified,Diversified,Diversified,Diversified
-DCMSRIND,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-DCW,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+DCMSHRIRAM,,,,
+DCMSRIND,,,,
+DCW,,,,
 DCXINDIA,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 DECCANCE,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 DEEPAKFERT,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
