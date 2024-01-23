@@ -483,16 +483,16 @@ CREST,Non Banking Financial Company (NBFC),Financial Services,Financial Services
 CRISIL,Other Financial Services,Financial Services,Financial Services,Finance
 CROMPTON,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 CROWN,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-CSBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
-CSLFINANCE,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
+CSBBANK,,,,
+CSLFINANCE,,,,
 CTE,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 CUB,Private Sector Bank,Financial Services,Financial Services,Banks
 CUBEXTUB,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
 CUMMINSIND,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
 CUPID,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
-CYBERMEDIA,Electronic Media,Consumer Discretionary,Media Entertainment & Publication,Media
+CYBERMEDIA,,,,
 CYBERTECH,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-CYIENT,IT Enabled Services,Information Technology,Information Technology,IT - Services
+CYIENT,,,,
 CYIENTDLM,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 DABUR,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 DALBHARAT,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
