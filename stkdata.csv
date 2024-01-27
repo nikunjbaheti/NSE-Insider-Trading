@@ -821,23 +821,23 @@ GRMOVER,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consu
 GROBTEA,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 GRPLTD,Rubber,Industrials,Capital Goods,Industrial Products
 GRSE,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
-GRWRHITECH,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
+GRWRHITECH,,,,
 GSEC10IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GSEC10YEAR,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-GSEC5IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+GSEC5IETF,,,,
 GSFC,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-GSLSU,Granites & Marbles,Consumer Discretionary,Consumer Durables,Consumer Durables
-GSPL,Gas Transmission/Marketing,Energy,Oil Gas & Consumable Fuels,Gas
+GSLSU,,,,
+GSPL,,,,
 GSS,IT Enabled Services,Information Technology,Information Technology,IT - Services
 GSTL,IT Enabled Services,Information Technology,Information Technology,IT - Services
 GTECJAINX,E-Learning,Consumer Discretionary,Consumer Services,Other Consumer Services
-GTL,Other Telecom Services,Telecommunication,Telecommunication,Telecom - Services
-GTLINFRA,Telecom - Infrastructure,Telecommunication,Telecommunication,Telecom - Services
+GTL,,,,
+GTLINFRA,,,,
 GTPL,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 GUFICBIO,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 GUJALKALI,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-GUJAPOLLO,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-GUJGASLTD,Gas Transmission/Marketing,Energy,Oil Gas & Consumable Fuels,Gas
+GUJAPOLLO,,,,
+GUJGASLTD,,,,
 GUJRAFFIA,Packaging,Industrials,Capital Goods,Industrial Products
 GULFOILLUB,Lubricants,Energy,Oil Gas & Consumable Fuels,Petroleum Products
 GULFPETRO,Lubricants,Energy,Oil Gas & Consumable Fuels,Petroleum Products
@@ -926,9 +926,9 @@ HMT,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 HMVL,Print Media,Consumer Discretionary,Media Entertainment & Publication,Media
 HNDFDS,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diversified FMCG
 HNGSNGBEES,,,,
-HOLMARC,,,,
+HOLMARC,Other Industrial Products,Industrials,Capital Goods,Industrial Products
 HOMEFIRST,Housing Finance Company,Financial Services,Financial Services,Finance
-HOMESFY,,,,
+HOMESFY,Real Estate related services,Consumer Discretionary,Realty,Realty
 HONASA,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 HONAUT,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 HONDAPOWER,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
@@ -1012,7 +1012,7 @@ IIFL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,
 IIFL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 IIFL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 IIFL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-IIFLSEC,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
+IIFLSEC,,,,
 IIHFL,,,,
 IIHFL,,,,
 IIHFL,,,,
@@ -1853,7 +1853,7 @@ RBL,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Comp
 RBLBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 RBMINFRA,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 RBZJEWEL,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-RCDL,,,,
+RCDL,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 RCF,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
 RECLTD,Financial Institution,Financial Services,Financial Services,Finance
 RECLTD,Financial Institution,Financial Services,Financial Services,Finance
@@ -2079,7 +2079,7 @@ SHAKTIPUMP,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industri
 SHALBY,Hospital,Healthcare,Healthcare,Healthcare Services
 SHALPAINTS,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
 SHANKARA,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
-SHANTHALA,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Cigarettes & Tobacco Products
+SHANTHALA,,,,
 SHANTI,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 SHANTIGEAR,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 SHARDACROP,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -2270,7 +2270,7 @@ TAJGVK,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Service
 TAKE,Healthcare Research Analytics & Technology,Healthcare,Healthcare,Healthcare Services
 TALBROAUTO,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 TANLA,Software Products,Information Technology,Information Technology,IT - Software
-TAPIFRUIT,,,,
+TAPIFRUIT,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 TARACHAND,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 TARAPUR,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 TARC,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
