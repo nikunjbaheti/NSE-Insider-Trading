@@ -52,7 +52,7 @@ Ahluwalia Contracts (India) Limited,    55.32,0,     0.00
 Airo Lam limited,    53.01,1500200,    18.86
 Ajanta Pharma Limited,    66.21,10278971,    12.33
 Ajmera Realty & Infra India Limited,    69.73,1950000,     7.88
-Akg Exim Limited,    57.84,0,     0.00
+Akg Exim Limited,    57.84,,
 Aksh Optifibre Limited,    26.77,0,     0.00
 Akzo Nobel India Limited,    74.76,0,     0.00
 Alankit Limited,    52.02,0,     0.00
@@ -131,7 +131,7 @@ Atlas Cycles (Haryana) Limited,    41.92,0,     0.00
 Atul Limited,    45.07,130000,     0.98
 Aurionpro Solutions Limited,    30.18,1970000,    26.54
 Aurobindo Pharma Limited,    51.83,57403862,    18.90
-Aurum PropTech Limited,    50.34,0,     0.00
+Aurum PropTech Limited,    50.34,,
 Ausom Enterprise Limited,    73.70,0,     0.00
 Autoline Industries Limited,    33.39,0,     0.00
 Automotive Axles Limited,    71.04,0,     0.00
@@ -419,7 +419,7 @@ GE Power India Limited,    68.58,0,     0.00
 GE T&D India Limited,    75.00,0,     0.00
 GFL Limited,    68.72,0,     0.00
 GHCL Limited,    19.03,200244,     1.10
-GIC Housing Finance Limited,    42.41,0,     0.00
+GIC Housing Finance Limited,    42.41,,
 GKW Limited,    75.00,0,     0.00
 GM Breweries Limited,    74.43,0,     0.00
 GMR Airports Infrastructure Limited,    59.07,2258823947,    63.35
@@ -447,7 +447,7 @@ GeeCee Ventures Limited,    67.71,0,     0.00
 Genesys International Corporation Limited,    39.62,786046,     5.24
 Gensol Engineering Limited,    62.59,10140552,    42.78
 Genus Paper & Boards Limited,    50.51,7000000,     5.39
-Genus Power Infrastructures Limited,    50.30,79131609,    61.06
+Genus Power Infrastructures Limited,    50.27,80131609,    61.83
 Geojit Financial Services Limited,    54.59,0,     0.00
 Ghcl Textiles Limited,    19.15,200244,     1.09
 Gillanders Arbuthnot & Company Limited,    69.08,0,     0.00
@@ -578,7 +578,7 @@ Impex Ferro Tech Limited,    69.10,60764846,   100.00
 Ind-Swift Laboratories Limited,    42.00,21553851,    86.84
 Ind-Swift Limited,    55.58,12888400,    42.81
 Indbank Merchant Banking Services Limited,    64.84,0,     0.00
-India Glycols Limited,    61.01,0,     0.00
+India Glycols Limited,    61.01,,
 India Motor Parts and Accessories Limited,    30.71,0,     0.00
 India Nippon Electricals Limited,    70.37,0,     0.00
 Indiabulls Housing Finance Limited,     1.71,0,     0.00
@@ -859,7 +859,7 @@ NDL Ventures Limited,    64.67,0,     0.00
 NELCO Limited,    50.09,0,     0.00
 NHPC Limited,    70.95,0,     0.00
 NIIT Limited,    34.73,0,     0.00
-NK Industries Limited,    58.36,0,     0.00
+NK Industries Limited,    73.27,0,     0.00
 NLC India Limited,    79.20,0,     0.00
 NMDC Limited,    60.79,0,     0.00
 NOCIL Limited,    33.84,5464857,     9.69
@@ -1165,6 +1165,7 @@ Shriram Finance Limited,    25.43,0,     0.00
 Shyam Century Ferrous Limited,    51.70,0,     0.00
 Shyam Telecom Limited,    66.16,0,     0.00
 Siemens Limited,    75.00,17806012,     6.67
+Sigachi Industries Limited,    48.49,0,     0.00
 Simbhaoli Sugars Limited,    53.33,2632498,    11.96
 Simplex Infrastructures Limited,    49.82,0,     0.00
 Sintercom India Limited,    69.75,700000,     3.65
@@ -1257,7 +1258,7 @@ TVS Srichakra Limited,    45.70,0,     0.00
 Tainwala Chemical and Plastic (I) Limited,    67.45,0,     0.00
 Taj GVK Hotels & Resorts Limited,    74.99,0,     0.00
 Take Solutions Limited,    53.41,0,     0.00
-Talbros Automotive Components Limited,    58.42,0,     0.00
+Talbros Automotive Components Limited,    58.42,,
 Talwalkars Better Value Fitness Limited,    32.89,7122000,    69.83
 Talwalkars Healthclubs Limited,    31.62,7292000,    74.39
 Tamil Nadu Newsprint & Papers Limited,    35.32,0,     0.00
@@ -1423,7 +1424,7 @@ Walchandnagar Industries Limited,    34.83,11042285,    68.89
 Wanbury Limited,    39.79,9998304,    76.74
 Websol Energy System Limited,    27.71,9270782,    79.28
 Weizmann Limited,    67.87,0,     0.00
-Welspun Corp Limited,    50.00,0,     0.00
+Welspun Corp Limited,    50.00,,
 Welspun Enterprises Limited,    55.96,0,     0.00
 Welspun Investments and Commercials Limited,    74.58,0,     0.00
 Welspun Living Limited,    71.51,0,     0.00
