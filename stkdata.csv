@@ -710,9 +710,9 @@ EXXARO,Ceramics,Consumer Discretionary,Consumer Durables,Consumer Durables
 FACT,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
 FAIRCHEMOR,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 FAZE3Q,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-FCL,,,,
+FCL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 FCONSUMER,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-FCSSOFT,,,,
+FCSSOFT,IT Enabled Services,Information Technology,Information Technology,IT - Services
 FDC,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 FEDERALBNK,Private Sector Bank,Financial Services,Financial Services,Banks
 FEDFINA,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
@@ -732,8 +732,8 @@ FLAIR,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household
 FLEXITUFF,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 FLFL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 FLUOROCHEM,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-FMCGIETF,,,,
-FMGOETZE,,,,
+FMCGIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+FMGOETZE,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 FMNL,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 FOCE,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 FOCUS,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -924,10 +924,10 @@ HEXATRADEX,Investment Company,Financial Services,Financial Services,Finance
 HFCL,Telecom - Infrastructure,Telecommunication,Telecommunication,Telecom - Services
 HGINFRA,Civil Construction,Industrials,Construction,Construction
 HGS,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
-HIGREEN,,,,
-HIKAL,,,,
-HIL,,,,
-HILTON,,,,
+HIGREEN,Waste Management,Utilities,Utilities,Other Utilities
+HIKAL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+HIL,Furniture Home Furnishing,Consumer Discretionary,Consumer Durables,Consumer Durables
+HILTON,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 HIMATSEIDE,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 HINDALCO,Aluminium,Commodities,Metals & Mining,Non - Ferrous Metals
 HINDCOMPOS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
