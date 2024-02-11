@@ -652,8 +652,8 @@ ELDEHSG,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 ELECON,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 ELECTCAST,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 ELECTHERM,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-ELGIEQUIP,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
-ELGIRUBCO,Rubber,Industrials,Capital Goods,Industrial Products
+ELGIEQUIP,,,,
+ELGIRUBCO,,,,
 ELIN,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EMAMILTD,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 EMAMIPAP,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
@@ -746,6 +746,7 @@ GANGAFORGE,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 GANGESSECU,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 GARFIBRES,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 GATECH,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
+GATECHDVR,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 GATEWAY,Logistics Solution Provider,Services,Services,Transport Services
 GAYAPROJ,Civil Construction,Industrials,Construction,Construction
 GEECEE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
@@ -820,9 +821,9 @@ GRAPHISAD,Advertising & Media Agencies,Consumer Discretionary,Media Entertainmen
 GRAPHITE,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
 GRASIM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 GRASIMPP,,,,
-GRAVITA,Industrial Minerals,Commodities,Metals & Mining,Minerals & Mining
+GRAVITA,,,,
 GRCL,,,,
-GREAVESCOT,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
+GREAVESCOT,,,,
 GREENCHEF,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 GREENLAM,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 GREENPANEL,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
