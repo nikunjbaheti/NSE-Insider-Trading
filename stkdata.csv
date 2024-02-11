@@ -652,8 +652,8 @@ ELDEHSG,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 ELECON,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 ELECTCAST,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 ELECTHERM,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-ELGIEQUIP,,,,
-ELGIRUBCO,,,,
+ELGIEQUIP,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
+ELGIRUBCO,Rubber,Industrials,Capital Goods,Industrial Products
 ELIN,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EMAMILTD,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 EMAMIPAP,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
@@ -821,9 +821,9 @@ GRAPHISAD,Advertising & Media Agencies,Consumer Discretionary,Media Entertainmen
 GRAPHITE,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
 GRASIM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 GRASIMPP,,,,
-GRAVITA,,,,
+GRAVITA,Industrial Minerals,Commodities,Metals & Mining,Minerals & Mining
 GRCL,,,,
-GREAVESCOT,,,,
+GREAVESCOT,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
 GREENCHEF,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 GREENLAM,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 GREENPANEL,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
