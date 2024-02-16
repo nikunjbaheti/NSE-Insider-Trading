@@ -136,7 +136,7 @@ ALLSEC,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),S
 ALMONDZ,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 ALOKINDS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 ALPA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-ALPEXSOLAR,,,,
+ALPEXSOLAR,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 ALPHAETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ALPHAGEO,Offshore Support Solution Drilling,Energy,Oil Gas & Consumable Fuels,Oil
 ALPL30IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -148,7 +148,7 @@ AMBIKCO,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Appare
 AMBUJACEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 AMDIND,Packaging,Industrials,Capital Goods,Industrial Products
 AMEYA,Other Industrial Products,Industrials,Capital Goods,Industrial Products
-AMIABLE,,,,
+AMIABLE,Logistics Solution Provider,Services,Services,Transport Services
 AMIORG,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 AMJLAND,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 AMNPLST,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -216,7 +216,7 @@ ASIANHOTNR,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Ser
 ASIANPAINT,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
 ASIANTILES,Ceramics,Consumer Discretionary,Consumer Durables,Consumer Durables
 ASKAUTOLTD,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-ASLIND,,,,
+ASLIND,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 ASMS,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ASPINWALL,Logistics Solution Provider,Services,Services,Transport Services
 ASTEC,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -300,7 +300,7 @@ BANKBARODA,Public Sector Bank,Financial Services,Financial Services,Banks
 BANKBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKBETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-BANKETFADD,,,,
+BANKETFADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKINDIA,Public Sector Bank,Financial Services,Financial Services,Banks
 BANSWRAS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
@@ -661,7 +661,7 @@ ENIL,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publicat
 EPACK,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EPIGRAL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 EPL,Packaging,Industrials,Capital Goods,Industrial Products
-EQUAL50ADD,,,,
+EQUAL50ADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 EQUIPPP,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 EQUITASBNK,Other Bank,Financial Services,Financial Services,Banks
 ERIS,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
@@ -755,7 +755,7 @@ GFLLIMITED,Holding Company,Financial Services,Financial Services,Finance
 GHCL,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 GHCLTEXTIL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 GICHSGFIN,Housing Finance Company,Financial Services,Financial Services,Finance
-GICL,,,,
+GICL,Logistics Solution Provider,Services,Services,Transport Services
 GICRE,General Insurance,Financial Services,Financial Services,Insurance
 GILLANDERS,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 GILLETTE,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
@@ -795,7 +795,7 @@ GOKULAGRO,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agric
 GOLDBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDENTOBC,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 GOLDETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-GOLDETFADD,,,,
+GOLDETFADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDIAM,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 GOLDIETF,,,,
 GOLDSHARE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -813,7 +813,7 @@ GRAPHITE,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
 GRASIM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 GRASIMPP,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 GRAVITA,Industrial Minerals,Commodities,Metals & Mining,Minerals & Mining
-GRCL,,,,
+GRCL,Rubber,Industrials,Capital Goods,Industrial Products
 GREAVESCOT,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
 GREENCHEF,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 GREENLAM,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -1131,7 +1131,7 @@ ITC,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diver
 ITDC,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 ITDCEM,Civil Construction,Industrials,Construction,Construction
 ITETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-ITETFADD,,,,
+ITETFADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ITI,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,Telecom - Equipment & Accessories
 ITIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 IVC,Asset Management Company,Financial Services,Financial Services,Capital Markets
@@ -1158,7 +1158,7 @@ JBMA,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Com
 JCHAC,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 JETAIRWAYS,Airline,Services,Services,Transport Services
 JETFREIGHT,Logistics Solution Provider,Services,Services,Transport Services
-JFLLIFE,,,,
+JFLLIFE,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 JHS,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 JINDALPHOT,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
 JINDALPOLY,Packaging,Industrials,Capital Goods,Industrial Products
@@ -1414,7 +1414,7 @@ MANAKSIA,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 MANAKSTEEL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 MANALIPETC,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 MANAPPURAM,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-MANAV,,,,
+MANAV,Civil Construction,Industrials,Construction,Construction
 MANGALAM,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 MANGCHEFER,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
 MANGLMCEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
@@ -1483,7 +1483,7 @@ MID150BEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Mark
 MIDCAPETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MIDCAPIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MIDHANI,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
-MIDQ50ADD,,,,
+MIDQ50ADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MIDSELIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MILTON,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 MINDACORP,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
@@ -1626,7 +1626,7 @@ NIF10GETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Marke
 NIF5GETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFITETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFMID150,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-NIFTY50ADD,,,,
+NIFTY50ADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFTYBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFTYBETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFTYETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -1678,7 +1678,7 @@ OFSS,Software Products,Information Technology,Information Technology,IT - Softwa
 OIL,Oil Exploration & Production,Energy,Oil Gas & Consumable Fuels,Oil
 OILCOUNTUB,Oil Equipment & Services,Energy,Oil Gas & Consumable Fuels,Oil
 OLECTRA,Passenger Cars & Utility Vehicles,Consumer Discretionary,Automobile and Auto Components,Automobiles
-OLIL,,,,
+OLIL,Logistics Solution Provider,Services,Services,Transport Services
 OMAXAUTO,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 OMAXE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 OMINFRAL,Civil Construction,Industrials,Construction,Construction
@@ -1817,7 +1817,7 @@ PRITI,Furniture Home Furnishing,Consumer Discretionary,Consumer Durables,Consume
 PRITIKA,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 PRITIKAUTO,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 PRIVISCL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-PROLIFE,,,,
+PROLIFE,Dyes And Pigments,Commodities,Chemicals,Chemicals & Petrochemicals
 PROPEQUITY,Real Estate related services,Consumer Discretionary,Realty,Realty
 PROV,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 PROZONER,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
@@ -1826,7 +1826,7 @@ PRUDENT,Financial Products Distributor,Financial Services,Financial Services,Cap
 PRUDMOULI,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 PSB,Public Sector Bank,Financial Services,Financial Services,Banks
 PSPPROJECT,Civil Construction,Industrials,Construction,Construction
-PSUBANKADD,,,,
+PSUBANKADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PSUBNKBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PSUBNKIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PTC,Power Trading,Utilities,Power,Power
@@ -1838,7 +1838,7 @@ PURVA,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 PVP,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 PVRINOX,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 PVTBANIETF,,,,
-PVTBANKADD,,,,
+PVTBANKADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PYRAMID,Packaging,Industrials,Capital Goods,Industrial Products
 QFIL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 QGOLDHALF,,,,
@@ -1897,7 +1897,7 @@ REFEX,Industrial Gases,Commodities,Chemicals,Chemicals & Petrochemicals
 REGENCERAM,Ceramics,Consumer Discretionary,Consumer Durables,Consumer Durables
 RELAXO,Footwear,Consumer Discretionary,Consumer Durables,Consumer Durables
 RELCHEMQ,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-RELIABLE,,,,
+RELIABLE,IT Enabled Services,Information Technology,Information Technology,IT - Services
 RELIANCE,Refineries & Marketing,Energy,Oil Gas & Consumable Fuels,Petroleum Products
 RELIGARE,Investment Company,Financial Services,Financial Services,Finance
 RELINFRA,Integrated Power Utilities,Utilities,Power,Power
@@ -1919,7 +1919,7 @@ RILINFRA,Civil Construction,Industrials,Construction,Construction
 RISHABH,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 RITCO,Logistics Solution Provider,Services,Services,Transport Services
 RITES,Civil Construction,Industrials,Construction,Construction
-RITEZONE,,,,
+RITEZONE,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 RKDL,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Beverages
 RKEC,Civil Construction,Industrials,Construction,Construction
 RKFORGE,Castings & Forgings,Industrials,Capital Goods,Industrial Products
@@ -1957,7 +1957,7 @@ RVHL,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 RVNL,Civil Construction,Industrials,Construction,Construction
 S&SPOWER,,,,
 SAAKSHI,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-SABAR,,,,
+SABAR,Packaging,Industrials,Capital Goods,Industrial Products
 SABEVENTS,Electronic Media,Consumer Discretionary,Media Entertainment & Publication,Media
 SADBHAV,Civil Construction,Industrials,Construction,Construction
 SADBHIN,Civil Construction,Industrials,Construction,Construction
@@ -2033,7 +2033,7 @@ SELAN,Oil Exploration & Production,Energy,Oil Gas & Consumable Fuels,Oil
 SELMC,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 SEMAC,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 SENCO,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-SENSEXADD,,,,
+SENSEXADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SENSEXETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SENSEXIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SEPC,Civil Construction,Industrials,Construction,Construction
@@ -2167,7 +2167,7 @@ SILGO,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consum
 SILINV,Investment Company,Financial Services,Financial Services,Finance
 SILLYMONKS,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 SILVER,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-SILVERADD,,,,
+SILVERADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SILVERBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SILVERETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SILVERIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -2265,7 +2265,7 @@ SUNDRMBRAK,Auto Components & Equipments,Consumer Discretionary,Automobile and Au
 SUNDRMFAST,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 SUNFLAG,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
 SUNPHARMA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-SUNREST,,,,
+SUNREST,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SUNTECK,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 SUNTV,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 SUPERHOUSE,Leather And Leather Products,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -2555,7 +2555,7 @@ WINSOME,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Appare
 WIPL,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 WIPRO,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 WOCKPHARMA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-WOMANCART,,,,
+WOMANCART,E-Retail/ E-Commerce,Consumer Discretionary,Consumer Services,Retailing
 WONDERLA,Amusement Parks/ Other Recreation,Consumer Discretionary,Consumer Services,Leisure Services
 WORTH,Packaging,Industrials,Capital Goods,Industrial Products
 WSI,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
