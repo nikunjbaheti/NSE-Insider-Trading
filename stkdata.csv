@@ -64,19 +64,19 @@ ABCAPITAL,Investment Company,Financial Services,Financial Services,Finance
 ABCOTS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 ABFRL,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
 ABMINTLLTD,Trading & Distributors,Services,Services,Commercial Services & Supplies
-ABSLAMC,,,,
+ABSLAMC,Asset Management Company,Financial Services,Financial Services,Capital Markets
 ABSLBANETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-ABSLLIQUID,,,,
+ABSLLIQUID,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ABSLNN50ET,,,,
-ACC,,,,
+ACC,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 ACCELYA,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 ACCENTMIC,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 ACCURACY,Logistics Solution Provider,Services,Services,Transport Services
-ACE,,,,
+ACE,Construction Vehicles,Industrials,Capital Goods,Agricultural Commercial & Construction Vehicles
 ACEINTEG,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 ACI,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 ACL,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
-ACLGATI,,,,
+ACLGATI,Logistics Solution Provider,Services,Services,Transport Services
 ACSAL,Shipping,Services,Services,Transport Services
 ADANIENSOL,Power - Transmission,Utilities,Power,Power
 ADANIENT,Trading - Minerals,Commodities,Metals & Mining,Metals & Minerals Trading
@@ -89,15 +89,15 @@ ADORWELD,Other Industrial Products,Industrials,Capital Goods,Industrial Products
 ADROITINFO,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ADSL,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ADVANIHOTR,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
-ADVENZYMES,,,,
-AEGISCHEM,,,,
-AEROFLEX,,,,
+ADVENZYMES,Biotechnology,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+AEGISCHEM,Trading - Gas,Energy,Oil Gas & Consumable Fuels,Gas
+AEROFLEX,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 AETHER,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 AFFLE,IT Enabled Services,Information Technology,Information Technology,IT - Services
 AGARIND,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-AGARWALFT,,,,
+AGARWALFT,Glass - Industrial,Industrials,Capital Goods,Industrial Products
 AGI,Packaging,Industrials,Capital Goods,Industrial Products
-AGNI,,,,
+AGNI,Civil Construction,Industrials,Construction,Construction
 AGRITECH,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 AGROPHOS,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
 AGSTRA,Financial Technology (Fintech),Financial Services,Financial Services,Financial Technology (Fintech)
@@ -112,11 +112,11 @@ AIRAN,IT Enabled Services,Information Technology,Information Technology,IT - Ser
 AIROLAM,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 AIRTELPP,Telecom - Cellular & Fixed line services,Telecommunication,Telecommunication,Telecom - Services
 AISL,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
-AJANTPHARM,,,,
+AJANTPHARM,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 AJMERA,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 AJOONI,Animal Feed,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 AKANKSHA,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-AKASH,,,,
+AKASH,Civil Construction,Industrials,Construction,Construction
 AKG,Trading & Distributors,Services,Services,Commercial Services & Supplies
 AKI,Leather And Leather Products,Consumer Discretionary,Consumer Durables,Consumer Durables
 AKSHAR,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
@@ -127,7 +127,7 @@ ALANKIT,Diversified Commercial Services,Services,Services,Commercial Services & 
 ALBERTDAVD,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 ALEMBICLTD,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 ALICON,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-ALKALI,,,,
+ALKALI,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 ALKEM,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 ALKYLAMINE,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 ALLCARGO,Logistics Solution Provider,Services,Services,Transport Services
@@ -161,6 +161,7 @@ ANGELONE,Stockbroking & Allied,Financial Services,Financial Services,Capital Mar
 ANIKINDS,Trading & Distributors,Services,Services,Commercial Services & Supplies
 ANKITMETAL,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
 ANLON,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
+ANMOL,Trading - Coal,Energy,Oil Gas & Consumable Fuels,Consumable Fuels
 ANNAPURNA,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 ANTGRAPHIC,Packaging,Industrials,Capital Goods,Industrial Products
 ANUP,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
