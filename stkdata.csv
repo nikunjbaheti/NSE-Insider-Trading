@@ -807,8 +807,8 @@ GOLDTECH,Computers - Software & Consulting,Information Technology,Information Te
 GOODLUCK,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 GOYALALUM,Trading & Distributors,Services,Services,Commercial Services & Supplies
 GOYALSALT,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-GPIL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-GPPL,Port & Port services,Services,Services,Transport Infrastructure
+GPIL,,,,
+GPPL,,,,
 GPTINFRA,Civil Construction,Industrials,Construction,Construction
 GRANULES,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 GRAPHISAD,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
@@ -1043,10 +1043,10 @@ INCREDIBLE,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 INDBANK,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 INDHOTEL,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 INDIACEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
-INDIAGLYCO,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-INDIAMART,Internet & Catalogue Retail,Consumer Discretionary,Consumer Services,Retailing
-INDIANB,Public Sector Bank,Financial Services,Financial Services,Banks
-INDIANCARD,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+INDIAGLYCO,,,,
+INDIAMART,,,,
+INDIANB,,,,
+INDIANCARD,,,,
 INDIANHUME,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 INDIASHLTR,Housing Finance Company,Financial Services,Financial Services,Finance
 INDIFRA,Gas Transmission/Marketing,Energy,Oil Gas & Consumable Fuels,Gas
