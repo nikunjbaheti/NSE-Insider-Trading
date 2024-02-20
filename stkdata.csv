@@ -1199,10 +1199,10 @@ JLHL,Hospital,Healthcare,Healthcare,Healthcare Services
 JMA,Trading - Auto Components,Consumer Discretionary,Automobile and Auto Components,Auto Components
 JMFINANCIL,Investment Company,Financial Services,Financial Services,Finance
 JOCIL,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-JPASSOCIAT,Civil Construction,Industrials,Construction,Construction
+JPASSOCIAT,,,,
 JPOLYINVST,Investment Company,Financial Services,Financial Services,Finance
-JPPOWER,Power Generation,Utilities,Power,Power
-JSFB,Other Bank,Financial Services,Financial Services,Banks
+JPPOWER,,,,
+JSFB,,,,
 JSL,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
 JSLL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 JSWENERGY,Power Generation,Utilities,Power,Power
