@@ -858,7 +858,7 @@ GSS,IT Enabled Services,Information Technology,Information Technology,IT - Servi
 GSTL,IT Enabled Services,Information Technology,Information Technology,IT - Services
 GTECJAINX,E-Learning,Consumer Discretionary,Consumer Services,Other Consumer Services
 GTL,Other Telecom Services,Telecommunication,Telecommunication,Telecom - Services
-GTLINFRA,Telecom - Infrastructure,Telecommunication,Telecommunication,Telecom - Services
+GTLINFRA,,,,
 GTPL,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 GUFICBIO,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 GUJALKALI,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -870,7 +870,7 @@ GULFPETRO,Lubricants,Energy,Oil Gas & Consumable Fuels,Petroleum Products
 GULPOLY,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 GVKPIL,Civil Construction,Industrials,Construction,Construction
 GVPTECH,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-HAL,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
+HAL,,,,
 HAPPSTMNDS,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 HAPPYFORGE,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 HARDWYN,Furniture Home Furnishing,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -891,7 +891,7 @@ HDFCAMC,Asset Management Company,Financial Services,Financial Services,Capital M
 HDFCBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 HDFCBSE500,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 HDFCGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-HDFCGROWTH,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+HDFCGROWTH,,,,
 HDFCLIFE,Life Insurance,Financial Services,Financial Services,Insurance
 HDFCLIQUID,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 HDFCLOWVOL,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -1091,10 +1091,10 @@ INFOLLION,Diversified Commercial Services,Services,Services,Commercial Services 
 INFOMEDIA,Printing & Publication,Consumer Discretionary,Media Entertainment & Publication,Printing & Publication
 INFRABEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 INFRAIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-INFY,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
+INFY,,,,
 INGERRAND,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
 INM,Furniture Home Furnishing,Consumer Discretionary,Consumer Durables,Consumer Durables
-INNOVACAP,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+INNOVACAP,,,,
 INNOVANA,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 INNOVATIVE,Tyres & Rubber Products,Consumer Discretionary,Automobile and Auto Components,Auto Components
 INOXGREEN,Other Utilities,Utilities,Utilities,Other Utilities
@@ -1104,7 +1104,7 @@ INSECTICID,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agroch
 INSPIRE,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 INSPIRISYS,IT Enabled Services,Information Technology,Information Technology,IT - Services
 INTELLECT,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-INTENTECH,Software Products,Information Technology,Information Technology,IT - Software
+INTENTECH,,,,
 INTLCONV,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 INVENTURE,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 IOB,Public Sector Bank,Financial Services,Financial Services,Banks
