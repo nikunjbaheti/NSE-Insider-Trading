@@ -1557,7 +1557,7 @@ MTNL,Telecom - Cellular & Fixed line services,Telecommunication,Telecommunicatio
 MUFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 MUFTI,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
 MUKANDLTD,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
-MUKKA,,,,
+MUKKA,Animal Feed,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 MUKTAARTS,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 MUNJALAU,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 MUNJALSHOW,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
@@ -1566,7 +1566,7 @@ MUTHOOTCAP,Non Banking Financial Company (NBFC),Financial Services,Financial Ser
 MUTHOOTFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 MUTHOOTMF,Microfinance Institutions,Financial Services,Financial Services,Finance
 MVGJL,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-MVKAGRO,,,,
+MVKAGRO,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 MWL,Trading - Metals,Commodities,Metals & Mining,Metals & Minerals Trading
 NABARD,,,,
 NACLIND,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -2004,7 +2004,6 @@ SAMPANN,Rubber,Industrials,Capital Goods,Industrial Products
 SANCO,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
 SANDESH,Print Media,Consumer Discretionary,Media Entertainment & Publication,Media
 SANDHAR,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-SANDUMA,Coal,Energy,Oil Gas & Consumable Fuels,Consumable Fuels
 SANGAMIND,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 SANGANI,Hospital,Healthcare,Healthcare,Healthcare Services
 SANGHIIND,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
@@ -2027,7 +2026,6 @@ SATINDLTD,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 SAURASHCEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 SBC,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 SBCL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-SBFC,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 SBGLP,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 SBICARD,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 SBIETFCON,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -2049,7 +2047,6 @@ SEAMECLTD,Shipping,Services,Services,Transport Services
 SECL,Civil Construction,Industrials,Construction,Construction
 SECMARK,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 SECURCRED,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
-SECURKLOUD,IT Enabled Services,Information Technology,Information Technology,IT - Services
 SEJALLTD,Glass - Industrial,Industrials,Capital Goods,Industrial Products
 SEL,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 SELAN,Oil Exploration & Production,Energy,Oil Gas & Consumable Fuels,Oil
@@ -2058,7 +2055,6 @@ SEMAC,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 SENCO,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 SENSEXADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SENSEXETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-SENSEXIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SEPC,Civil Construction,Industrials,Construction,Construction
 SEQUENT,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SERVICE,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
