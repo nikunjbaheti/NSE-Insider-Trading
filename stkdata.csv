@@ -1557,7 +1557,7 @@ MTNL,Telecom - Cellular & Fixed line services,Telecommunication,Telecommunicatio
 MUFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 MUFTI,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
 MUKANDLTD,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
-MUKKA,,,,
+MUKKA,Animal Feed,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 MUKTAARTS,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 MUNJALAU,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 MUNJALSHOW,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
@@ -1566,7 +1566,7 @@ MUTHOOTCAP,Non Banking Financial Company (NBFC),Financial Services,Financial Ser
 MUTHOOTFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 MUTHOOTMF,Microfinance Institutions,Financial Services,Financial Services,Finance
 MVGJL,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-MVKAGRO,,,,
+MVKAGRO,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 MWL,Trading - Metals,Commodities,Metals & Mining,Metals & Minerals Trading
 NABARD,,,,
 NACLIND,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -1862,7 +1862,7 @@ PYRAMID,Packaging,Industrials,Capital Goods,Industrial Products
 QFIL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 QGOLDHALF,,,,
 QMSMEDI,Medical Equipment & Supplies,Healthcare,Healthcare,Healthcare Equipment & Supplies
-QNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+QNIFTY,,,,
 QUAL30IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 QUESS,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
 QUICKHEAL,Software Products,Information Technology,Information Technology,IT - Software
@@ -1873,15 +1873,15 @@ RADIANTCMS,Diversified Commercial Services,Services,Services,Commercial Services
 RADICO,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Beverages
 RADIOCITY,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 RADIOCITY,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-RAILTEL,Other Telecom Services,Telecommunication,Telecommunication,Telecom - Services
-RAIN,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-RAINBOW,Hospital,Healthcare,Healthcare,Healthcare Services
-RAJESHEXPO,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-RAJMET,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
+RAILTEL,,,,
+RAIN,,,,
+RAINBOW,,,,
+RAJESHEXPO,,,,
+RAJMET,,,,
 RAJRATAN,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-RAJRILTD,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-RAJSREESUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-RAJTV,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
+RAJRILTD,,,,
+RAJSREESUG,,,,
+RAJTV,,,,
 RALLIS,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 RAMANEWS,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
 RAMAPHO,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -2524,7 +2524,7 @@ VENUSREM,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 VERANDA,E-Learning,Consumer Discretionary,Consumer Services,Other Consumer Services
 VERTOZ,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
 VESUVIUS,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
-VETO,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
+VETO,,,,
 VGUARD,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 VHL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 VIAZ,Tyres & Rubber Products,Consumer Discretionary,Automobile and Auto Components,Auto Components
