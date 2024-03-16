@@ -103,7 +103,7 @@ Arcotech Limited,    39.96,19154794,    45.65
 Aries Agro Limited,    52.66,0,     0.00
 Arihant Capital Markets Limited,    70.18,0,     0.00
 Arihant Superstructures Limited,    74.71,0,     0.00
-Aro Granite Industries Limited,    41.06,0,     0.00
+Aro Granite Industries Limited,    41.06,,
 Arshiya Limited,    14.37,37871225,   100.00
 Arvind Fashions Limited,    36.78,3900000,     7.97
 Arvind Limited,    41.14,7500000,     6.97
@@ -178,7 +178,7 @@ Banswara Syntex Limited,    54.37,0,     0.00
 Barak Valley Cements Limited,    55.32,0,     0.00
 Barbeque Nation Hospitality Limited,    33.73,86113,     0.65
 Bata India Limited,    50.16,0,     0.00
-Bcl Industries Limited,    56.92,7536340,     4.93
+Bcl Industries Limited,    60.41,753634,     4.92
 Beardsell Limited,    56.10,0,     0.00
 Bedmutha Industries Limited,    57.05,17496105,    95.06
 Berger Paints (I) Limited,    74.99,0,     0.00
@@ -269,7 +269,7 @@ Cholamandalam Financial Holdings Limited,    47.37,17200,     0.02
 Cholamandalam Investment and Finance Company Limited,    50.37,0,     0.00
 Cigniti Technologies Limited,    32.77,0,     0.00
 Cineline India Limited,    69.60,0,     0.00
-Cinevista Limited,    67.02,0,     0.00
+Cinevista Limited,    67.61,0,     0.00
 Cipla Limited,    33.61,0,     0.00
 City Union Bank Limited,     0.00,0,
 Coal India Limited,    63.13,0,     0.00
@@ -405,14 +405,14 @@ Fortis Healthcare Limited,    31.17,0,     0.00
 Foseco India Limited,    74.98,0,     0.00
 Fusion Micro Finance Limited,    58.18,1620000,     2.76
 Future Consumer Limited,     4.02,6341902,     7.91
-Future Enterprises Limited,    16.37,45750000,    61.44
 Future Enterprises Limited,    72.22,0,     0.00
+Future Enterprises Limited,    16.37,45750000,    61.44
 Future Lifestyle Fashions Limited,    20.48,40968074,    99.12
 Future Market Networks Limited,    65.31,36750000,    97.78
 Future Retail Limited,    14.31,24162063,    31.14
 Future Supply Chain Solutions Limited,    21.95,9632685,   100.00
-GACM Technologies Limited,     8.27,0,     0.00
 GACM Technologies Limited,     0.16,0,     0.00
+GACM Technologies Limited,     8.27,0,     0.00
 GAIL (India) Limited,    52.24,0,     0.00
 GB Global Limited,    99.95,4,     0.00
 GE Power India Limited,    68.58,0,     0.00
@@ -423,7 +423,7 @@ GIC Housing Finance Limited,    42.41,,
 GKW Limited,    75.00,0,     0.00
 GM Breweries Limited,    74.43,0,     0.00
 GMR Airports Infrastructure Limited,    59.07,2258823947,    63.35
-GNA Axles Limited,    68.15,0,     0.00
+GNA Axles Limited,    68.15,700000,     2.39
 GOCL Corporation Limited,    73.83,0,     0.00
 GP Petroleums Limited,    63.44,0,     0.00
 GPT Infraprojects Limited,    75.00,29667720,    68.00
@@ -637,8 +637,8 @@ Jagran Prakashan Limited,    69.00,150134478,    99.97
 Jagsonpal Pharmaceuticals Limited,    68.71,0,     0.00
 Jai Balaji Industries Limited,    60.02,30782233,    31.96
 Jai Corp Limited,    73.79,0,     0.00
-Jain Irrigation Systems Limited,    30.37,0,     0.00
 Jain Irrigation Systems Limited,    26.40,102661600,    58.26
+Jain Irrigation Systems Limited,    30.37,0,     0.00
 Jain Studios Limited,    59.87,15924000,    93.02
 Jaiprakash Associates Limited,    29.97,156750,     0.02
 Jaiprakash Power Ventures Limited,    24.00,1302697997,    79.20
@@ -742,7 +742,7 @@ LG Balakrishnan & Bros Limited,    33.74,0,     0.00
 LGB Forge Limited,    73.79,0,     0.00
 LIC Housing Finance Limited,    45.24,0,     0.00
 LLOYDS ENGINEERING WORKS LIMITED,    59.79,0,     0.00
-LT Foods Limited,    51.00,0,     0.00
+LT Foods Limited,    51.00,,
 La Opala RG Limited,    65.64,0,     0.00
 Lagnam Spintex Limited,    68.50,5829000,    48.16
 Lakshmi Energy and Foods Limited,    53.40,,
@@ -1082,7 +1082,7 @@ SBI Home Finance Limited,    26.00,0,     0.00
 SECUREKLOUD TECHNOLOGIES LIMITED,    43.52,1650000,    11.35
 SEL Manufacturing Company Limited,    75.00,8946369,    36.00
 SEMAC CONSULTANTS LIMITED,    72.61,0,     0.00
-SEPC Limited,    27.75,30000000,     7.88
+SEPC Limited,    27.75,0,     0.00
 SHREE CEMENT LIMITED,    62.55,0,     0.00
 SIL Investments Limited,    63.79,0,     0.00
 SIS LIMITED,    71.58,0,     0.00
@@ -1116,7 +1116,7 @@ Sanco Industries Limited,    42.50,0,     0.00
 Sangam (India) Limited,    71.02,0,     0.00
 Sanghi Industries Limited,    72.59,41601760,    22.19
 Sanghvi Movers Limited,    47.25,0,     0.00
-Sanofi India Limited,    60.40,0,     0.00
+Sanofi India Limited,    60.40,,
 Sanwaria Consumer Limited,    15.34,0,     0.00
 Sarda Energy & Minerals Limited,    72.64,0,     0.00
 Saregama India Limited,    59.35,0,     0.00
@@ -1319,8 +1319,8 @@ Thomas Cook  (India)  Limited,    64.94,0,     0.00
 Thomas Scott (India) Limited,    64.54,0,     0.00
 Thyrocare Technologies Limited,    71.11,37656092,   100.00
 Tide Water Oil Company (India) Limited,    64.73,5877899,    52.11
-Tijaria Polypipes Limited,    35.16,0,     0.00
-Tilaknagar Industries Limited,    40.26,0,     0.00
+Tijaria Polypipes Limited,    35.16,,
+Tilaknagar Industries Limited,    40.26,,
 Time Technoplast Limited,    51.51,0,     0.00
 Times Guaranty Limited,    74.92,0,     0.00
 Timken India Limited,    57.70,0,     0.00
@@ -1435,7 +1435,7 @@ Williamson Magor & Company Limited,    62.01,0,     0.00
 Windsor Machines Limited,    58.52,0,     0.00
 Winsome Yarns Limited,    38.67,25979609,    95.03
 Wipro Limited,    73.03,0,     0.00
-Wockhardt Limited,    54.93,58977700,    74.51
+Wockhardt Limited,    55.14,51153000,    64.38
 Wonderla Holidays Limited,    69.74,0,     0.00
 Xchanging Solutions Limited,    75.00,0,     0.00
 Xpro India Limited,    45.26,1329589,    14.21
