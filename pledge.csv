@@ -168,7 +168,7 @@ Balmer Lawrie & Company Limited,     0.00,0,
 Balrampur Chini Mills Limited,    42.90,0,     0.00
 Banaras Beads Limited,    58.14,0,     0.00
 Banco Products (I) Limited,    67.88,0,     0.00
-Bang Overseas Limited,    72.98,0,     0.00
+Bang Overseas Limited,    72.98,,
 Bank Of Baroda,    63.97,0,     0.00
 Bank Of India,    73.38,0,     0.00
 Bank of Maharashtra,    86.46,0,     0.00
@@ -269,7 +269,7 @@ Cholamandalam Financial Holdings Limited,    47.37,17200,     0.02
 Cholamandalam Investment and Finance Company Limited,    50.37,0,     0.00
 Cigniti Technologies Limited,    32.77,0,     0.00
 Cineline India Limited,    69.60,0,     0.00
-Cinevista Limited,    67.61,0,     0.00
+Cinevista Limited,    67.61,,
 Cipla Limited,    33.61,0,     0.00
 City Union Bank Limited,     0.00,0,
 Coal India Limited,    63.13,0,     0.00
@@ -291,6 +291,7 @@ Crest Ventures Limited,    70.00,0,     0.00
 Crompton Greaves Consumer Electricals Limited,     0.00,0,
 Cubex Tubings Limited,    44.42,0,     0.00
 Cummins India Limited,    51.00,0,     0.00
+Cupid Limited,    45.07,3380381,    56.24
 Cura Technologies Limited,    28.77,2086364,    75.91
 Cyber Media (India) Limited,    61.79,0,     0.00
 Cybertech Systems And Software Limited,    36.45,0,     0.00
@@ -411,8 +412,8 @@ Future Lifestyle Fashions Limited,    20.48,40968074,    99.12
 Future Market Networks Limited,    65.31,36750000,    97.78
 Future Retail Limited,    14.31,24162063,    31.14
 Future Supply Chain Solutions Limited,    21.95,9632685,   100.00
-GACM Technologies Limited,     0.16,0,     0.00
 GACM Technologies Limited,     8.27,0,     0.00
+GACM Technologies Limited,     0.16,0,     0.00
 GAIL (India) Limited,    52.24,0,     0.00
 GB Global Limited,    99.95,4,     0.00
 GE Power India Limited,    68.58,0,     0.00
@@ -637,8 +638,8 @@ Jagran Prakashan Limited,    69.00,150134478,    99.97
 Jagsonpal Pharmaceuticals Limited,    68.71,0,     0.00
 Jai Balaji Industries Limited,    60.02,30782233,    31.96
 Jai Corp Limited,    73.79,0,     0.00
-Jain Irrigation Systems Limited,    26.40,102661600,    58.26
 Jain Irrigation Systems Limited,    30.37,0,     0.00
+Jain Irrigation Systems Limited,    26.40,102661600,    58.26
 Jain Studios Limited,    59.87,15924000,    93.02
 Jaiprakash Associates Limited,    29.97,156750,     0.02
 Jaiprakash Power Ventures Limited,    24.00,1302697997,    79.20
@@ -1081,8 +1082,8 @@ SBC Exports Limited,    65.91,21550000,    15.45
 SBI Home Finance Limited,    26.00,0,     0.00
 SECUREKLOUD TECHNOLOGIES LIMITED,    43.52,1650000,    11.35
 SEL Manufacturing Company Limited,    75.00,8946369,    36.00
-SEMAC CONSULTANTS LIMITED,    72.61,0,     0.00
-SEPC Limited,    27.75,0,     0.00
+SEMAC CONSULTANTS LIMITED,    72.61,,
+SEPC Limited,    27.75,30000000,     7.88
 SHREE CEMENT LIMITED,    62.55,0,     0.00
 SIL Investments Limited,    63.79,0,     0.00
 SIS LIMITED,    71.58,0,     0.00
@@ -1435,7 +1436,7 @@ Williamson Magor & Company Limited,    62.01,0,     0.00
 Windsor Machines Limited,    58.52,0,     0.00
 Winsome Yarns Limited,    38.67,25979609,    95.03
 Wipro Limited,    73.03,0,     0.00
-Wockhardt Limited,    55.14,51153000,    64.38
+Wockhardt Limited,    54.93,58977700,    74.51
 Wonderla Holidays Limited,    69.74,0,     0.00
 Xchanging Solutions Limited,    75.00,0,     0.00
 Xpro India Limited,    45.26,1329589,    14.21
@@ -1443,7 +1444,7 @@ Yaari Digital Integrated Services Limited,    29.20,0,     0.00
 Yasho Industries Limited,    72.33,2950,     0.04
 Yatharth Hospital & Trauma Care Services Limited,    66.44,100000,     0.18
 Yes Bank Limited,     0.00,0,
-ZF Commercial Vehicle Control Systems India Limited,    75.00,0,     0.00
+ZF Commercial Vehicle Control Systems India Limited,    75.00,,
 ZUARI INDUSTRIES LIMITED,    56.81,,
 Zee Entertainment Enterprises Limited,     3.99,2060000,     5.38
 Zee Learn Limited,    15.05,14313500,    29.16
