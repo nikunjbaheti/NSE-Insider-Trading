@@ -742,7 +742,7 @@ GANESHHOUC,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 GANGAFORGE,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 GANGESSECU,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 GARFIBRES,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-GATECH,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
+GATECH,,,,
 GATECHDVR,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 GATEWAY,Logistics Solution Provider,Services,Services,Transport Services
 GEECEE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
@@ -888,7 +888,7 @@ HDFCMOMENT,Mutual Fund Scheme,Financial Services,Financial Services,Capital Mark
 HDFCNEXT50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 HDFCNIF100,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 HDFCNIFBAN,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-HDFCNIFIT,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+HDFCNIFIT,,,,
 HDFCNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 HDFCPSUBK,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 HDFCPVTBAN,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -1277,26 +1277,26 @@ KOTAKCONS,Mutual Fund Scheme,Financial Services,Financial Services,Capital Marke
 KOTAKGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKIT,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKLIQ,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKLOVOL,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+KOTAKLOVOL,,,,
 KOTAKMID50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKMNC,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKNV20,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTAKPSUBK,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKSILVE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTARISUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-KOTHARIPET,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-KOTHARIPRO,Trading & Distributors,Services,Services,Commercial Services & Supplies
+KOTAKSILVE,,,,
+KOTARISUG,,,,
+KOTHARIPET,,,,
+KOTHARIPRO,,,,
 KOTYARK,LPG/CNG/PNG/LNG Supplier,Energy,Oil Gas & Consumable Fuels,Gas
 KPIGREEN,Power Generation,Utilities,Power,Power
 KPIL,Civil Construction,Industrials,Construction,Construction
 KPITTECH,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 KPRMILL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-KRBL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+KRBL,,,,
 KREBSBIO,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-KRIDHANINF,Civil Construction,Industrials,Construction,Construction
-KRISHANA,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-KRISHCA,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
+KRIDHANINF,,,,
+KRISHANA,,,,
+KRISHCA,,,,
 KRISHIVAL,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 KRISHNADEF,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 KRITI,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
@@ -1377,7 +1377,7 @@ LUMAXTECH,Auto Components & Equipments,Consumer Discretionary,Automobile and Aut
 LUPIN,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 LUXIND,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 LXCHEM,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-LYKALABS,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+LYKALABS,,,,
 LYPSAGEMS,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 M&M,,,,
 M&MFIN,,,,
@@ -1386,79 +1386,79 @@ M&MFIN,,,,
 MAANALU,Aluminium,Commodities,Metals & Mining,Non - Ferrous Metals
 MACPOWER,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 MADHAV,Granites & Marbles,Consumer Discretionary,Consumer Durables,Consumer Durables
-MADHAVBAUG,Medical Equipment & Supplies,Healthcare,Healthcare,Healthcare Equipment & Supplies
-MADHUCON,Civil Construction,Industrials,Construction,Construction
-MADHUSUDAN,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-MADRASFERT,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-MAFANG,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-MAGADSUGAR,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-MAGNUM,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
-MAGSON,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-MAHABANK,Public Sector Bank,Financial Services,Financial Services,Banks
-MAHAPEXLTD,Other Financial Services,Financial Services,Financial Services,Finance
-MAHASTEEL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MAHEPC,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-MAHESHWARI,Diversified,Diversified,Diversified,Diversified
-MAHKTECH,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-MAHLIFE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-MAHLOG,Logistics Solution Provider,Services,Services,Transport Services
-MAHSCOOTER,Investment Company,Financial Services,Financial Services,Finance
-MAHSEAMLES,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MAITHANALL,Ferro & Silica Manganese,Commodities,Metals & Mining,Ferrous Metals
-MAITREYA,Hospital,Healthcare,Healthcare,Healthcare Services
-MAKEINDIA,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-MAKS,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
-MAL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MALLCOM,Other Industrial Products,Industrials,Capital Goods,Industrial Products
-MALUPAPER,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
-MANAKALUCO,Aluminium,Commodities,Metals & Mining,Non - Ferrous Metals
-MANAKCOAT,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MANAKSIA,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MANAKSTEEL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MANALIPETC,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+MADHAVBAUG,,,,
+MADHUCON,,,,
+MADHUSUDAN,,,,
+MADRASFERT,,,,
+MAFANG,,,,
+MAGADSUGAR,,,,
+MAGNUM,,,,
+MAGSON,,,,
+MAHABANK,,,,
+MAHAPEXLTD,,,,
+MAHASTEEL,,,,
+MAHEPC,,,,
+MAHESHWARI,,,,
+MAHKTECH,,,,
+MAHLIFE,,,,
+MAHLOG,,,,
+MAHSCOOTER,,,,
+MAHSEAMLES,,,,
+MAITHANALL,,,,
+MAITREYA,,,,
+MAKEINDIA,,,,
+MAKS,,,,
+MAL,,,,
+MALLCOM,,,,
+MALUPAPER,,,,
+MANAKALUCO,,,,
+MANAKCOAT,,,,
+MANAKSIA,,,,
+MANAKSTEEL,,,,
+MANALIPETC,,,,
 MANAPPURAM,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 MANGALAM,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 MANGCHEFER,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-MANGLMCEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
+MANGLMCEM,,,,
 MANINDS,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MANINFRA,Civil Construction,Industrials,Construction,Construction
+MANINFRA,,,,
 MANKIND,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-MANOMAY,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+MANOMAY,,,,
 MANORAMA,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-MANORG,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+MANORG,,,,
 MANUGRAPH,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 MANYAVAR,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
 MAPMYINDIA,Software Products,Information Technology,Information Technology,IT - Software
 MARALOVER,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 MARATHON,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 MARCO,Cables - Electricals,Industrials,Capital Goods,Industrial Products
-MARICO,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+MARICO,,,,
 MARINE,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 MARINETRAN,Logistics Solution Provider,Services,Services,Transport Services
-MARKSANS,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+MARKSANS,,,,
 MARSHALL,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 MARUTI,Passenger Cars & Utility Vehicles,Consumer Discretionary,Automobile and Auto Components,Automobiles
-MASFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
+MASFIN,,,,
 MASPTOP50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MASTEK,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 MATRIMONY,Internet & Catalogue Retail,Consumer Discretionary,Consumer Services,Retailing
-MAWANASUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-MAXESTATES,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-MAXHEALTH,Hospital,Healthcare,Healthcare,Healthcare Services
-MAXIND,Holding Company,Financial Services,Financial Services,Finance
-MAXPOSURE,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-MAYURUNIQ,Leather And Leather Products,Consumer Discretionary,Consumer Durables,Consumer Durables
-MAZDA,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-MAZDOCK,Ship Building & Allied Services,Industrials,Capital Goods,Industrial Manufacturing
-MBAPL,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-MBECL,Civil Construction,Industrials,Construction,Construction
-MBLINFRA,Civil Construction,Industrials,Construction,Construction
-MCDOWELL-N,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Beverages
-MCL,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
-MCLEODRUSS,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-MCON,Other Construction Materials,Commodities,Construction Materials,Other Construction Materials
-MCX,Exchange and Data Platform,Financial Services,Financial Services,Capital Markets
-MEDANTA,Hospital,Healthcare,Healthcare,Healthcare Services
+MAWANASUG,,,,
+MAXESTATES,,,,
+MAXHEALTH,,,,
+MAXIND,,,,
+MAXPOSURE,,,,
+MAYURUNIQ,,,,
+MAZDA,,,,
+MAZDOCK,,,,
+MBAPL,,,,
+MBECL,,,,
+MBLINFRA,,,,
+MCDOWELL-N,,,,
+MCL,,,,
+MCLEODRUSS,,,,
+MCON,,,,
+MCX,,,,
+MEDANTA,,,,
 MEDIASSIST,Insurance Distributors,Financial Services,Financial Services,Insurance
 MEDICAMEQ,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 MEDICO,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
@@ -1517,10 +1517,10 @@ MOMENTUM,Mutual Fund Scheme,Financial Services,Financial Services,Capital Market
 MOMOMENTUM,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MON100,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MONARCH,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
-MONIFTY500,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+MONIFTY500,,,,
 MONQ50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MONTECARLO,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
-MOQUALITY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+MOQUALITY,,,,
 MORARJEE,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 MOREPENLAB,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 MOS,Financial Technology (Fintech),Financial Services,Financial Services,Financial Technology (Fintech)
@@ -1534,16 +1534,16 @@ MPHASIS,Computers - Software & Consulting,Information Technology,Information Tec
 MPSLTD,E-Learning,Consumer Discretionary,Consumer Services,Other Consumer Services
 MRF,Tyres & Rubber Products,Consumer Discretionary,Automobile and Auto Components,Auto Components
 MRO-TEK,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-MRPL,Refineries & Marketing,Energy,Oil Gas & Consumable Fuels,Petroleum Products
-MSPL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-MSTCLTD,Trading & Distributors,Services,Services,Commercial Services & Supplies
-MSUMI,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
+MRPL,,,,
+MSPL,,,,
+MSTCLTD,,,,
+MSUMI,,,,
 MTARTECH,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 MTEDUCARE,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
 MTNL,Telecom - Cellular & Fixed line services,Telecommunication,Telecommunication,Telecom - Services
 MUFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-MUFTI,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
-MUKANDLTD,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
+MUFTI,,,,
+MUKANDLTD,,,,
 MUKKA,Animal Feed,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 MUKTAARTS,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 MUNJALAU,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
