@@ -101,7 +101,7 @@ Archidply Industries Limited,    69.89,0,     0.00
 Archies Limited,    62.25,0,     0.00
 Arcotech Limited,    39.96,19154794,    45.65
 Aries Agro Limited,    52.66,0,     0.00
-Arihant Capital Markets Limited,    70.18,0,     0.00
+Arihant Capital Markets Limited,    70.18,,
 Arihant Superstructures Limited,    74.71,0,     0.00
 Aro Granite Industries Limited,    41.06,,
 Arshiya Limited,    14.37,37871225,   100.00
@@ -178,7 +178,7 @@ Banswara Syntex Limited,    54.37,0,     0.00
 Barak Valley Cements Limited,    55.32,0,     0.00
 Barbeque Nation Hospitality Limited,    33.73,86113,     0.65
 Bata India Limited,    50.16,0,     0.00
-Bcl Industries Limited,    60.41,753634,     4.92
+Bcl Industries Limited,    56.92,7536340,     4.93
 Beardsell Limited,    56.10,0,     0.00
 Bedmutha Industries Limited,    57.05,17496105,    95.06
 Berger Paints (I) Limited,    74.99,0,     0.00
@@ -412,8 +412,8 @@ Future Lifestyle Fashions Limited,    20.48,40968074,    99.12
 Future Market Networks Limited,    65.31,36750000,    97.78
 Future Retail Limited,    14.31,24162063,    31.14
 Future Supply Chain Solutions Limited,    21.95,9632685,   100.00
-GACM Technologies Limited,     0.16,0,     0.00
 GACM Technologies Limited,     8.27,0,     0.00
+GACM Technologies Limited,     0.16,0,     0.00
 GAIL (India) Limited,    52.24,0,     0.00
 GB Global Limited,    99.95,4,     0.00
 GE Power India Limited,    68.58,0,     0.00
@@ -638,8 +638,8 @@ Jagran Prakashan Limited,    69.00,150134478,    99.97
 Jagsonpal Pharmaceuticals Limited,    68.71,0,     0.00
 Jai Balaji Industries Limited,    60.02,30782233,    31.96
 Jai Corp Limited,    73.79,0,     0.00
-Jain Irrigation Systems Limited,    26.40,102661600,    58.26
 Jain Irrigation Systems Limited,    30.37,0,     0.00
+Jain Irrigation Systems Limited,    26.40,102661600,    58.26
 Jain Studios Limited,    59.87,15924000,    93.02
 Jaiprakash Associates Limited,    29.97,156750,     0.02
 Jaiprakash Power Ventures Limited,    24.00,1302697997,    79.20
@@ -860,7 +860,7 @@ NCL Industries Limited,    44.48,4026377,    20.01
 NDL Ventures Limited,    64.67,0,     0.00
 NELCO Limited,    50.09,0,     0.00
 NHPC Limited,    70.95,0,     0.00
-NIIT Limited,    34.73,0,     0.00
+NIIT Limited,    34.81,0,     0.00
 NK Industries Limited,    73.27,,
 NLC India Limited,    79.20,0,     0.00
 NMDC Limited,    60.79,0,     0.00
@@ -1244,7 +1244,7 @@ TD Power Systems Limited,    34.27,0,     0.00
 TECIL Chemicals and Hydro Power Limited,    47.71,,
 TGB Banquets And Hotels Limited,    31.71,2922400,    31.47
 TIL Limited,    56.30,0,     0.00
-TIPS Industries Limited,    68.92,0,     0.00
+TIPS Industries Limited,    75.00,0,     0.00
 TITAGARH RAIL SYSTEMS LIMITED,    42.46,0,     0.00
 TREJHARA SOLUTIONS LIMITED,    28.34,344999,    10.30
 TRF Limited,    34.12,0,     0.00
@@ -1274,8 +1274,8 @@ Tata Communications Limited,    58.86,5262000,     3.14
 Tata Consultancy Services Limited,    72.41,12633090,     0.48
 Tata Elxsi Limited,    43.92,0,     0.00
 Tata Investment Corporation Limited,    73.38,0,     0.00
-Tata Motors Limited,     7.67,0,     0.00
 Tata Motors Limited,    46.37,0,     0.00
+Tata Motors Limited,     7.67,0,     0.00
 Tata Power Company Limited,    46.86,0,     0.00
 Tata Steel Limited,    33.70,0,     0.00
 Tata Teleservices (Maharashtra) Limited,    74.36,0,     0.00
@@ -1451,7 +1451,7 @@ Zee Learn Limited,    15.05,14313500,    29.16
 Zee Media Corporation Limited,     0.07,0,     0.00
 Zen Technologies Limited,    55.84,430000,     0.92
 Zenith Exports Limited,    51.75,,
-Zenith Steel Pipes & Industries Limited,    15.64,0,     0.00
+Zenith Steel Pipes & Industries Limited,    15.64,45000,     0.20
 Zensar Technologies Limited,    49.20,0,     0.00
 Zicom Electronic Security Systems Limited,     4.38,925000,    51.26
 Zodiac Clothing Company Limited,    71.40,0,     0.00
