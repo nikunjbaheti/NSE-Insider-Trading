@@ -89,7 +89,7 @@ ADFFOODS,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Fo
 ADL,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 ADORWELD,Other Industrial Products,Industrials,Capital Goods,Industrial Products
 ADROITINFO,IT Enabled Services,Information Technology,Information Technology,IT - Services
-ADROITPP,,,,
+ADROITPP,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ADSL,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ADVANIHOTR,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 ADVENZYMES,Biotechnology,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
@@ -1284,19 +1284,19 @@ KONSTELEC,Civil Construction,Industrials,Construction,Construction
 KONTOR,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 KOPRAN,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 KORE,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-KOTAKALPHA,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+KOTAKALPHA,,,,
 KOTAKBANK,Private Sector Bank,Financial Services,Financial Services,Banks
-KOTAKBKETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKCONS,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+KOTAKBKETF,,,,
+KOTAKCONS,,,,
 KOTAKGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKIT,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKLIQ,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKLOVOL,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKMID50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKMNC,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKNV20,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-KOTAKPSUBK,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+KOTAKIT,,,,
+KOTAKLIQ,,,,
+KOTAKLOVOL,,,,
+KOTAKMID50,,,,
+KOTAKMNC,,,,
+KOTAKNIFTY,,,,
+KOTAKNV20,,,,
+KOTAKPSUBK,,,,
 KOTAKSILVE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 KOTARISUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 KOTHARIPET,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -1865,7 +1865,7 @@ PURVA,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 PURVFLEXI,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
 PVP,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 PVRINOX,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-PVSL,,,,
+PVSL,Auto Dealer,Consumer Discretionary,Automobile and Auto Components,Automobiles
 PVTBANIETF,MUTUAL FUND SCHEME,FINANCIAL SERVICES,FINANCIAL SERVICES,CAPITAL MARKETS
 PVTBANKADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PYRAMID,Packaging,Industrials,Capital Goods,Industrial Products
@@ -2054,7 +2054,7 @@ SCHAEFFLER,Auto Components & Equipments,Consumer Discretionary,Automobile and Au
 SCHAND,Printing & Publication,Consumer Discretionary,Media Entertainment & Publication,Printing & Publication
 SCHNEIDER,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 SCI,Shipping,Services,Services,Transport Services
-SCILAL,,,,
+SCILAL,Investment Company,Financial Services,Financial Services,Finance
 SCML,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 SCPL,Dairy Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 SDBL,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Beverages
@@ -2196,7 +2196,7 @@ SIGACHI,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SIGIND,Trading & Distributors,Services,Services,Commercial Services & Supplies
 SIGMA,IT Enabled Services,Information Technology,Information Technology,IT - Services
 SIGNATURE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-SIGNORIA,,,,
+SIGNORIA,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 SIGNPOST,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
 SIKKO,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 SIL,Real Estate related services,Consumer Discretionary,Realty,Realty
