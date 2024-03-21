@@ -134,7 +134,7 @@ ALMONDZ,Stockbroking & Allied,Financial Services,Financial Services,Capital Mark
 ALOKINDS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 ALPA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 ALPEXSOLAR,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-ALPHA,,,,
+ALPHA,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ALPHAETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ALPHAGEO,Offshore Support Solution Drilling,Energy,Oil Gas & Consumable Fuels,Oil
 ALPL30IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -249,7 +249,7 @@ AVALON,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 AVANTIFEED,Animal Feed,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 AVG,Logistics Solution Provider,Services,Services,Transport Services
 AVONMORE,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-AVPINFRA,,,,
+AVPINFRA,Civil Construction,Industrials,Construction,Construction
 AVROIND,Plastic Products - Consumer,Consumer Discretionary,Consumer Durables,Consumer Durables
 AVTNPL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 AWHCL,Waste Management,Utilities,Utilities,Other Utilities
@@ -303,7 +303,7 @@ BANKETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKETFADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKINDIA,Public Sector Bank,Financial Services,Financial Services,Banks
-BANKNIFTY1,,,,
+BANKNIFTY1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANSWRAS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 BARBEQUE,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
 BASF,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -481,7 +481,7 @@ COMSYN,Packaging,Industrials,Capital Goods,Industrial Products
 CONCOR,Logistics Solution Provider,Services,Services,Transport Services
 CONCORDBIO,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 CONFIPET,LPG/CNG/PNG/LNG Supplier,Energy,Oil Gas & Consumable Fuels,Gas
-CONS,,,,
+CONS,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 CONSOFINVT,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 CONSUMBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 CONSUMIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -1132,7 +1132,7 @@ ISFT,E-Retail/ E-Commerce,Consumer Discretionary,Consumer Services,Retailing
 ISGEC,Civil Construction,Industrials,Construction,Construction
 ISHAN,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 ISMTLTD,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-IT,,,,
+IT,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ITALIANE,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 ITBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ITC,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diversified FMCG
@@ -1350,7 +1350,7 @@ LINC,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household 
 LINCOLN,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 LINDEINDIA,Industrial Gases,Commodities,Chemicals,Chemicals & Petrochemicals
 LIQUID,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-LIQUID1,,,,
+LIQUID1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUIDBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUIDCASE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUIDETF,,,,
@@ -1365,7 +1365,7 @@ LORDSCHLO,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 LOTUSEYE,Hospital,Healthcare,Healthcare,Healthcare Services
 LOVABLE,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 LOWVOL,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-LOWVOL1,,,,
+LOWVOL1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LOWVOLIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LOYALTEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 LPDC,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
@@ -1487,7 +1487,7 @@ MHRIL,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 MICEL,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 MICROPRO,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 MID150BEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-MIDCAP,,,,
+MIDCAP,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MIDCAPETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MIDCAPIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MIDHANI,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
@@ -1505,7 +1505,7 @@ MKPL,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultur
 MMFL,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 MMP,Aluminium,Commodities,Metals & Mining,Non - Ferrous Metals
 MMTC,Trading & Distributors,Services,Services,Commercial Services & Supplies
-MNC,,,,
+MNC,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MODIRUBBER,Tyres & Rubber Products,Consumer Discretionary,Automobile and Auto Components,Auto Components
 MODISONLTD,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 MODTHREAD,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
@@ -1639,7 +1639,7 @@ NIF10GETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Marke
 NIF5GETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFITETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFMID150,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-NIFTY1,,,,
+NIFTY1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFTY50ADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFTYBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NIFTYBETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -1680,7 +1680,7 @@ NUCLEUS,Software Products,Information Technology,Information Technology,IT - Sof
 NURECA,Medical Equipment & Supplies,Healthcare,Healthcare,Healthcare Equipment & Supplies
 NUVAMA,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 NUVOCO,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
-NV20,,,,
+NV20,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NV20BEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NV20IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 NXST,Real Estate Investment Trusts (REITs),Consumer Discretionary,Realty,Realty
@@ -1844,7 +1844,7 @@ PRUDENT,Financial Products Distributor,Financial Services,Financial Services,Cap
 PRUDMOULI,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 PSB,Public Sector Bank,Financial Services,Financial Services,Banks
 PSPPROJECT,Civil Construction,Industrials,Construction,Construction
-PSUBANK,,,,
+PSUBANK,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PSUBANKADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PSUBNKBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 PSUBNKIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
