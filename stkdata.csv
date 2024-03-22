@@ -438,7 +438,6 @@ CENTENKA,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Appar
 CENTEXT,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
 CENTRALBK,Public Sector Bank,Financial Services,Financial Services,Banks
 CENTRUM,Other Financial Services,Financial Services,Financial Services,Finance
-CENTUM,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 CENTURYPLY,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
 CENTURYTEX,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
 CERA,Sanitary Ware,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -763,7 +762,7 @@ GATEWAY,Logistics Solution Provider,Services,Services,Transport Services
 GEECEE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 GEEKAYWIRE,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 GENCON,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-GENESYS,,,,
+GENESYS,IT Enabled Services,Information Technology,Information Technology,IT - Services
 GENSOL,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 GENUSPAPER,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
 GENUSPOWER,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
@@ -1148,7 +1147,6 @@ ISHAN,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 ISMTLTD,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 IT,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ITALIANE,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-ITBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ITC,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diversified FMCG
 ITDC,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 ITDCEM,Civil Construction,Industrials,Construction,Construction
@@ -1315,7 +1313,7 @@ KRITI,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Product
 KRITIKA,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 KRITINUT,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 KRSNAA,Healthcare Service Provider,Healthcare,Healthcare,Healthcare Services
-KRYSTAL,,,,
+KRYSTAL,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 KSB,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
 KSCL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 KSHITIJPOL,Printing Inks,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -1543,10 +1541,10 @@ MONQ50,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MONTECARLO,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 MOQUALITY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MORARJEE,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-MOREALTY,,,,
+MOREALTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MOREPENLAB,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 MOS,Financial Technology (Fintech),Financial Services,Financial Services,Financial Technology (Fintech)
-MOSMALL250,,,,
+MOSMALL250,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 MOTHERSON,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 MOTILALOFS,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 MOTISONS,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
