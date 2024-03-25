@@ -658,10 +658,10 @@ EMSLIMITED,Waste Management,Utilities,Utilities,Other Utilities
 EMUDHRA,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ENDURANCE,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 ENERGYDEV,Power Generation,Utilities,Power,Power
-ENFUSE,,,,
+ENFUSE,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ENGINERSIN,Civil Construction,Industrials,Construction,Construction
 ENIL,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-ENSER,,,,
+ENSER,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ENTERO,Pharmacy Retail,Consumer Discretionary,Consumer Services,Retailing
 EPACK,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EPIGRAL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -1680,7 +1680,7 @@ NRBBEARING,Auto Components & Equipments,Consumer Discretionary,Automobile and Au
 NRL,Trading - Metals,Commodities,Metals & Mining,Metals & Minerals Trading
 NSIL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 NSLNISP,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
-NTL,,,,
+NTL,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 NTPC,Power Generation,Utilities,Power,Power
 NTPC,Power Generation,Utilities,Power,Power
 NTPC,Power Generation,Utilities,Power,Power
@@ -2369,7 +2369,7 @@ TATASTEEL,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
 TATATECH,IT Enabled Services,Information Technology,Information Technology,IT - Services
 TATSILV,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 TATVA,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-TBZ,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
+TBZ,,,,
 TCI,Logistics Solution Provider,Services,Services,Transport Services
 TCIEXP,Logistics Solution Provider,Services,Services,Transport Services
 TCL,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
