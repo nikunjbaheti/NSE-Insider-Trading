@@ -2154,22 +2154,22 @@ SGBSEP28VI,,,,
 SGBSEP29VI,,,,
 SGBSEP31II,,,,
 SGIL,Castings & Forgings,Industrials,Capital Goods,Industrial Products
-SGL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-SHAH,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
+SGL,,,,
+SHAH,,,,
 SHAHALLOYS,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 SHAILY,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
-SHAKTIPUMP,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
+SHAKTIPUMP,,,,
 SHALBY,Hospital,Healthcare,Healthcare,Healthcare Services
 SHALPAINTS,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
 SHANKARA,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
-SHANTHALA,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Cigarettes & Tobacco Products
-SHANTI,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+SHANTHALA,,,,
+SHANTI,,,,
 SHANTIGEAR,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 SHARDACROP,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
-SHARDAMOTR,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
+SHARDAMOTR,,,,
 SHAREINDIA,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 SHAREINDIA,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
-SHARIABEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+SHARIABEES,,,,
 SHEETAL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 SHEMAROO,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 SHERA,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
@@ -2183,16 +2183,16 @@ SHK,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal
 SHOPERSTOP,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 SHRADHA,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 SHREDIGCEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
-SHREECEM,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
-SHREEKARNI,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-SHREEOSFM,Road Transport,Services,Services,Transport Services
-SHREEPUSHK,Dyes And Pigments,Commodities,Chemicals,Chemicals & Petrochemicals
+SHREECEM,,,,
+SHREEKARNI,,,,
+SHREEOSFM,,,,
+SHREEPUSHK,,,,
 SHREERAMA,Packaging,Industrials,Capital Goods,Industrial Products
 SHREMINVIT,Civil Construction,Industrials,Construction,Construction
 SHRENIK,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
-SHREYANIND,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
-SHREYAS,Shipping,Services,Services,Transport Services
-SHRIPISTON,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
+SHREYANIND,,,,
+SHREYAS,,,,
+SHRIPISTON,,,,
 SHRIRAMFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 SHRIRAMFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 SHRIRAMFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
@@ -2203,17 +2203,17 @@ SHRIRAMPPS,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 SHRITECH,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
 SHUBHLAXMI,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 SHYAMCENT,Ferro & Silica Manganese,Commodities,Metals & Mining,Ferrous Metals
-SHYAMMETL,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-SHYAMTEL,Trading & Distributors,Services,Services,Commercial Services & Supplies
+SHYAMMETL,,,,
+SHYAMTEL,,,,
 SICALLOG,Logistics Solution Provider,Services,Services,Transport Services
 SIEMENS,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 SIGACHI,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SIGIND,Trading & Distributors,Services,Services,Commercial Services & Supplies
 SIGMA,IT Enabled Services,Information Technology,Information Technology,IT - Services
 SIGNATURE,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-SIGNORIA,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
-SIGNPOST,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
-SIKKO,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
+SIGNORIA,,,,
+SIGNPOST,,,,
+SIKKO,,,,
 SIL,Real Estate related services,Consumer Discretionary,Realty,Realty
 SILGO,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 SILINV,Investment Company,Financial Services,Financial Services,Finance
@@ -2226,22 +2226,22 @@ SILVERIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Mark
 SILVERTUC,IT Enabled Services,Information Technology,Information Technology,IT - Services
 SILVRETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SIMBHALS,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-SIMPLEXINF,Civil Construction,Industrials,Construction,Construction
-SINDHUTRAD,Diversified,Diversified,Diversified,Diversified
-SINTERCOM,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-SIRCA,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
+SIMPLEXINF,,,,
+SINDHUTRAD,,,,
+SINTERCOM,,,,
+SIRCA,,,,
 SIS,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 SITINET,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 SIYSIL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 SJLOGISTIC,Logistics Solution Provider,Services,Services,Transport Services
-SJS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
+SJS,,,,
 SJVN,Power Generation,Utilities,Power,Power
-SKFINDIA,Abrasives & Bearings,Industrials,Capital Goods,Industrial Products
+SKFINDIA,,,,
 SKIPPER,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 SKIPPERPP,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
 SKMEGGPROD,Meat Products including Poultry,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 SKP,Abrasives & Bearings,Industrials,Capital Goods,Industrial Products
-SKYGOLD,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
+SKYGOLD,,,,
 SMALLCAP,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SMARTLINK,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
 SMCGLOBAL,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
@@ -2260,8 +2260,8 @@ SOMATEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Appare
 SOMICONVEY,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 SONACOMS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 SONAMAC,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-SONAMLTD,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
-SONATSOFTW,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
+SONAMLTD,,,,
+SONATSOFTW,,,,
 SONUINFRA,Civil Construction,Industrials,Construction,Construction
 SOTAC,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SOTL,Lubricants,Energy,Oil Gas & Consumable Fuels,Petroleum Products
@@ -2282,7 +2282,7 @@ SPMLINFRA,Civil Construction,Industrials,Construction,Construction
 SPORTKING,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 SPTL,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
 SPYL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-SREEL,Footwear,Consumer Discretionary,Consumer Durables,Consumer Durables
+SREEL,,,,
 SRF,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 SRGHFL,Housing Finance Company,Financial Services,Financial Services,Finance
 SRHHYPOLTD,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -2303,7 +2303,7 @@ STEL,Investment Company,Financial Services,Financial Services,Finance
 STERTOOLS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 STLTECH,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,Telecom - Equipment & Accessories
 STOVEKRAFT,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
-STYLAMIND,Plywood Boards/ Laminates,Consumer Discretionary,Consumer Durables,Consumer Durables
+STYLAMIND,,,,
 STYRENIX,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 SUBEXLTD,Software Products,Information Technology,Information Technology,IT - Software
 SUBROS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
@@ -2313,7 +2313,7 @@ SULA,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Go
 SUMEETINDS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 SUMICHEM,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 SUMIT,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-SUMMITSEC,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
+SUMMITSEC,,,,
 SUNCLAY,Castings & Forgings,Industrials,Capital Goods,Industrial Products
 SUNDARAM,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
 SUNDARMFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
@@ -2322,7 +2322,7 @@ SUNDRMBRAK,Auto Components & Equipments,Consumer Discretionary,Automobile and Au
 SUNDRMFAST,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 SUNFLAG,Iron & Steel,Commodities,Metals & Mining,Ferrous Metals
 SUNPHARMA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-SUNREST,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+SUNREST,,,,
 SUNTECK,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 SUNTV,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 SUPERHOUSE,Leather And Leather Products,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -2337,7 +2337,7 @@ SURANASOL,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipm
 SURANAT&P,,,,
 SURANI,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 SURYALAXMI,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-SURYAROSNI,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
+SURYAROSNI,,,,
 SURYODAY,Other Bank,Financial Services,Financial Services,Banks
 SUTLEJTEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 SUULD,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
