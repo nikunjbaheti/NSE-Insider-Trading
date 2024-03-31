@@ -598,24 +598,24 @@ DIXON,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Dur
 DJML,Logistics Solution Provider,Services,Services,Transport Services
 DLF,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 DLINKINDIA,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
-DMART,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
+DMART,,,,
 DMCC,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-DNAMEDIA,Electronic Media,Consumer Discretionary,Media Entertainment & Publication,Media
+DNAMEDIA,,,,
 DODLA,Dairy Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-DOLATALGO,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
+DOLATALGO,,,,
 DOLLAR,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
-DOLLEX,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-DOLPHIN,Offshore Support Solution Drilling,Energy,Oil Gas & Consumable Fuels,Oil
+DOLLEX,,,,
+DOLPHIN,,,,
 DOMS,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
 DONEAR,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-DPABHUSHAN,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-DPSCLTD,Integrated Power Utilities,Utilities,Power,Power
+DPABHUSHAN,,,,
+DPSCLTD,,,,
 DPWIRES,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 DRCSYSTEMS,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 DREAMFOLKS,Airport & Airport services,Services,Services,Transport Infrastructure
 DREDGECORP,Dredging,Services,Services,Engineering Services
 DRONE,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
-DRREDDY,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+DRREDDY,,,,
 DSSL,IT Enabled Services,Information Technology,Information Technology,IT - Services
 DTIL,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 DUCOL,Dyes And Pigments,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -749,7 +749,7 @@ GALAXYSURF,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 GALLANTT,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 GANDHAR,Lubricants,Energy,Oil Gas & Consumable Fuels,Petroleum Products
 GANDHITUBE,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-GANECOS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+GANECOS,,,,
 GANESHBE,Oil Storage & Transportation,Energy,Oil Gas & Consumable Fuels,Oil
 GANESHHOUC,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 GANGAFORGE,Castings & Forgings,Industrials,Capital Goods,Industrial Products
