@@ -39,7 +39,7 @@ Adani Power Limited,    71.75,438588299,    15.85
 Aditya Birla Capital Limited,    68.98,0,     0.00
 Aditya Birla Fashion and Retail Limited,    55.95,0,     0.00
 Aditya Birla Money Limited,    73.53,,
-Ador Welding Limited,    56.90,0,     0.00
+Ador Welding Limited,    56.90,,
 Advanced Enzyme Technologies Limited,    43.62,0,     0.00
 Advani Hotels & Resorts (India) Limited,    50.25,0,     0.00
 Aegis Logistics Limited,    58.10,0,     0.00
@@ -52,7 +52,7 @@ Ahluwalia Contracts (India) Limited,    55.32,0,     0.00
 Airo Lam limited,    53.01,1500200,    18.86
 Ajanta Pharma Limited,    66.21,10278971,    12.33
 Ajmera Realty & Infra India Limited,    69.73,1950000,     7.88
-Akg Exim Limited,    57.84,,
+Akg Exim Limited,    57.84,0,     0.00
 Aksh Optifibre Limited,    26.77,0,     0.00
 Akzo Nobel India Limited,    74.76,0,     0.00
 Alankit Limited,    52.02,0,     0.00
@@ -68,7 +68,7 @@ Allied Digital Services Limited,    52.26,0,     0.00
 Allsec Technologies Limited,    73.39,0,     0.00
 Almondz Global Securities Limited,    58.20,0,     0.00
 Alok Industries Limited,    75.00,0,     0.00
-Alpa Laboratories Limited,    57.29,0,     0.00
+Alpa Laboratories Limited,    57.29,,
 Alphageo (India) Limited,    46.09,280534,     9.56
 Alps Industries Limited,    22.21,4019018,    46.27
 Amara Raja Energy & Mobility Limited,    28.06,0,     0.00
@@ -100,7 +100,7 @@ Archean Chemical Industries Limited,    53.45,3002000,     4.55
 Archidply Industries Limited,    69.89,0,     0.00
 Archies Limited,    62.25,0,     0.00
 Arcotech Limited,    39.96,19154794,    45.65
-Aries Agro Limited,    52.66,0,     0.00
+Aries Agro Limited,    52.66,,
 Arihant Capital Markets Limited,    70.18,,
 Arihant Superstructures Limited,    74.71,0,     0.00
 Aro Granite Industries Limited,    41.06,,
@@ -150,7 +150,7 @@ BGR Energy Systems Limited,    75.00,21648468,    40.00
 BIRLASOFT LIMITED,    40.98,0,     0.00
 BLB Limited,    36.84,0,     0.00
 BSL Limited,    56.71,0,     0.00
-Bafna Pharmaceuticals Limited,    90.00,0,     0.00
+Bafna Pharmaceuticals Limited,    88.43,,
 Bajaj Auto Limited,    54.94,13822,     0.01
 Bajaj Consumer Care Limited,    39.35,0,     0.00
 Bajaj Electricals Limited,    62.85,1843556,     2.55
@@ -175,7 +175,7 @@ Bank of Maharashtra,    86.46,0,     0.00
 Bannari Amman Spinning Mills Limited,    55.33,,
 Bannari Amman Sugars Limited,    58.70,0,     0.00
 Banswara Syntex Limited,    54.37,0,     0.00
-Barak Valley Cements Limited,    55.32,0,     0.00
+Barak Valley Cements Limited,    55.32,,
 Barbeque Nation Hospitality Limited,    33.73,86113,     0.65
 Bata India Limited,    50.16,0,     0.00
 Bcl Industries Limited,    56.92,7536340,     4.93
@@ -220,7 +220,7 @@ Bombay Dyeing & Mfg Company Limited,    53.58,0,     0.00
 Bombay Rayon Fashions Limited,    25.54,30868329,    38.07
 Bosch Limited,    70.54,0,     0.00
 Bpl Limited,    63.13,0,     0.00
-Brand Concepts Limited,    51.24,0,     0.00
+Brand Concepts Limited,    48.82,,
 Brigade Enterprises Limited,    43.75,0,     0.00
 Brightcom Group Limited,    18.38,9262114,     2.50
 Britannia Industries Limited,    50.55,0,     0.00
@@ -377,11 +377,11 @@ Eris Lifesciences Limited,    54.90,8176470,    10.95
 Eros International Media Limited,    16.25,0,     0.00
 Esab India Limited,    73.72,0,     0.00
 Escorts Kubota Limited,    69.54,0,     0.00
-Essar Shipping Limited,    73.75,0,     0.00
+Essar Shipping Limited,    73.75,,
 Ester Industries Limited,    64.04,0,     0.00
 Euro Ceramics Limited,    10.09,3403895,    99.99
 Euro Multivision Limited,    47.01,0,     0.00
-Eurotex Industries and Exports Limited,    70.99,0,     0.00
+Eurotex Industries and Exports Limited,    70.99,,
 Eveready Industries India Limited,    43.21,0,     0.00
 Everest Industries Limited,    50.28,0,     0.00
 Everest Kanto Cylinder Limited,    67.39,0,     0.00
@@ -389,11 +389,11 @@ Excel Industries Limited,    52.95,2182,     0.03
 Excel Realty N Infra Limited,    19.12,0,     0.00
 Exide Industries Limited,    45.99,0,     0.00
 Expleo Solutions Limited,    71.05,0,     0.00
-FCS Software Solutions Limited,    19.65,0,     0.00
+FCS Software Solutions Limited,    19.65,,
 FDC Limited,    69.66,0,     0.00
 Fedders Electric and Engineering Limited,   100.00,0,     0.00
 Federal-Mogul Goetze (India) Limited.,    74.98,0,     0.00
-Fertilizers and Chemicals Travancore Limited,    90.00,0,     0.00
+Fertilizers and Chemicals Travancore Limited,    90.00,,
 Fiem Industries Limited,    66.56,0,     0.00
 Filatex India Limited,    64.76,0,     0.00
 Finolex Cables Limited,    36.02,0,     0.00
@@ -412,8 +412,8 @@ Future Lifestyle Fashions Limited,    20.48,40968074,    99.12
 Future Market Networks Limited,    65.31,36750000,    97.78
 Future Retail Limited,    14.31,24162063,    31.14
 Future Supply Chain Solutions Limited,    21.95,9632685,   100.00
-GACM Technologies Limited,     8.27,0,     0.00
 GACM Technologies Limited,     0.16,0,     0.00
+GACM Technologies Limited,     8.27,0,     0.00
 GAIL (India) Limited,    52.24,0,     0.00
 GB Global Limited,    99.95,4,     0.00
 GE Power India Limited,    68.58,0,     0.00
@@ -465,7 +465,7 @@ Gmr Power And Urban Infra Limited,    59.83,271250000,    75.11
 Go Fashion (India) Limited,    52.79,4656200,    16.33
 Goa Carbon Limited,    59.72,0,     0.00
 Godawari Power And Ispat limited,    63.26,0,     0.00
-Godfrey Phillips India Limited,    72.58,0,     0.00
+Godfrey Phillips India Limited,    72.58,,
 Godha Cabcon & Insulation Limited,    11.48,0,     0.00
 Godrej Consumer Products Limited,    63.21,4263670,     0.66
 Godrej Industries Limited,    67.16,12708622,     5.62
@@ -614,7 +614,7 @@ Inox Green Energy Services Limited,    55.72,14420000,     8.81
 Inox Wind Limited,    52.87,2790000,     1.62
 Insecticides (India) Limited,    72.16,0,     0.00
 Inspirisys Solutions Limited,    69.95,0,     0.00
-Integra Essentia Limited,    20.81,0,     0.00
+Integra Essentia Limited,    20.81,,
 Intense Technologies Limited,    20.71,0,     0.00
 Intrasoft Technologies Limited,    47.68,0,     0.00
 Inventure Growth & Securities Limited,    26.40,0,     0.00
@@ -638,8 +638,8 @@ Jagran Prakashan Limited,    69.00,150134478,    99.97
 Jagsonpal Pharmaceuticals Limited,    68.71,0,     0.00
 Jai Balaji Industries Limited,    60.02,30782233,    31.96
 Jai Corp Limited,    73.79,0,     0.00
-Jain Irrigation Systems Limited,    30.37,,
 Jain Irrigation Systems Limited,    26.40,102661600,    58.26
+Jain Irrigation Systems Limited,    30.37,,
 Jain Studios Limited,    59.87,15924000,    93.02
 Jaiprakash Associates Limited,    29.97,156750,     0.02
 Jaiprakash Power Ventures Limited,    24.00,1302697997,    79.20
@@ -711,7 +711,7 @@ Kesoram Industries Limited,    43.40,69537782,    51.58
 Kewal Kiran Clothing Limited,    74.26,0,     0.00
 Keynote Financial Services Limited,    56.43,0,     0.00
 Khaitan (India) Limited,    60.24,940000,    32.85
-Khaitan Chemicals & Fertilizers Limited,    74.99,0,     0.00
+Khaitan Chemicals & Fertilizers Limited,    74.99,,
 Khandwala Securities Limited,    47.76,1733321,    23.79
 Kilitch Drugs (India) Limited,    69.23,0,     0.00
 Kiri Industries Limited,    26.72,59573,     0.43
@@ -731,6 +731,7 @@ Kothari Sugars And Chemicals Limited,    73.53,0,     0.00
 Kovai Medical Center & Hospital Limited,    50.02,0,     0.00
 Krebs Biochemicals and Industries Limited,    72.74,,
 Kridhan Infra Limited,    47.15,0,     0.00
+Krishana Phoschem Limited,    69.88,20040,     0.05
 Krishna Institute of Medical Sciences Limited,    38.82,5002438,    16.10
 Ksb Limited,    66.69,0,     0.00
 Kshitij Polyline Limited,     0.64,,
@@ -767,7 +768,7 @@ Lupin Limited,    47.04,0,     0.00
 Lyka Labs Limited,    54.81,0,     0.00
 Lypsa Gems & Jewellery Limited,    36.37,0,     0.00
 MBL Infrastructure Limited,    68.25,1958673,     2.74
-MEP Infrastructure Developers Limited,    39.12,64199268,    89.47
+MEP Infrastructure Developers Limited,    39.39,64699268,    89.54
 MIRC Electronics Limited,    53.36,42525503,    34.51
 MM Forgings Limited,    56.34,0,     0.00
 MMTC Limited,    89.93,0,     0.00
@@ -834,7 +835,6 @@ Mic Electronics Limited,    74.63,3377000,     2.04
 Mirza International Limited,    71.77,0,     0.00
 Modi Rubber Limited,    59.50,0,     0.00
 Mohit Industries Limited,    54.32,0,     0.00
-Mohota Industries Limited,    42.42,1563863,    25.07
 Mold-Tek Packaging Limited,    32.86,25000,     0.23
 Mold-Tek Technologies Limited,    49.01,0,     0.00
 Monte Carlo Fashions Limited,    73.17,0,     0.00
@@ -855,7 +855,7 @@ NACL Industries Limited,    63.79,0,     0.00
 NAVA LIMITED,    48.84,0,     0.00
 NBCC (India) Limited,    61.75,0,     0.00
 NCC Limited,    22.00,0,     0.00
-NCL Industries Limited,    44.48,4026377,    20.01
+NCL Industries Limited,    44.48,4022377,    19.99
 NDL Ventures Limited,    64.67,0,     0.00
 NELCO Limited,    50.09,0,     0.00
 NHPC Limited,    70.95,0,     0.00
@@ -946,7 +946,7 @@ PNC Infratech Limited,    56.07,0,     0.00
 PPAP Automotive Limited,    65.01,0,     0.00
 PTC India Financial Services Limited,    64.99,0,     0.00
 PTC India Limited,    16.22,0,     0.00
-PTL Enterprises Limited,    69.82,0,     0.00
+PTL Enterprises Limited,    69.82,,
 PVP Ventures Limited,    61.40,1000000,     0.63
 PVR INOX Limited,    27.84,1140000,     4.17
 Page Industries Limited,    45.11,0,     0.00
@@ -1189,7 +1189,6 @@ Speciality Restaurants Limited,    50.28,0,     0.00
 Spentex Industries Limited,    42.10,37797226,   100.00
 Sree Rayalaseema Hi-Strength Hypo Limited,    61.84,0,     0.00
 Sreeleathers Limited,    75.00,0,     0.00
-Sri Adhikari Brothers Television Network Limited,    22.13,6385800,    82.59
 Standard Industries Limited,    20.31,0,     0.00
 Star Cement Limited,    66.48,8940,     0.00
 Star Paper Mills Limited,    44.93,3310758,    47.21
@@ -1267,14 +1266,14 @@ Tamilnadu Telecommunication Limited,    63.63,0,     0.00
 Tanla Platforms Limited,    44.15,0,     0.00
 Tantia Constructions Limited,    58.59,0,     0.00
 Tarapur Transformers Limited,    44.63,0,     0.00
-Tarmat Limited,    33.24,0,     0.00
+Tarmat Limited,    33.24,,
 Tata Chemicals Limited,    37.98,0,     0.00
 Tata Communications Limited,    58.86,5262000,     3.14
 Tata Consultancy Services Limited,    72.41,12633090,     0.48
 Tata Elxsi Limited,    43.92,0,     0.00
 Tata Investment Corporation Limited,    73.38,0,     0.00
-Tata Motors Limited,     7.67,0,     0.00
 Tata Motors Limited,    46.37,0,     0.00
+Tata Motors Limited,     7.67,0,     0.00
 Tata Power Company Limited,    46.86,0,     0.00
 Tata Steel Limited,    33.70,0,     0.00
 Tata Teleservices (Maharashtra) Limited,    74.36,0,     0.00
@@ -1322,7 +1321,7 @@ Tide Water Oil Company (India) Limited,    64.73,5877899,    52.11
 Tijaria Polypipes Limited,    35.16,,
 Tilaknagar Industries Limited,    40.26,,
 Time Technoplast Limited,    51.51,0,     0.00
-Times Guaranty Limited,    74.92,0,     0.00
+Times Guaranty Limited,    74.92,,
 Timken India Limited,    57.70,0,     0.00
 Tirupati Forge Limited,    57.69,0,     0.00
 Titan Company Limited,    52.90,0,     0.00
