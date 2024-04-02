@@ -3,3 +3,5 @@ datetime
 numpy
 pandas
 yfinance
+lxml_html_clean
+lxml[html_clean]
