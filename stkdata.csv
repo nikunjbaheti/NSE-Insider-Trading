@@ -727,8 +727,8 @@ FLAIR,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household
 FLEXITUFF,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 FLFL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 FLUOROCHEM,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-FMCGIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-FMGOETZE,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
+FMCGIETF,,,,
+FMGOETZE,,,,
 FMNL,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 FOCE,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 FOCUS,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -736,7 +736,7 @@ FONEBOX,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
 FOODSIN,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 FORCEMOT,Passenger Cars & Utility Vehicles,Consumer Discretionary,Automobile and Auto Components,Automobiles
 FORTIS,Hospital,Healthcare,Healthcare,Healthcare Services
-FOSECOIND,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+FOSECOIND,,,,
 FRETAIL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 FROG,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,Telecom - Equipment & Accessories
 FSC,Logistics Solution Provider,Services,Services,Transport Services
@@ -880,7 +880,7 @@ HARIOMPIPE,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 HARRMALAYA,Rubber,Industrials,Capital Goods,Industrial Products
 HARSHA,Other Industrial Products,Industrials,Capital Goods,Industrial Products
 HATHWAY,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-HATSUN,Dairy Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
+HATSUN,,,,
 HAVELLS,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
 HAVISHA,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 HBLPOWER,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
