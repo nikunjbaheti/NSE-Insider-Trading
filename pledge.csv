@@ -19,8 +19,8 @@ ANDHRA PAPER LIMITED,    72.31,0,     0.00
 APL Apollo Tubes Limited,    29.57,0,     0.00
 ARSS Infrastructure Projects Limited,    46.70,2646648,    24.92
 ATLANTAA LIMITED,    71.93,0,     0.00
-ATN International Limited,     0.17,0,     0.00
-AU Small Finance Bank Limited,    25.46,0,     0.00
+ATN International Limited,     0.17,,
+AU Small Finance Bank Limited,    25.45,0,     0.00
 AVT Natural Products Limited,    75.00,0,     0.00
 AXISCADES Technologies Limited,    65.74,6104000,    24.14
 Aarti Drugs Limited,    57.47,0,     0.00
@@ -129,7 +129,7 @@ Astron Paper & Board Mill Limited,    27.06,0,     0.00
 Atcom Technologies Limited,    14.10,1371500,    63.39
 Atlas Cycles (Haryana) Limited,    41.92,0,     0.00
 Atul Limited,    45.07,130000,     0.98
-Aurionpro Solutions Limited,    30.18,1970000,    26.54
+Aurionpro Solutions Limited,    29.91,1576000,    21.23
 Aurobindo Pharma Limited,    51.83,57403862,    18.90
 Aurum PropTech Limited,    50.34,,
 Ausom Enterprise Limited,    73.70,0,     0.00
@@ -209,7 +209,7 @@ Bkm Industries Limited,    52.88,12300000,    35.50
 Black Box Limited,    71.14,10660175,     8.93
 Bliss GVS Pharma Limited,    34.97,0,     0.00
 Blue Blends (I) Limited,    53.16,11480000,    99.74
-Blue Chip India Limited,    11.25,0,     0.00
+Blue Chip India Limited,    11.25,,
 Blue Coast Hotels Limited,    61.39,55442,     0.71
 Blue Dart Express Limited,    75.00,0,     0.00
 Blue Star Limited,    36.49,0,     0.00
@@ -296,7 +296,7 @@ Cura Technologies Limited,    28.77,2086364,    75.91
 Cyber Media (India) Limited,    61.79,0,     0.00
 Cybertech Systems And Software Limited,    36.45,0,     0.00
 Cyient Limited,    24.14,0,     0.00
-D B Realty Limited,    50.89,101409641,    39.73
+D B Realty Limited,    53.82,101409641,    37.56
 D-Link (India) Limited,    51.02,0,     0.00
 D.B.Corp Limited,    71.95,0,     0.00
 DB (International) Stock Brokers Limited,    36.12,6374465,    50.42
@@ -329,7 +329,7 @@ Dev Information Technology Limited,    71.31,0,     0.00
 Devyani International Limited,    62.74,1500,     0.00
 Dhampur Sugar Mills Limited,    49.08,0,     0.00
 Dhani Services Limited,    36.10,0,     0.00
-Dhanlaxmi Bank Limited,     0.00,0,
+Dhanlaxmi Bank Limited,     0.00,,
 Dhanuka Agritech Limited,    70.18,,
 Dharani Sugars & Chemicals Limited,    61.55,11032168,    53.98
 Dhunseri Investments Limited,    74.95,0,     0.00
@@ -412,8 +412,8 @@ Future Lifestyle Fashions Limited,    20.48,40968074,    99.12
 Future Market Networks Limited,    65.31,36750000,    97.78
 Future Retail Limited,    14.31,24162063,    31.14
 Future Supply Chain Solutions Limited,    21.95,9632685,   100.00
-GACM Technologies Limited,     0.16,0,     0.00
 GACM Technologies Limited,     8.27,0,     0.00
+GACM Technologies Limited,     0.16,0,     0.00
 GAIL (India) Limited,    52.24,0,     0.00
 GB Global Limited,    99.95,4,     0.00
 GE Power India Limited,    68.58,0,     0.00
@@ -496,7 +496,7 @@ Gujarat Pipavav Port Limited,    44.01,0,     0.00
 Gujarat Raffia Industries Limited,    39.56,0,     0.00
 Gujarat State Fertilizers & Chemicals Limited,    37.84,,
 Gujarat State Petronet Limited,    37.63,0,     0.00
-Gulf Oil Lubricants India Limited,    71.94,0,     0.00
+Gulf Oil Lubricants India Limited,    71.80,0,     0.00
 HBL Power Systems Limited,    59.11,0,     0.00
 HCL Infosystems Limited,    62.89,,
 HCL Technologies Limited,    61.02,0,     0.00
@@ -515,7 +515,7 @@ Hathway Cable & Datacom Limited,    75.00,0,     0.00
 Hatsun Agro Product Limited,    73.11,0,     0.00
 Havells India Limited,    59.43,0,     0.00
 Heads UP Ventures Limited,    29.06,0,     0.00
-Healthcare Global Enterprises Limited,    71.29,0,     0.00
+Healthcare Global Enterprises Limited,    71.30,3067000,     3.09
 HeidelbergCement India Limited,    69.39,0,     0.00
 Hercules Hoists Limited,    69.61,0,     0.00
 Heritage Foods Limited,    41.30,0,     0.00
@@ -535,7 +535,7 @@ Hindustan Composites Limited,    74.97,0,     0.00
 Hindustan Construction Company Limited,    18.59,239919286,    85.32
 Hindustan Copper Limited,    66.14,0,     0.00
 Hindustan Media Ventures Limited,    74.71,0,     0.00
-Hindustan Motors Limited,    32.34,0,     0.00
+Hindustan Motors Limited,    32.34,,
 Hindustan Oil Exploration Company Limited,     0.00,0,
 Hindustan Petroleum Corporation Limited,    54.90,0,     0.00
 Hindustan Unilever Limited,    61.90,0,     0.00
@@ -638,8 +638,8 @@ Jagran Prakashan Limited,    69.00,150134478,    99.97
 Jagsonpal Pharmaceuticals Limited,    68.71,0,     0.00
 Jai Balaji Industries Limited,    60.02,30782233,    31.96
 Jai Corp Limited,    73.79,0,     0.00
-Jain Irrigation Systems Limited,    26.40,102661600,    58.26
 Jain Irrigation Systems Limited,    30.37,,
+Jain Irrigation Systems Limited,    26.40,102661600,    58.26
 Jain Studios Limited,    59.87,15924000,    93.02
 Jaiprakash Associates Limited,    29.97,156750,     0.02
 Jaiprakash Power Ventures Limited,    24.00,1302697997,    79.20
@@ -782,7 +782,7 @@ MVL Limited,    55.59,102348420,    30.62
 Maan Aluminium Limited,    60.71,0,     0.00
 Macrotech Developers Limited,    74.92,0,     0.00
 Madhav Marbles and Granites Limited,    42.66,0,     0.00
-Madhucon Projects Limited,    59.08,,
+Madhucon Projects Limited,    59.08,0,     0.00
 Madhya Bharat Agro Products Limited,    74.54,8500,     0.01
 Madras Fertilizers Limited,    85.27,0,     0.00
 Magnum Ventures Limited,    63.23,15547490,    51.41
@@ -902,7 +902,7 @@ Nitco Limited,    50.18,32779319,    90.90
 Nitin Fire Protection Industries Limited,    59.44,37163888,    21.39
 Nitin Spinners Limited,    56.41,0,     0.00
 Noida Toll Bridge Company Limited,    26.37,0,     0.00
-Norben Tea & Exports Limited,    51.44,0,     0.00
+Norben Tea & Exports Limited,    51.44,,
 Nu Tek India Limited,     9.51,,
 Nucleus Software Exports Limited,    73.27,0,     0.00
 OM INFRA LIMITED,    69.09,0,     0.00
@@ -956,7 +956,7 @@ Panacea Biotec Limited,    73.59,0,     0.00
 Panama Petrochem Limited,    70.38,0,     0.00
 Parag Milk Foods Limited,    41.78,0,     0.00
 Paramount Communications Limited,    53.51,39674457,    26.52
-Paras Petrofils Limited,    40.35,0,     0.00
+Paras Petrofils Limited,    40.35,,
 Parenteral Drugs (India) Limited,    73.29,20649243,    94.50
 Parsvnath Developers Limited,    66.30,86480000,    29.97
 Pasupati Acrylon Limited,    65.87,0,     0.00
@@ -990,7 +990,7 @@ Prakash Pipes Limited,    44.27,0,     0.00
 Prakash Steelage Limited,    33.50,60000,     0.10
 Pratibha Industries Limited,    15.70,22758621,    60.74
 Praxis Home Retail Limited,    33.23,0,     0.00
-Precision Wires India Limited,    57.93,0,     0.00
+Precision Wires India Limited,    57.93,,
 Precot Limited,    61.51,0,     0.00
 Premier Limited,    27.37,0,     0.00
 Premier Polyfilm Limited,    67.31,0,     0.00
@@ -1139,7 +1139,7 @@ Setco Automotive Limited,    59.25,74972763,    94.59
 Setubandhan Infrastructure Limited,    27.42,0,     0.00
 Seya Industries Limited,    64.50,0,     0.00
 Shah Alloys Limited,    53.78,2600000,    24.42
-Shah Metacorp Limited,    36.16,0,     0.00
+Shah Metacorp Limited,    36.16,,
 Shakti Pumps (India) Limited,    56.22,0,     0.00
 Shalby Limited,    74.95,0,     0.00
 Shalimar Paints Limited,    31.90,0,     0.00
@@ -1153,7 +1153,7 @@ Shipping Corporation Of India Limited,    63.75,0,     0.00
 Shirpur Gold Refinery Limited,    43.66,5000000,    39.31
 Shivam Autotech Limited,    74.80,0,     0.00
 Shoppers Stop Limited,    65.55,7077204,     9.82
-Shree Pushkar Chemicals & Fertilisers Limited,    68.60,0,     0.00
+Shree Pushkar Chemicals & Fertilisers Limited,    68.60,,
 Shree Ram Proteins Limited,    17.03,27200000,    74.59
 Shree Rama Multi-Tech Limited,    61.57,0,     0.00
 Shree Rama Newsprint Limited,    74.76,0,     0.00
@@ -1162,7 +1162,7 @@ Shrenik Limited,    33.00,179555894,    88.91
 Shreyans Industries Limited,    50.53,0,     0.00
 Shreyas Shipping & Logistics Limited,    70.44,0,     0.00
 Shriram Finance Limited,    25.43,,
-Shyam Century Ferrous Limited,    51.70,0,     0.00
+Shyam Century Ferrous Limited,    51.70,,
 Shyam Telecom Limited,    66.16,0,     0.00
 Siemens Limited,    75.00,17806012,     6.67
 Sigachi Industries Limited,    48.49,,
@@ -1171,7 +1171,7 @@ Simplex Infrastructures Limited,    49.82,0,     0.00
 Sintercom India Limited,    69.75,700000,     3.65
 Sintex Plastics Technology Limited,     0.08,0,     0.00
 Siti Networks Limited,     6.10,0,     0.00
-Siyaram Silk Mills Limited,    67.44,0,     0.00
+Siyaram Silk Mills Limited,    67.18,0,     0.00
 Smartlink Holdings Limited,    71.90,0,     0.00
 Smc Global Securities Limited,    67.39,9602205,    13.61
 Snowman Logistics Limited,    44.27,0,     0.00
@@ -1190,7 +1190,7 @@ Spentex Industries Limited,    42.10,37797226,   100.00
 Sree Rayalaseema Hi-Strength Hypo Limited,    61.84,0,     0.00
 Sreeleathers Limited,    75.00,0,     0.00
 Standard Industries Limited,    20.31,0,     0.00
-Star Cement Limited,    66.48,8940,     0.00
+Star Cement Limited,    66.55,8940,     0.00
 Star Paper Mills Limited,    44.93,3310758,    47.21
 State Bank Of India,    57.92,0,     0.00
 Steel Authority of India Limited,    65.00,0,     0.00
@@ -1265,19 +1265,19 @@ Tamilnadu PetroProducts Limited,    34.54,0,     0.00
 Tamilnadu Telecommunication Limited,    63.63,0,     0.00
 Tanla Platforms Limited,    44.15,0,     0.00
 Tantia Constructions Limited,    58.59,0,     0.00
-Tarapur Transformers Limited,    44.63,0,     0.00
+Tarapur Transformers Limited,    44.63,8416460,    96.71
 Tarmat Limited,    33.24,,
 Tata Chemicals Limited,    37.98,0,     0.00
 Tata Communications Limited,    58.86,5262000,     3.14
 Tata Consultancy Services Limited,    72.41,12633090,     0.48
 Tata Elxsi Limited,    43.92,0,     0.00
 Tata Investment Corporation Limited,    73.38,0,     0.00
-Tata Motors Limited,    46.37,0,     0.00
 Tata Motors Limited,     7.67,0,     0.00
+Tata Motors Limited,    46.37,0,     0.00
 Tata Power Company Limited,    46.86,0,     0.00
 Tata Steel Limited,    33.70,0,     0.00
 Tata Teleservices (Maharashtra) Limited,    74.36,0,     0.00
-Tci Finance Limited,    24.72,0,     0.00
+Tci Finance Limited,    24.72,,
 Teamlease Services Limited,    31.65,84050,     1.58
 Tech Mahindra Limited,    35.11,0,     0.00
 Techindia Nirman Limited,    18.42,0,     0.00
@@ -1309,7 +1309,7 @@ The South Indian Bank Limited,     0.00,0,
 The State Trading Corporation of India Limited,    90.00,0,     0.00
 The Ugar Sugar Works Limited,    44.34,0,     0.00
 The United Nilgiri Tea Estates Company Limited,    49.79,0,     0.00
-The Western India Plywoods Limited,    41.01,349760,    10.05
+The Western India Plywoods Limited,    41.00,349760,    10.05
 Thejo Engineering Limited,    54.15,0,     0.00
 Themis Medicare Limited,    67.16,1452842,    23.51
 Thermax Limited,    67.47,0,     0.00
@@ -1389,12 +1389,11 @@ Vardhman Special Steels Limited,    60.67,0,     0.00
 Vardhman Textiles Limited,    64.13,0,     0.00
 Varun Beverages Limited,    63.09,316408,     0.04
 Vascon Engineers Limited,    31.62,19517124,    27.89
-Vaswani Industries Limited,    58.33,0,     0.00
+Vaswani Industries Limited,    58.33,,
 Vedanta Limited,    63.78,2368189293,    99.89
 Venky's (India) Limited,    56.11,0,     0.00
 Venus Remedies Limited,    41.76,0,     0.00
 Vesuvius India Limited,    55.57,0,     0.00
-Viceroy Hotels Limited,    95.00,0,     0.00
 Videocon Industries Limited,    39.95,133264547,    99.75
 Viji Finance Limited,    39.83,0,     0.00
 Vikas EcoTech Limited,     6.87,0,     0.00
@@ -1428,7 +1427,7 @@ Welspun Investments and Commercials Limited,    74.58,0,     0.00
 Welspun Living Limited,    71.51,0,     0.00
 Wendt (India) Limited,    75.00,0,     0.00
 West Coast Paper Mills Limited,    56.53,0,     0.00
-Wheels India Limited,    58.31,0,     0.00
+Wheels India Limited,    58.31,,
 Whirlpool of India Limited,    75.00,0,     0.00
 Williamson Magor & Company Limited,    62.01,0,     0.00
 Windsor Machines Limited,    58.52,0,     0.00
