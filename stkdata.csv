@@ -218,7 +218,7 @@ ASIANTILES,Ceramics,Consumer Discretionary,Consumer Durables,Consumer Durables
 ASKAUTOLTD,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 ASMS,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ASPINWALL,Logistics Solution Provider,Services,Services,Transport Services
-ASPIRE,,,,
+ASPIRE,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 ASTEC,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 ASTERDM,Hospital,Healthcare,Healthcare,Healthcare Services
 ASTRAL,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
@@ -368,7 +368,7 @@ BLSE,IT Enabled Services,Information Technology,Information Technology,IT - Serv
 BLUECHIP,Investment Company,Financial Services,Financial Services,Finance
 BLUEDART,Logistics Solution Provider,Services,Services,Transport Services
 BLUEJET,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-BLUEPEBBLE,,,,
+BLUEPEBBLE,Other Consumer Services,Consumer Discretionary,Consumer Services,Other Consumer Services
 BLUESTARCO,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 BMETRICS,Trading & Distributors,Services,Services,Commercial Services & Supplies
 BODALCHEM,Dyes And Pigments,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -511,7 +511,7 @@ CROWN,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 CSBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 CSLFINANCE,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 CTE,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-CUB,Private Sector Bank,Financial Services,Financial Services,Banks
+CUB,,,,
 CUBEXTUB,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
 CUMMINSIND,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
 CUPID,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
@@ -666,71 +666,71 @@ ENFUSE,IT Enabled Services,Information Technology,Information Technology,IT - Se
 ENGINERSIN,Civil Construction,Industrials,Construction,Construction
 ENIL,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 ENSER,IT Enabled Services,Information Technology,Information Technology,IT - Services
-ENTERO,Pharmacy Retail,Consumer Discretionary,Consumer Services,Retailing
+ENTERO,,,,
 EPACK,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EPIGRAL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 EPL,Packaging,Industrials,Capital Goods,Industrial Products
-EQUAL50ADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-EQUIPPP,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-EQUITASBNK,Other Bank,Financial Services,Financial Services,Banks
-ERIS,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-EROSMEDIA,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-ESABINDIA,Other Industrial Products,Industrials,Capital Goods,Industrial Products
-ESAFSFB,Other Bank,Financial Services,Financial Services,Banks
-ESCONET,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
-ESCORTS,Tractors,Industrials,Capital Goods,Agricultural Commercial & Construction Vehicles
-ESFL,Plastic Products - Consumer,Consumer Discretionary,Consumer Durables,Consumer Durables
-ESG,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-ESILVER,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-ESSARSHPNG,Shipping,Services,Services,Transport Services
+EQUAL50ADD,,,,
+EQUIPPP,,,,
+EQUITASBNK,,,,
+ERIS,,,,
+EROSMEDIA,,,,
+ESABINDIA,,,,
+ESAFSFB,,,,
+ESCONET,,,,
+ESCORTS,,,,
+ESFL,,,,
+ESG,,,,
+ESILVER,,,,
+ESSARSHPNG,,,,
 ESSENTIA,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
-ESTER,Packaging,Industrials,Capital Goods,Industrial Products
-ETHOSLTD,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-EUROBOND,Aluminium,Commodities,Metals & Mining,Non - Ferrous Metals
-EUROTEXIND,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-EVEREADY,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
-EVERESTIND,Other Construction Materials,Commodities,Construction Materials,Other Construction Materials
-EXCEL,Trading & Distributors,Services,Services,Commercial Services & Supplies
-EXCELINDUS,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-EXICOM,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-EXIDEIND,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-EXPLEOSOL,IT Enabled Services,Information Technology,Information Technology,IT - Services
-EXXARO,Ceramics,Consumer Discretionary,Consumer Durables,Consumer Durables
+ESTER,,,,
+ETHOSLTD,,,,
+EUROBOND,,,,
+EUROTEXIND,,,,
+EVEREADY,,,,
+EVERESTIND,,,,
+EXCEL,,,,
+EXCELINDUS,,,,
+EXICOM,,,,
+EXIDEIND,,,,
+EXPLEOSOL,,,,
+EXXARO,,,,
 FACT,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-FAIRCHEMOR,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-FAZE3Q,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-FCL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-FCONSUMER,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-FCSSOFT,IT Enabled Services,Information Technology,Information Technology,IT - Services
-FDC,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-FEDERALBNK,Private Sector Bank,Financial Services,Financial Services,Banks
-FEDFINA,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-FEL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-FELDVR,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-FELIX,Water Supply & Management,Utilities,Utilities,Other Utilities
-FIBERWEB,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-FIDEL,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-FIEMIND,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-FILATEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-FINCABLES,Cables - Electricals,Industrials,Capital Goods,Industrial Products
-FINEORG,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-FINIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-FINOPB,Other Bank,Financial Services,Financial Services,Banks
-FINPIPE,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
-FIVESTAR,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-FLAIR,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
-FLEXITUFF,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-FLFL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-FLUOROCHEM,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+FAIRCHEMOR,,,,
+FAZE3Q,,,,
+FCL,,,,
+FCONSUMER,,,,
+FCSSOFT,,,,
+FDC,,,,
+FEDERALBNK,,,,
+FEDFINA,,,,
+FEL,,,,
+FELDVR,,,,
+FELIX,,,,
+FIBERWEB,,,,
+FIDEL,,,,
+FIEMIND,,,,
+FILATEX,,,,
+FINCABLES,,,,
+FINEORG,,,,
+FINIETF,,,,
+FINOPB,,,,
+FINPIPE,,,,
+FIVESTAR,,,,
+FLAIR,,,,
+FLEXITUFF,,,,
+FLFL,,,,
+FLUOROCHEM,,,,
 FMCGIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-FMGOETZE,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-FMNL,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
+FMGOETZE,,,,
+FMNL,,,,
 FOCE,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-FOCUS,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
+FOCUS,,,,
 FONEBOX,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
 FOODSIN,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 FORCEMOT,Passenger Cars & Utility Vehicles,Consumer Discretionary,Automobile and Auto Components,Automobiles
-FORTIS,Hospital,Healthcare,Healthcare,Healthcare Services
+FORTIS,,,,
 FOSECOIND,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 FRETAIL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 FROG,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,Telecom - Equipment & Accessories
@@ -738,17 +738,17 @@ FSC,Logistics Solution Provider,Services,Services,Transport Services
 FSL,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
 FUSION,Microfinance Institutions,Financial Services,Financial Services,Finance
 GABRIEL,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-GAEL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-GAIL,Gas Transmission/Marketing,Energy,Oil Gas & Consumable Fuels,Gas
+GAEL,,,,
+GAIL,,,,
 GALAXYSURF,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 GALLANTT,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 GANDHAR,Lubricants,Energy,Oil Gas & Consumable Fuels,Petroleum Products
 GANDHITUBE,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 GANECOS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-GANESHBE,Oil Storage & Transportation,Energy,Oil Gas & Consumable Fuels,Oil
+GANESHBE,,,,
 GANESHHOUC,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 GANGAFORGE,Castings & Forgings,Industrials,Capital Goods,Industrial Products
-GANGESSECU,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+GANGESSECU,,,,
 GARFIBRES,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 GATECH,Other Financial Services,Financial Services,Financial Services,Finance
 GATECHDVR,Other Financial Services,Financial Services,Financial Services,Finance
@@ -1369,7 +1369,7 @@ LINCOLN,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 LINDEINDIA,Industrial Gases,Commodities,Chemicals,Chemicals & Petrochemicals
 LIQUID,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUID1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-LIQUIDADD,,,,
+LIQUIDADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUIDBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUIDCASE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 LIQUIDETF,,,,
@@ -2300,7 +2300,7 @@ SRF,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 SRGHFL,Housing Finance Company,Financial Services,Financial Services,Finance
 SRHHYPOLTD,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 SRIVASAVI,Other Industrial Products,Industrials,Capital Goods,Industrial Products
-SRM,,,,
+SRM,Civil Construction,Industrials,Construction,Construction
 SRPL,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 SSFL,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 SSWL,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
@@ -2571,7 +2571,7 @@ VESUVIUS,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
 VETO,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
 VGUARD,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 VHL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-VHLTD,,,,
+VHLTD,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 VIAZ,Tyres & Rubber Products,Consumer Discretionary,Automobile and Auto Components,Auto Components
 VIDHIING,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 VIJAYA,Healthcare Service Provider,Healthcare,Healthcare,Healthcare Services
