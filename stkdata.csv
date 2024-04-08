@@ -540,7 +540,7 @@ DCAL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 DCBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 DCI,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
 DCM,IT Enabled Services,Information Technology,Information Technology,IT - Services
-DCMFINSERV,Investment Company,Financial Services,Financial Services,Finance
+DCMFINSERV,,,,
 DCMNVL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 DCMSHRIRAM,Diversified,Diversified,Diversified,Diversified
 DCMSRIND,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
@@ -548,7 +548,7 @@ DCW,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 DCXINDIA,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 DECCANCE,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 DEEM,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-DEEPAKFERT,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+DEEPAKFERT,,,,
 DEEPAKNTR,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 DEEPENR,Oil Exploration & Production,Energy,Oil Gas & Consumable Fuels,Oil
 DEEPINDS,Offshore Support Solution Drilling,Energy,Oil Gas & Consumable Fuels,Oil
