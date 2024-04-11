@@ -344,7 +344,7 @@ BEL,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 BEML,Construction Vehicles,Industrials,Capital Goods,Agricultural Commercial & Construction Vehicles
 BEPL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 BERGEPAINT,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
-BESTAGRO,,,,
+BESTAGRO,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 BETA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 BEWLTD,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 BFINVEST,Holding Company,Financial Services,Financial Services,Finance
@@ -668,7 +668,7 @@ EMSLIMITED,Waste Management,Utilities,Utilities,Other Utilities
 EMUDHRA,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ENDURANCE,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 ENERGYDEV,Power Generation,Utilities,Power,Power
-ENFUSE,,,,
+ENFUSE,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ENGINERSIN,Civil Construction,Industrials,Construction,Construction
 ENIL,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 ENSER,IT Enabled Services,Information Technology,Information Technology,IT - Services
@@ -676,7 +676,7 @@ ENTERO,Pharmacy Retail,Consumer Discretionary,Consumer Services,Retailing
 EPACK,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EPIGRAL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 EPL,Packaging,Industrials,Capital Goods,Industrial Products
-EQUAL50ADD,,,,
+EQUAL50ADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 EQUIPPP,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 EQUITASBNK,Other Bank,Financial Services,Financial Services,Banks
 ERFLNCDI,,,,
@@ -690,7 +690,7 @@ ESFL,Plastic Products - Consumer,Consumer Discretionary,Consumer Durables,Consum
 ESG,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ESILVER,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 ESSARSHPNG,Shipping,Services,Services,Transport Services
-ESSENTIA,,,,
+ESSENTIA,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 ESTER,Packaging,Industrials,Capital Goods,Industrial Products
 ETHOSLTD,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 EUROBOND,Aluminium,Commodities,Metals & Mining,Non - Ferrous Metals
@@ -853,7 +853,7 @@ GRSE,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 GRWRHITECH,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
 GSEC10YEAR,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GSEC5IETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-GSFC,,,,
+GSFC,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
 GSLSU,Granites & Marbles,Consumer Discretionary,Consumer Durables,Consumer Durables
 GSPL,Gas Transmission/Marketing,Energy,Oil Gas & Consumable Fuels,Gas
 GSS,IT Enabled Services,Information Technology,Information Technology,IT - Services
@@ -2225,7 +2225,7 @@ SILVERTUC,IT Enabled Services,Information Technology,Information Technology,IT -
 SILVRETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SIMBHALS,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 SIMPLEXINF,Civil Construction,Industrials,Construction,Construction
-SINCLAIR,,,,
+SINCLAIR,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 SINDHUTRAD,Diversified,Diversified,Diversified,Diversified
 SINTERCOM,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 SIRCA,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
