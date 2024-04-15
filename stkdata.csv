@@ -511,61 +511,61 @@ CREST,Non Banking Financial Company (NBFC),Financial Services,Financial Services
 CRISIL,Other Financial Services,Financial Services,Financial Services,Finance
 CROMPTON,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 CROWN,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-CSBBANK,,,,
+CSBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 CSLFINANCE,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-CTE,,,,
-CUB,,,,
-CUBEXTUB,,,,
-CUMMINSIND,,,,
-CUPID,,,,
-CYBERMEDIA,,,,
-CYBERTECH,,,,
-CYIENT,,,,
-CYIENTDLM,,,,
-DABUR,,,,
-DALBHARAT,,,,
-DALMIASUG,,,,
-DAMODARIND,,,,
-DANGEE,,,,
-DATAMATICS,,,,
-DATAPATTNS,,,,
-DAVANGERE,,,,
-DBCORP,,,,
-DBL,,,,
-DBOL,,,,
-DBREALTY,,,,
-DBSTOCKBRO,,,,
-DCAL,,,,
-DCBBANK,,,,
-DCI,,,,
-DCM,,,,
-DCMFINSERV,,,,
-DCMNVL,,,,
-DCMSHRIRAM,,,,
-DCMSRIND,,,,
-DCW,,,,
-DCXINDIA,,,,
-DECCANCE,,,,
+CTE,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
+CUB,Private Sector Bank,Financial Services,Financial Services,Banks
+CUBEXTUB,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
+CUMMINSIND,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
+CUPID,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
+CYBERMEDIA,Electronic Media,Consumer Discretionary,Media Entertainment & Publication,Media
+CYBERTECH,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
+CYIENT,IT Enabled Services,Information Technology,Information Technology,IT - Services
+CYIENTDLM,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
+DABUR,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
+DALBHARAT,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
+DALMIASUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+DAMODARIND,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+DANGEE,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
+DATAMATICS,IT Enabled Services,Information Technology,Information Technology,IT - Services
+DATAPATTNS,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
+DAVANGERE,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diversified FMCG
+DBCORP,Print Media,Consumer Discretionary,Media Entertainment & Publication,Media
+DBL,Civil Construction,Industrials,Construction,Construction
+DBOL,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+DBREALTY,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
+DBSTOCKBRO,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
+DCAL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+DCBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
+DCI,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
+DCM,IT Enabled Services,Information Technology,Information Technology,IT - Services
+DCMFINSERV,Investment Company,Financial Services,Financial Services,Finance
+DCMNVL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+DCMSHRIRAM,Diversified,Diversified,Diversified,Diversified
+DCMSRIND,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+DCW,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+DCXINDIA,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
+DECCANCE,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 DEEM,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-DEEPAKFERT,,,,
-DEEPAKNTR,,,,
-DEEPENR,,,,
-DEEPINDS,,,,
-DELAPLEX,,,,
-DELHIVERY,,,,
-DELPHIFX,,,,
-DELTACORP,,,,
-DELTAMAGNT,,,,
-DEN,,,,
-DENEERS,,,,
-DENORA,,,,
-DENTALKART,,,,
-DESTINY,,,,
-DEVIT,,,,
-DEVYANI,,,,
-DGCONTENT,,,,
-DHAMPURSUG,,,,
-DHANBANK,,,,
+DEEPAKFERT,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+DEEPAKNTR,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+DEEPENR,Oil Exploration & Production,Energy,Oil Gas & Consumable Fuels,Oil
+DEEPINDS,Offshore Support Solution Drilling,Energy,Oil Gas & Consumable Fuels,Oil
+DELAPLEX,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
+DELHIVERY,Logistics Solution Provider,Services,Services,Transport Services
+DELPHIFX,Other Financial Services,Financial Services,Financial Services,Finance
+DELTACORP,Amusement Parks/ Other Recreation,Consumer Discretionary,Consumer Services,Leisure Services
+DELTAMAGNT,Other Industrial Products,Industrials,Capital Goods,Industrial Products
+DEN,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
+DENEERS,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
+DENORA,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
+DENTALKART,Medical Equipment & Supplies,Healthcare,Healthcare,Healthcare Equipment & Supplies
+DESTINY,Civil Construction,Industrials,Construction,Construction
+DEVIT,IT Enabled Services,Information Technology,Information Technology,IT - Services
+DEVYANI,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
+DGCONTENT,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
+DHAMPURSUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+DHANBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 DHANI,Other Financial Services,Financial Services,Financial Services,Finance
 DHANILOANS,,,,
 DHANILOANS,,,,
@@ -575,27 +575,27 @@ DHANILOANS,,,,
 DHANILOANS,,,,
 DHANILOANS,,,,
 DHANILOANS,,,,
-DHANUKA,,,,
-DHARMAJ,,,,
+DHANUKA,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
+DHARMAJ,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 DHRUV,Consulting Services,Services,Services,Commercial Services & Supplies
-DHTL,,,,
-DHUNINV,,,,
+DHTL,E-Learning,Consumer Discretionary,Consumer Services,Other Consumer Services
+DHUNINV,Investment Company,Financial Services,Financial Services,Finance
 DIACABS,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-DIAMINESQ,,,,
-DIAMONDYD,,,,
-DICIND,,,,
-DIGIDRIVE,,,,
+DIAMINESQ,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
+DIAMONDYD,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
+DICIND,Printing Inks,Commodities,Chemicals,Chemicals & Petrochemicals
+DIGIDRIVE,E-Retail/ E-Commerce,Consumer Discretionary,Consumer Services,Retailing
 DIGIKORE,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 DIGISPICE,IT Enabled Services,Information Technology,Information Technology,IT - Services
 DIGJAMLMTD,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 DIL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-DISHTV,,,,
+DISHTV,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 DIVGIITTS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 DIVISLAB,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 DIVOPPBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 DIXON,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
 DJML,Logistics Solution Provider,Services,Services,Transport Services
-DLF,,,,
+DLF,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 DLINKINDIA,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
 DMART,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
 DMCC,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -607,7 +607,7 @@ DOLLEX,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural 
 DOLPHIN,Offshore Support Solution Drilling,Energy,Oil Gas & Consumable Fuels,Oil
 DOMS,Stationary,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
 DONEAR,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-DPABHUSHAN,,,,
+DPABHUSHAN,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 DPSCLTD,Integrated Power Utilities,Utilities,Power,Power
 DPWIRES,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 DRCSYSTEMS,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
