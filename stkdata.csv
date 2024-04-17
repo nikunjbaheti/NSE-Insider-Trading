@@ -101,7 +101,7 @@ ADSL,IT Enabled Services,Information Technology,Information Technology,IT - Serv
 ADVANIHOTR,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 ADVENZYMES,Biotechnology,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 AEGISCHEM,Trading - Gas,Energy,Oil Gas & Consumable Fuels,Gas
-AEROFLEX,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
+AEROFLEX,,,,
 AETHER,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 AFFLE,IT Enabled Services,Information Technology,Information Technology,IT - Services
 AGARIND,Petrochemicals,Commodities,Chemicals,Chemicals & Petrochemicals
@@ -548,7 +548,7 @@ DBREALTY,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 DBSTOCKBRO,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
 DCAL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 DCBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
-DCG,,,,
+DCG,Cables - Electricals,Industrials,Capital Goods,Industrial Products
 DCI,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
 DCM,IT Enabled Services,Information Technology,Information Technology,IT - Services
 DCMFINSERV,Investment Company,Financial Services,Financial Services,Finance
@@ -572,9 +572,9 @@ DEN,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertain
 DENEERS,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 DENORA,Electrodes & Refractories,Industrials,Capital Goods,Industrial Products
 DENTALKART,Medical Equipment & Supplies,Healthcare,Healthcare,Healthcare Equipment & Supplies
-DEVIT,,,,
-DEVYANI,,,,
-DGCONTENT,,,,
+DEVIT,IT Enabled Services,Information Technology,Information Technology,IT - Services
+DEVYANI,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
+DGCONTENT,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
 DHAMPURSUG,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 DHANBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 DHANI,Other Financial Services,Financial Services,Financial Services,Finance
@@ -815,7 +815,7 @@ GOENKA,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consu
 GOKEX,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 GOKUL,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 GOKULAGRO,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-GOLD1,,,,
+GOLD1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDCASE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -2218,7 +2218,7 @@ SILGO,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consum
 SILINV,Investment Company,Financial Services,Financial Services,Finance
 SILLYMONKS,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 SILVER,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-SILVER1,,,,
+SILVER1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SILVERADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SILVERBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 SILVERETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -2420,7 +2420,7 @@ TEXRAIL,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 TFCILTD,Financial Institution,Financial Services,Financial Services,Finance
 TFL,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 TGBHOTELS,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
-TGL,,,,
+TGL,Civil Construction,Industrials,Construction,Construction
 THANGAMAYL,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 THEINVEST,Other Financial Services,Financial Services,Financial Services,Finance
 THEJO,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
@@ -2488,7 +2488,7 @@ UBL,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Goo
 UCAL,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 UCOBANK,Public Sector Bank,Financial Services,Financial Services,Banks
 UDS,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
-UEL,,,,
+UEL,Power Generation,Utilities,Power,Power
 UFLEX,Packaging,Industrials,Capital Goods,Industrial Products
 UFO,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 UGARSUGAR,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
