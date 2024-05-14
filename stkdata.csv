@@ -626,44 +626,44 @@ DUGLOBAL,Tour Travel Related Services,Consumer Discretionary,Consumer Services,L
 DVL,Diversified,Diversified,Diversified,Diversified
 DWARKESH,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 DYCL,Cables - Electricals,Industrials,Capital Goods,Industrial Products
-DYNAMATECH,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
+DYNAMATECH,,,,
 DYNAMIC,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 DYNPRO,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 E2E,IT Enabled Services,Information Technology,Information Technology,IT - Services
-EASEMYTRIP,Tour Travel Related Services,Consumer Discretionary,Consumer Services,Leisure Services
-EBBETF0425,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+EASEMYTRIP,,,,
+EBBETF0425,,,,
 EBBETF0430,,,,
-EBBETF0431,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-EBBETF0433,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-ECLERX,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
-EDELWEISS,Holding Company,Financial Services,Financial Services,Finance
-EDUCOMP,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
-EFACTOR,Other Consumer Services,Consumer Discretionary,Consumer Services,Other Consumer Services
-EFORCE,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-EGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+EBBETF0431,,,,
+EBBETF0433,,,,
+ECLERX,,,,
+EDELWEISS,,,,
+EDUCOMP,,,,
+EFACTOR,,,,
+EFORCE,,,,
+EGOLD,,,,
 EICHERMOT,2/3 Wheelers,Consumer Discretionary,Automobile and Auto Components,Automobiles
-EIDPARRY,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-EIFFL,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-EIHAHOTELS,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
+EIDPARRY,,,,
+EIFFL,,,,
+EIHAHOTELS,,,,
 EIHOTEL,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
-EIMCOELECO,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-EKC,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-ELDEHSG,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-ELECON,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-ELECTCAST,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-ELECTHERM,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
-ELGIEQUIP,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
-ELGIRUBCO,Rubber,Industrials,Capital Goods,Industrial Products
-ELIN,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
+EIMCOELECO,,,,
+EKC,,,,
+ELDEHSG,,,,
+ELECON,,,,
+ELECTCAST,,,,
+ELECTHERM,,,,
+ELGIEQUIP,,,,
+ELGIRUBCO,,,,
+ELIN,,,,
 EMAMILTD,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
-EMAMIPAP,Paper & Paper Products,Commodities,Forest Materials,Paper Forest & Jute Products
-EMAMIREAL,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-EMBASSY,Real Estate Investment Trusts (REITs),Consumer Discretionary,Realty,Realty
-EMIL,Diversified Retail,Consumer Discretionary,Consumer Services,Retailing
-EMKAY,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
-EMKAYTOOLS,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
-EMMBI,Packaging,Industrials,Capital Goods,Industrial Products
-EMSLIMITED,Waste Management,Utilities,Utilities,Other Utilities
+EMAMIPAP,,,,
+EMAMIREAL,,,,
+EMBASSY,,,,
+EMIL,,,,
+EMKAY,,,,
+EMKAYTOOLS,,,,
+EMMBI,,,,
+EMSLIMITED,,,,
 EMUDHRA,IT Enabled Services,Information Technology,Information Technology,IT - Services
 ENDURANCE,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 ENERGYDEV,Power Generation,Utilities,Power,Power
@@ -826,7 +826,7 @@ GOLDETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDETFADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 GOLDIAM,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
 GOLDIETF,,,,
-GOLDSHARE,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+GOLDSHARE,,,,
 GOLDSTAR,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 GOLDTECH,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 GOODLUCK,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
