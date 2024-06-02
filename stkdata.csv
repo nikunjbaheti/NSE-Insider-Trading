@@ -249,7 +249,7 @@ AUBANK,Other Bank,Financial Services,Financial Services,Banks
 AURDIS,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Beverages
 AURIONPRO,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 AUROIMPEX,Other Industrial Products,Industrials,Capital Goods,Industrial Products
-AUROPHARMA,,,,
+AUROPHARMA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 AURUM,IT Enabled Services,Information Technology,Information Technology,IT - Services
 AURUMPP1,IT Enabled Services,Information Technology,Information Technology,IT - Services
 AUSOMENT,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -272,22 +272,22 @@ AXISBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 AXISBNKETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 AXISBPSETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 AXISCADES,IT Enabled Services,Information Technology,Information Technology,IT - Services
-AXISCETF,,,,
-AXISGOLD,,,,
-AXISHCETF,,,,
-AXISILVER,,,,
-AXISNIFTY,,,,
-AXISTECETF,,,,
-AXITA,,,,
-AXSENSEX,,,,
-AYMSYNTEX,,,,
-AZAD,,,,
-BABAFP,,,,
-BAGFILMS,,,,
-BAHETI,,,,
-BAIDFIN,,,,
-BAJAJ-AUTO,,,,
-BAJAJCON,,,,
+AXISCETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AXISGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AXISHCETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AXISILVER,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AXISNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AXISTECETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AXITA,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+AXSENSEX,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AYMSYNTEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+AZAD,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
+BABAFP,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
+BAGFILMS,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
+BAHETI,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
+BAIDFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
+BAJAJ-AUTO,2/3 Wheelers,Consumer Discretionary,Automobile and Auto Components,Automobiles
+BAJAJCON,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 BAJAJELEC,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 BAJAJFINSV,Holding Company,Financial Services,Financial Services,Finance
 BAJAJHCARE,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
@@ -499,7 +499,7 @@ CONTROLPR,Computers Hardware & Equipments,Information Technology,Information Tec
 CORALFINAC,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 CORDSCABLE,Cables - Electricals,Industrials,Capital Goods,Industrial Products
 COROMANDEL,Fertilizers,Commodities,Chemicals,Fertilizers & Agrochemicals
-COSMOFIRST,,,,
+COSMOFIRST,Packaging,Industrials,Capital Goods,Industrial Products
 COUNCODOS,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 CPS,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 CPSEETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
