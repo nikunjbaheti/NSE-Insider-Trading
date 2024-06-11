@@ -436,7 +436,7 @@ CAPACITE,Civil Construction,Industrials,Construction,Construction
 CAPITALSFB,Other Bank,Financial Services,Financial Services,Banks
 CAPLIPOINT,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 CAPTRUST,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-CARBORUNIV,Abrasives & Bearings,Industrials,Capital Goods,Industrial Products
+CARBORUNIV,,,,
 CAREERP,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
 CARERATING,Ratings,Financial Services,Financial Services,Capital Markets
 CARTRADE,E-Retail/ E-Commerce,Consumer Discretionary,Consumer Services,Retailing
@@ -499,7 +499,7 @@ COFORGE,Computers - Software & Consulting,Information Technology,Information Tec
 COLPAL,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 COMMITTED,Logistics Solution Provider,Services,Services,Transport Services
 COMMOIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-COMPINFO,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
+COMPINFO,,,,
 COMPUSOFT,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
 COMSYN,Packaging,Industrials,Capital Goods,Industrial Products
 CONCOR,Logistics Solution Provider,Services,Services,Transport Services
