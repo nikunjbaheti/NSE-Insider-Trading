@@ -469,7 +469,7 @@ CINELINE,Film Production Distribution & Exhibition,Consumer Discretionary,Media 
 CINEVISTA,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 CIPLA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 CLEAN,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-CLEDUCATE,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
+CLEDUCATE,,,,
 CLOUD,Other Telecom Services,Telecommunication,Telecommunication,Telecom - Services
 CLSEL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 CLSL,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
@@ -584,10 +584,10 @@ DIGISPICE,IT Enabled Services,Information Technology,Information Technology,IT -
 DIGJAMLMTD,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 DIL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 DISHTV,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-DIVGIITTS,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-DIVISLAB,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+DIVGIITTS,,,,
+DIVISLAB,,,,
 DIVOPPBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-DIXON,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
+DIXON,,,,
 DJML,Logistics Solution Provider,Services,Services,Transport Services
 DKEGL,Packaging,Industrials,Capital Goods,Industrial Products
 DLF,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
