@@ -493,11 +493,11 @@ COFFEEDAY,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
 COFORGE,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 COLPAL,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
 COMMITTED,Logistics Solution Provider,Services,Services,Transport Services
-COMMOIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-COMPUSOFT,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
+COMMOIETF,,,,
+COMPUSOFT,,,,
 COMSYN,Packaging,Industrials,Capital Goods,Industrial Products
-CONCOR,Logistics Solution Provider,Services,Services,Transport Services
-CONCORDBIO,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+CONCOR,,,,
+CONCORDBIO,,,,
 CONFIPET,LPG/CNG/PNG/LNG Supplier,Energy,Oil Gas & Consumable Fuels,Gas
 CONS,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 CONSOFINVT,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
@@ -513,7 +513,7 @@ COUNCODOS,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 CPS,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 CPSEETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 CRAFTSMAN,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-CRAYONS,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
+CRAYONS,,,,
 CREATIVE,Trading & Distributors,Services,Services,Commercial Services & Supplies
 CREATIVEYE,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 CREDITACC,Microfinance Institutions,Financial Services,Financial Services,Finance
@@ -523,7 +523,7 @@ CROMPTON,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer 
 CROWN,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 CSBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 CSLFINANCE,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-CTE,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
+CTE,,,,
 CUB,Private Sector Bank,Financial Services,Financial Services,Banks
 CUBEXTUB,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
 CUMMINSIND,Compressors Pumps & Diesel Engines,Industrials,Capital Goods,Industrial Products
@@ -673,7 +673,7 @@ ENFUSE,IT Enabled Services,Information Technology,Information Technology,IT - Se
 ENGINERSIN,Civil Construction,Industrials,Construction,Construction
 ENIL,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 ENSER,IT Enabled Services,Information Technology,Information Technology,IT - Services
-ENTERO,Pharmacy Retail,Consumer Discretionary,Consumer Services,Retailing
+ENTERO,,,,
 EPACK,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 EPIGRAL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 EPL,Packaging,Industrials,Capital Goods,Industrial Products
@@ -694,7 +694,7 @@ ESSEN-RE2,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparel
 ESSENTIA,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 ESTER,Packaging,Industrials,Capital Goods,Industrial Products
 ETHOSLTD,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-EUROBOND,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
+EUROBOND,,,,
 EUROTEXIND,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 EVEREADY,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
 EVERESTIND,Other Construction Materials,Commodities,Construction Materials,Other Construction Materials
