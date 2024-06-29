@@ -414,7 +414,7 @@ BURNPUR,Cement & Cement Products,Commodities,Construction Materials,Cement & Cem
 BUTTERFLY,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 BVCL,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 BYKE,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
-CADSYS,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
+CADSYS,,,,
 CALSOFT,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 CAMLINFINE,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 CAMPUS,Footwear,Consumer Discretionary,Consumer Durables,Consumer Durables
@@ -438,7 +438,7 @@ CCHHL,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
 CCL,Tea & Coffee,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 CDSL,Depositories Clearing Houses and Other Intermediaries,Financial Services,Financial Services,Capital Markets
 CEATLTD,Tyres & Rubber Products,Consumer Discretionary,Automobile and Auto Components,Auto Components
-CELEBRITY,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
+CELEBRITY,,,,
 CELLECOR,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
 CELLO,Houseware,Consumer Discretionary,Consumer Durables,Consumer Durables
 CELLPOINT,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
@@ -594,7 +594,7 @@ DIVGIITTS,Auto Components & Equipments,Consumer Discretionary,Automobile and Aut
 DIVISLAB,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 DIVOPPBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 DIXON,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
-DJML,Logistics Solution Provider,Services,Services,Transport Services
+DJML,,,,
 DKEGL,Packaging,Industrials,Capital Goods,Industrial Products
 DLF,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
 DLINKINDIA,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
@@ -2282,7 +2282,7 @@ SYMPHONY,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer 
 SYNCOMF,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 SYNGENE,Healthcare Research Analytics & Technology,Healthcare,Healthcare,Healthcare Services
 SYNOPTICS,IT Enabled Services,Information Technology,Information Technology,IT - Services
-SYRMA,,,,
+SYRMA,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 SYSTANGO,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 TAC,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 TAINWALCHM,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
