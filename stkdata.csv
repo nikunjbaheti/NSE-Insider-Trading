@@ -483,28 +483,28 @@ CHEMPLASTS,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 CHENNPETRO,Refineries & Marketing,Energy,Oil Gas & Consumable Fuels,Petroleum Products
 CHEVIOT,Jute & Jute Products,Commodities,Forest Materials,Paper Forest & Jute Products
 CHOICEIN,Holding Company,Financial Services,Financial Services,Finance
-CHOLAFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
+CHOLAFIN,,,,
 CHOLAHLDNG,Investment Company,Financial Services,Financial Services,Finance
 CIEINDIA,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 CIGNITITEC,IT Enabled Services,Information Technology,Information Technology,IT - Services
-CINELINE,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-CINEVISTA,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
+CINELINE,,,,
+CINEVISTA,,,,
 CIPLA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 CLEAN,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-CLEDUCATE,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
-CLOUD,Other Telecom Services,Telecommunication,Telecommunication,Telecom - Services
-CLSEL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-CLSL,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
-CMMIPL,Civil Construction,Industrials,Construction,Construction
-CMNL,Sponge Iron,Commodities,Metals & Mining,Ferrous Metals
-CMRSL,Advertising & Media Agencies,Consumer Discretionary,Media Entertainment & Publication,Media
-CMSINFO,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
+CLEDUCATE,,,,
+CLOUD,,,,
+CLSEL,,,,
+CLSL,,,,
+CMMIPL,,,,
+CMNL,,,,
+CMRSL,,,,
+CMSINFO,,,,
 COALINDIA,Coal,Energy,Oil Gas & Consumable Fuels,Consumable Fuels
-COASTCORP,Seafood,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-COCHINSHIP,Ship Building & Allied Services,Industrials,Capital Goods,Industrial Manufacturing
-COFFEEDAY,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
+COASTCORP,,,,
+COCHINSHIP,,,,
+COFFEEDAY,,,,
 COFORGE,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-COLPAL,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
+COLPAL,,,,
 COMMITTED,Logistics Solution Provider,Services,Services,Transport Services
 COMMOIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 COMPUSOFT,Education,Consumer Discretionary,Consumer Services,Other Consumer Services
