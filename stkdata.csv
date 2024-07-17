@@ -321,9 +321,9 @@ BANG,Garments & Apparels,Consumer Discretionary,Textiles,Textiles & Apparels
 BANKA,Civil Construction,Industrials,Construction,Construction
 BANKBARODA,Public Sector Bank,Financial Services,Financial Services,Banks
 BANKBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-BANKBETF,,,,
+BANKBETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-BANKETFADD,,,,
+BANKETFADD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BANKINDIA,Public Sector Bank,Financial Services,Financial Services,Banks
 BANKNIFTY1,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -332,13 +332,13 @@ BANSWRAS,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Appar
 BARBEQUE,Restaurants,Consumer Discretionary,Consumer Services,Leisure Services
 BASF,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 BASILIC,Media & Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-BASML,,,,
+BASML,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 BATAINDIA,Footwear,Consumer Discretionary,Consumer Durables,Consumer Durables
 BAWEJA,Film Production Distribution & Exhibition,Consumer Discretionary,Media Entertainment & Publication,Entertainment
 BAYERCROP,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
 BBETF0432,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BBL,Other Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-BBNPNBETF,,,,
+BBNPNBETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BBNPPGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 BBOX,IT Enabled Services,Information Technology,Information Technology,IT - Services
 BBTC,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
@@ -504,7 +504,7 @@ CONFIPET,LPG/CNG/PNG/LNG Supplier,Energy,Oil Gas & Consumable Fuels,Gas
 CONS,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 CONSOFINVT,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
 CONSUMBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-CONSUMIETF,,,,
+CONSUMIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 CONTI,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 CONTROLPR,Computers Hardware & Equipments,Information Technology,Information Technology,IT - Hardware
 CORALFINAC,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
@@ -706,7 +706,7 @@ EUROBOND,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial P
 EUROTEXIND,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 EVEREADY,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Household Products
 EVERESTIND,Other Construction Materials,Commodities,Construction Materials,Other Construction Materials
-EVINDIA,,,,
+EVINDIA,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 EXCEL,Trading & Distributors,Services,Services,Commercial Services & Supplies
 EXCELINDUS,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 EXICOM,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
