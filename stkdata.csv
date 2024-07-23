@@ -553,7 +553,7 @@ DBCORP,Print Media,Consumer Discretionary,Media Entertainment & Publication,Medi
 DBL,Civil Construction,Industrials,Construction,Construction
 DBOL,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
 DBREALTY,Residential Commercial Projects,Consumer Discretionary,Realty,Realty
-DBSTOCKBRO,Stockbroking & Allied,Financial Services,Financial Services,Capital Markets
+DBSTOCKBRO,,,,
 DCAL,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 DCBBANK,Private Sector Bank,Financial Services,Financial Services,Banks
 DCG,Cables - Electricals,Industrials,Capital Goods,Industrial Products
