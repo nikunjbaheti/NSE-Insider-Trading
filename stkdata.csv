@@ -339,10 +339,10 @@ BBOX,IT Enabled Services,Information Technology,Information Technology,IT - Serv
 BBTC,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 BBTCL,Packaging,Industrials,Capital Goods,Industrial Products
 BCLIND,Edible Oil,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-BCONCEPTS,Speciality Retail,Consumer Discretionary,Consumer Services,Retailing
+BCONCEPTS,,,,
 BDL,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 BEACON,Other Financial Services,Financial Services,Financial Services,Finance
-BEARDSELL,Other Industrial Products,Industrials,Capital Goods,Industrial Products
+BEARDSELL,,,,
 BECTORFOOD,Packaged Foods,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 BEDMUTHA,Iron & Steel Products,Industrials,Capital Goods,Industrial Products
 BEL,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
@@ -350,7 +350,7 @@ BEML,Construction Vehicles,Industrials,Capital Goods,Agricultural Commercial & C
 BEPL,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 BERGEPAINT,Paints,Consumer Discretionary,Consumer Durables,Consumer Durables
 BESTAGRO,Pesticides & Agrochemicals,Commodities,Chemicals,Fertilizers & Agrochemicals
-BETA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
+BETA,,,,
 BEWLTD,Industrial Products,Industrials,Capital Goods,Industrial Manufacturing
 BFINVEST,Holding Company,Financial Services,Financial Services,Finance
 BFSI,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
@@ -390,7 +390,7 @@ BLUEDART,Logistics Solution Provider,Services,Services,Transport Services
 BLUEJET,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 BLUEPEBBLE,Diversified Commercial Services,Services,Services,Commercial Services & Supplies
 BLUESTARCO,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
-BMETRICS,Trading & Distributors,Services,Services,Commercial Services & Supplies
+BMETRICS,,,,
 BODALCHEM,Dyes And Pigments,Commodities,Chemicals,Chemicals & Petrochemicals
 BOMDYEING,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 BOROLTD,Glass - Consumer,Consumer Discretionary,Consumer Durables,Consumer Durables
