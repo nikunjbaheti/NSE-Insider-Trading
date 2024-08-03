@@ -255,11 +255,11 @@ AURDIS,Breweries & Distilleries,Fast Moving Consumer Goods,Fast Moving Consumer 
 AURIONPRO,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 AUROIMPEX,Other Industrial Products,Industrials,Capital Goods,Industrial Products
 AUROPHARMA,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-AURUM,IT Enabled Services,Information Technology,Information Technology,IT - Services
-AURUMPP1,IT Enabled Services,Information Technology,Information Technology,IT - Services
+AURUM,,,,
+AURUMPP1,,,,
 AUSOMENT,Gems Jewellery And Watches,Consumer Discretionary,Consumer Durables,Consumer Durables
-AUTOAXLES,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
-AUTOBEES,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
+AUTOAXLES,,,,
+AUTOBEES,,,,
 AUTOIETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 AUTOIND,Auto Components & Equipments,Consumer Discretionary,Automobile and Auto Components,Auto Components
 AVADHSUGAR,Sugar,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
@@ -268,7 +268,7 @@ AVANTEL,Aerospace & Defense,Industrials,Capital Goods,Aerospace & Defense
 AVANTIFEED,Animal Feed,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
 AVG,Logistics Solution Provider,Services,Services,Transport Services
 AVONMORE,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-AVPINFRA,Civil Construction,Industrials,Construction,Construction
+AVPINFRA,,,,
 AVROIND,Plastic Products - Consumer,Consumer Discretionary,Consumer Durables,Consumer Durables
 AVSL,Plastic Products - Industrial,Industrials,Capital Goods,Industrial Products
 AVTNPL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
@@ -409,7 +409,7 @@ BRNL,Civil Construction,Industrials,Construction,Construction
 BROOKS,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 BSE,Exchange and Data Platform,Financial Services,Financial Services,Capital Markets
 BSE500IETF,,,,
-BSHSL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
+BSHSL,,,,
 BSL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
 BSLGOLDETF,,,,
 BSLNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
