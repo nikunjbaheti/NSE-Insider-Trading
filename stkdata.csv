@@ -421,22 +421,22 @@ BRNL,Civil Construction,Industrials,Construction,Construction
 BROOKS,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
 BSE,Exchange and Data Platform,Financial Services,Financial Services,Capital Markets
 BSE500IETF,,,,
-BSHSL,Other Agricultural Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products
-BSL,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
+BSHSL,,,,
+BSL,,,,
 BSLGOLDETF,,,,
-BSLNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-BSLSENETFG,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-BSOFT,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-BTML,Digital Entertainment,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-BURNPUR,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
+BSLNIFTY,,,,
+BSLSENETFG,,,,
+BSOFT,,,,
+BTML,,,,
+BURNPUR,,,,
 BUTTERFLY,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
-BVCL,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
-BYKE,Hotels & Resorts,Consumer Discretionary,Consumer Services,Leisure Services
-CADSYS,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Services,Commercial Services & Supplies
-CALSOFT,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
-CAMLINFINE,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-CAMPUS,Footwear,Consumer Discretionary,Consumer Durables,Consumer Durables
-CAMS,Depositories Clearing Houses and Other Intermediaries,Financial Services,Financial Services,Capital Markets
+BVCL,,,,
+BYKE,,,,
+CADSYS,,,,
+CALSOFT,,,,
+CAMLINFINE,,,,
+CAMPUS,,,,
+CAMS,,,,
 CANARYS,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 CANBK,Public Sector Bank,Financial Services,Financial Services,Banks
 CANFINHOME,Housing Finance Company,Financial Services,Financial Services,Finance
@@ -1245,7 +1245,7 @@ KEI,Cables - Electricals,Industrials,Capital Goods,Industrial Products
 KEL,Consumer Electronics,Consumer Discretionary,Consumer Durables,Consumer Durables
 KELLTONTEC,Computers - Software & Consulting,Information Technology,Information Technology,IT - Software
 KERNEX,Transport Related Services,Services,Services,Transport Services
-KESORAMIND,,,,
+KESORAMIND,Cement & Cement Products,Commodities,Construction Materials,Cement & Cement Products
 KEYFINSERV,Other Financial Services,Financial Services,Financial Services,Finance
 KFINTECH,Depositories Clearing Houses and Other Intermediaries,Financial Services,Financial Services,Capital Markets
 KHADIM,Footwear,Consumer Discretionary,Consumer Durables,Consumer Durables
