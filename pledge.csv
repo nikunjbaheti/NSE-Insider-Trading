@@ -285,7 +285,7 @@ Consolidated Finvest & Holdings Limited,    74.89,0,     0.00
 Container Corporation Of India Limited,    54.80,0,     0.00
 Coral India Finance & Housing Limited,    75.00,0,     0.00
 Cords Cable Industries Limited,    51.92,0,     0.00
-Coromandel International Limited,    57.31,12000,     0.01
+Coromandel International Limited,    57.32,12000,     0.01
 Country Condo's Limited,    53.86,0,     0.00
 Cox & Kings Financial Service Limited,    51.72,12615400,    33.48
 Creative Eye Limited,    56.26,0,     0.00
@@ -343,7 +343,7 @@ Dish TV India Limited,     4.04,8689621,    11.68
 Divi's Laboratories Limited,    51.90,0,     0.00
 Dixon Technologies (India) Limited,    33.24,0,     0.00
 Donear Industries Limited,    74.56,0,     0.00
-Dr. Reddy's Laboratories Limited,    26.83,0,     0.00
+Dr. Reddy's Laboratories Limited,    26.82,0,     0.00
 Dredging Corporation of India Limited,    73.47,0,     0.00
 Ducon Infratechnologies Limited,    51.97,0,     0.00
 Dwarikesh Sugar Industries Limited,    42.09,0,     0.00
@@ -368,7 +368,7 @@ Elgi Rubber Company Limited,    65.03,0,     0.00
 Emami Limited,    54.84,26883449,    11.23
 Emami Paper Mills Limited,    74.97,0,     0.00
 Emkay Global Financial Services Limited,    74.27,0,     0.00
-Emmbi Industries Limited,    59.83,0,     0.00
+Emmbi Industries Limited,    58.38,0,     0.00
 Energy Development Company Limited,    58.14,0,     0.00
 Engineers India Limited,    51.32,0,     0.00
 Entertainment Network (India) Limited,    71.15,0,     0.00
@@ -415,8 +415,8 @@ Future Lifestyle Fashions Limited,    20.48,40968074,    99.12
 Future Market Networks Limited,    65.31,36750000,    97.78
 Future Retail Limited,    14.31,24162063,    31.14
 Future Supply Chain Solutions Limited,    21.95,9632685,   100.00
-GACM Technologies Limited,     8.27,0,     0.00
 GACM Technologies Limited,     0.16,0,     0.00
+GACM Technologies Limited,     8.27,0,     0.00
 GAIL (India) Limited,    52.28,0,     0.00
 GB Global Limited,    99.95,4,     0.00
 GE Power India Limited,    68.58,0,     0.00
@@ -503,7 +503,7 @@ Gujarat State Petronet Limited,    37.63,0,     0.00
 Gulf Oil Lubricants India Limited,    71.76,0,     0.00
 HBL Power Systems Limited,    59.11,0,     0.00
 HCL Infosystems Limited,    62.89,0,     0.00
-HCL Technologies Limited,    61.09,0,     0.00
+HCL Technologies Limited,    60.95,,
 HDFC Bank Limited,    13.52,0,     0.00
 HEC Infra Projects Limited,    73.20,0,     0.00
 HEG Limited,    55.78,0,     0.00
@@ -596,7 +596,7 @@ Indo Count Industries Limited,    58.74,0,     0.00
 Indo Rama Synthetics (India) Limited,    74.84,0,     0.00
 Indo Tech Transformers Limited,    75.00,4686000,    58.83
 Indo Thai Securities Limited,    72.18,0,     0.00
-Indo-National Limited,    65.35,90000,     3.67
+Indo-National Limited,    65.35,0,     0.00
 Indoco Remedies Limited,    58.79,0,     0.00
 Indosolar Limited,    96.15,0,     0.00
 Indowind Energy Limited,    50.76,0,     0.00
@@ -1002,7 +1002,7 @@ Prime Securities Limited,     0.00,0,
 Prince Pipes And Fittings Limited,    60.94,400,     0.00
 Prism Johnson Limited,    74.87,0,     0.00
 Pritish Nandy Communications Limited,    54.84,0,     0.00
-Privi Speciality Chemicals Limited,    72.72,0,     0.00
+Privi Speciality Chemicals Limited,    74.05,0,     0.00
 Procter & Gamble Health Limited,    51.82,0,     0.00
 Procter & Gamble Hygiene and Health Care Limited,    70.64,0,     0.00
 Prozone Realty Limited,    24.02,0,     0.00
@@ -1038,7 +1038,7 @@ Ramco Industries Limited,    54.81,1840000,     3.87
 Ramco Systems Limited,    51.79,0,     0.00
 Ramkrishna Forgings Limited,    43.25,4500000,     5.76
 Ramky Infrastructure Limited,    69.81,12412171,    25.70
-Rana Sugars Limited,    22.65,0,     0.00
+Rana Sugars Limited,    22.64,0,     0.00
 Rane (Madras) Limited,    72.65,0,     0.00
 Rane Brake Lining Limited,    70.93,0,     0.00
 Rane Engine Valve Limited,    58.32,0,     0.00
@@ -1236,7 +1236,7 @@ Suryoday Small Finance Bank Limited,    22.39,5340000,    22.45
 Sutlej Textiles and Industries Limited,    63.96,0,     0.00
 Suumaya Industries Limited,    20.38,0,     0.00
 Suven Life Sciences Limited,    70.27,0,     0.00
-Suzlon Energy Limited,    13.27,0,     0.00
+Suzlon Energy Limited,    14.50,1460861456,    80.77
 Swan Energy Limited,    53.96,31121000,    18.40
 Swaraj Engines Limited,    52.12,0,     0.00
 Swelect Energy Systems Limited,    56.37,0,     0.00
@@ -1277,8 +1277,8 @@ Tata Communications Limited,    58.86,0,     0.00
 Tata Consultancy Services Limited,    71.77,7160000,     0.28
 Tata Elxsi Limited,    43.92,0,     0.00
 Tata Investment Corporation Limited,    73.38,0,     0.00
-Tata Motors Limited,     7.67,0,     0.00
 Tata Motors Limited,    46.36,0,     0.00
+Tata Motors Limited,     7.67,0,     0.00
 Tata Power Company Limited,    46.86,0,     0.00
 Tata Steel Limited,    33.19,0,     0.00
 Tata Teleservices (Maharashtra) Limited,    74.36,0,     0.00
@@ -1300,7 +1300,7 @@ The Anup Engineering Limited,    41.24,0,     0.00
 The Byke Hospitality Ltd,    42.83,0,     0.00
 The Federal Bank  Limited,     1.01,0,     0.00
 The Great Eastern Shipping Company Limited,    30.07,0,     0.00
-The Hi-Tech Gears Limited,    56.26,0,     0.00
+The Hi-Tech Gears Limited,    56.23,0,     0.00
 The India Cements Limited,    28.43,41800957,    47.45
 The Indian Hotels Company Limited,    38.12,0,     0.00
 The Jammu & Kashmir Bank Limited,    59.40,0,     0.00
