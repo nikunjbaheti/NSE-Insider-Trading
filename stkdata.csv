@@ -291,19 +291,19 @@ AXISCETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Market
 AXISGOLD,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 AXISHCETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
 AXISILVER,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-AXISNIFTY,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-AXISTECETF,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-AXITA,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-AXSENSEX,Mutual Fund Scheme,Financial Services,Financial Services,Capital Markets
-AYMSYNTEX,Other Textile Products,Consumer Discretionary,Textiles,Textiles & Apparels
-AZAD,Heavy Electrical Equipment,Industrials,Capital Goods,Electrical Equipment
-BABAFP,Other Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products
-BAFNAPH,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
-BAGFILMS,TV Broadcasting & Software Production,Consumer Discretionary,Media Entertainment & Publication,Entertainment
-BAHETI,Aluminium Copper & Zinc Products,Industrials,Capital Goods,Industrial Products
-BAIDFIN,Non Banking Financial Company (NBFC),Financial Services,Financial Services,Finance
-BAJAJ-AUTO,2/3 Wheelers,Consumer Discretionary,Automobile and Auto Components,Automobiles
-BAJAJCON,Personal Care,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Personal Products
+AXISNIFTY,,,,
+AXISTECETF,,,,
+AXITA,,,,
+AXSENSEX,,,,
+AYMSYNTEX,,,,
+AZAD,,,,
+BABAFP,,,,
+BAFNAPH,,,,
+BAGFILMS,,,,
+BAHETI,,,,
+BAIDFIN,,,,
+BAJAJ-AUTO,,,,
+BAJAJCON,,,,
 BAJAJELEC,Household Appliances,Consumer Discretionary,Consumer Durables,Consumer Durables
 BAJAJFINSV,Holding Company,Financial Services,Financial Services,Finance
 BAJAJHCARE,Pharmaceuticals,Healthcare,Healthcare,Pharmaceuticals & Biotechnology
@@ -478,7 +478,7 @@ CHEMBOND,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 CHEMCON,Specialty Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 CHEMFAB,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
 CHEMPLASTS,Commodity Chemicals,Commodities,Chemicals,Chemicals & Petrochemicals
-CHENNPETRO,Refineries & Marketing,Energy,Oil Gas & Consumable Fuels,Petroleum Products
+CHENNPETRO,,,,
 CHETANA,Printing & Publication,Consumer Discretionary,Media Entertainment & Publication,Printing & Publication
 CHEVIOT,Jute & Jute Products,Commodities,Forest Materials,Paper Forest & Jute Products
 CHOICEIN,Holding Company,Financial Services,Financial Services,Finance
